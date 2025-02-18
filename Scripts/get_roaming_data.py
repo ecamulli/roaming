@@ -9,7 +9,7 @@ from pandas import json_normalize
 today_date = datetime.now().strftime("%Y-%m-%d")
 
 # Define your save directory
-output_dir = r"C:/Python Path/Roaming/History"  # Use raw string (r"") to avoid escape character issues
+output_dir = r"C:/Users/EricCamulli/Roaming/History" 
 
 # Ensure the directory exists
 os.makedirs(output_dir, exist_ok=True)  # This won't create anything if the folder already exists
