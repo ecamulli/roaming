@@ -1,9 +1,9 @@
 {
-    "latest_driver_version": "23.110.0 (Latest)",
-    "purpose": "The 23.110.0 package installs the Windows\u00ae 10 or Windows 11* Wi-Fi drivers for the following Intel\u00ae Wireless Adapters:",
+    "latest_driver_version": "23.120.0 (Latest)",
+    "purpose": "The 23.120.0 package installs the Windows\u00ae 10 or Windows 11* Wi-Fi drivers for the following Intel\u00ae Wireless Adapters:",
     "additional_info": [
-        "Windows 10 64-bit/ Windows 11",
-        ""
+        "Windows\u00ae 10 64-bit/ Windows 11*",
+        "Notes"
     ],
-    "supported_adapters": "23.110.0.5for BE202, BE201, BE200, AX411, AX211, AX210, AX203, AX201, AX200, AX101, 9560, 9462, 9461, 9260"
+    "supported_adapters": ""
 }
