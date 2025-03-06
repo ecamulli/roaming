@@ -1,9 +1,0 @@
-{
-    "latest_driver_version": "23.120.0 (Latest)",
-    "purpose": "The 23.120.0 package installs the Windows\u00ae 10 or Windows 11* Wi-Fi drivers for the following Intel\u00ae Wireless Adapters:",
-    "additional_info": [
-        "Windows\u00ae 10 64-bit/ Windows 11*",
-        "Notes"
-    ],
-    "supported_adapters": ""
-}
