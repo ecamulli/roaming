@@ -3321,7 +3321,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.100.0.4",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":null
+        "Driver Vintage":"2024-11-10"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 23.50.0.6",
@@ -4653,7 +4653,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"22.70.0.6",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2021-06-28"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.20.1.1",
