@@ -921,7 +921,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":98.8,
-        "Driver Vintage":null
+        "Driver Vintage":"2025-02-05"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6",
@@ -2493,7 +2493,7 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":null
+        "Driver Vintage":"2025-02-05"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.110.0.5",
@@ -3345,7 +3345,7 @@
         "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter",
         "Driver":"2.0.0.1193",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":null
+        "Driver Vintage":"2024-06-02"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.100.1.1",
@@ -3513,7 +3513,7 @@
         "Adapter":"Killer Wireless-n\/a\/ac 1535 Wireless Network Adapter",
         "Driver":"12.0.0.1118",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":null
+        "Driver Vintage":"2021-06-14"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.250.10.1",
@@ -3573,7 +3573,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":null
+        "Driver Vintage":"2025-02-05"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.30.0.11",
@@ -3645,7 +3645,7 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"23.70.2.3",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":null
+        "Driver Vintage":"2024-07-23"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.10.0.7",
@@ -4065,7 +4065,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560",
         "Driver":"20.40.0.4",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2018-02-05"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 - 20.90.0.7",
@@ -4221,7 +4221,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.110.0.5",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2025-01-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.120.0.9",
@@ -4689,7 +4689,7 @@
         "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter",
         "Driver":"1.0.0.1671",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2024-05-30"
     },
     {
         "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1229",
@@ -4701,7 +4701,7 @@
         "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter",
         "Driver":"2.0.0.1229",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2024-08-26"
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.4.0.1088",
@@ -5001,7 +5001,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.150.3.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2022-08-29"
     },
     {
         "Adapter-Driver":"Intel(R) Centrino(R) Ultimate-N 6300 AGN - 15.18.0.1",
