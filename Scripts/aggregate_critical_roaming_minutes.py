@@ -3,8 +3,8 @@ import pandas as pd
 import json
 
 # Define input and output directories
-input_directory = r"C:/Python Path/Roaming/History"
-output_directory = r"C:/Python Path/Roaming"
+input_directory = "History"
+output_directory = "Output"
 output_file = os.path.join(output_directory, "aggregated_critical_roaming_minutes.json")
 
 # Initialize total
