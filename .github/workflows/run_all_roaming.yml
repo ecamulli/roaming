@@ -45,15 +45,12 @@ jobs:
       run: |
         python Scripts/aggregate_critical_roaming_minutes.py
 
-    - name: Set up Chrome and ChromeDriver
+    - name: Set up Chromium and ChromeDriver
       run: |
         sudo apt-get update
-        sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4 libnss3 libasound2 fonts-liberation libappindicator1 xdg-utils
-        sudo apt-get install -y chromium-browser
-        wget https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.129/linux64/chromedriver-linux64.zip
-        unzip chromedriver-linux64.zip
-        sudo mv chromedriver-linux64/chromedriver /usr/local/bin/
-        sudo chmod +x /usr/local/bin/chromedriver 
+        sudo apt-get install -y chromium-browser chromium-chromedriver
+        sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/local/bin/chromedriver
+
     
     - name: Run get_latest_intel_driver.py
       run: |
