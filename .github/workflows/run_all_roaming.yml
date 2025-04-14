@@ -39,3 +39,13 @@ jobs:
         git add History/*.csv
         git commit -m "📈 Add roaming report for $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
+
+    - name: Run aggregate_roaming_data.py
+      run: |
+        python Scripts/aggregate_roaming_data.py
+
+    - name: Commit and push next CSV to repo
+      run: |
+        git add Output/*.csv
+        git commit -m "📈 Add aggregated roaming data for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
