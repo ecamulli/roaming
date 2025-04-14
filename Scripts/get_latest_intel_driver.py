@@ -7,17 +7,17 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
-# Find the driver
-service = Service()
-
 # Set up Chrome options (headless mode)
 options = Options()
 options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--log-level=3")  # Suppress logs
 
-# Start ChromeDriver process
-service = Service(driver_path)
+# Start ChromeDriver (auto-located in GitHub Actions)
+service = Service()
 driver = webdriver.Chrome(service=service, options=options)
+
 
 # Open the Intel Wi-Fi drivers page
 url = "https://www.intel.com/content/www/us/en/download/19351/intel-wireless-wi-fi-drivers-for-windows-10-and-windows-11.html"
