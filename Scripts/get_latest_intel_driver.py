@@ -7,8 +7,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
-# Path to ChromeDriver executable
-driver_path = "C:/Drivers/chromedriver-win64/chromedriver.exe"
+# Find the driver
+service = Service()
 
 # Set up Chrome options (headless mode)
 options = Options()
@@ -89,7 +89,7 @@ df = pd.DataFrame([flattened_data])
 
 # Generate filenames with today's date
 date_str = datetime.today().strftime('%Y-%m-%d')
-csv_filename = f"intel_driver_info.csv"
+csv_filename = "Output/intel_driver_info.csv"
 
 
 # Save to CSV
