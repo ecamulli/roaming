@@ -2,7 +2,7 @@ name: Daily Roaming Script
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 11AM ET = 15:00 UTC
+    - cron: '40 14 * * *'  
 
 jobs:
   run-roaming-script:
