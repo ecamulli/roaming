@@ -4,3 +4,4 @@ tqdm
 openpyxl
 selenium
 beautifulsoup4
+webdriver-manager
