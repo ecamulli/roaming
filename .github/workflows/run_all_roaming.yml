@@ -1,8 +1,9 @@
 name: Daily Roaming Script
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '56 14 * * *'  # 11AM ET = 15:00 UTC
+    - cron: '15 15 * * *'  # 11:15AM ET
 
 jobs:
   run-roaming-script:
