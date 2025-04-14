@@ -6,6 +6,10 @@ import glob
 folder_path = "C:/Python Path/Roaming/History"  # Change this to your target folder path
 output_path = "C:/Python Path/Roaming" #Save aggregated data file here
 
+# Define a list of unwanted values dynamically
+unwanted_values = ['N/A', 'nan', 'Wi-Fi - 16.0 (1657)', 'Fi - 16.0 (1657)', 'Wi-Fi  (0x14E4, 0x4387) - 16.0 (1657)','iwlwifi', 'ath10k_pci', 'rtw89_8852be', 'Intel Corporation Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak] [8086:2526] (rev 29) - iwlwifi', 'Intel Corporation Wireless-AC 9260 [8086:2526] (rev 29) - iwlwifi'
+]
+
 def combine_and_aggregate_roaming_data(folder_path):
     # Get all CSV files in the folder that start with "roaming_data"
     files = glob.glob(os.path.join(folder_path, "roaming_data*.csv"))
@@ -21,10 +25,11 @@ def combine_and_aggregate_roaming_data(folder_path):
     for file in files:
         try:
             df = pd.read_csv(file)
+           
             # Ensure 'Good Roaming Calculation (%)' is cleaned and converted to float
             df['Good Roaming Calculation (%)'] = df['Good Roaming Calculation (%)'].str.replace('%', '').astype(float)
             dataframes.append(df)
-            print(f"Loaded: {file}")
+            #print(f"Loaded: {file}")
         except Exception as e:
             print(f"Error reading {file}: {e}")
 
@@ -33,9 +38,15 @@ def combine_and_aggregate_roaming_data(folder_path):
 
     # Ensure 'Adapter-Driver' is treated as a string and fill NaN values with an empty string
     combined_df['Adapter-Driver'] = combined_df['Adapter-Driver'].astype(str).fillna('')
+    combined_df['Adapter'] = combined_df['Adapter'].astype(str).fillna('')
+    combined_df['Driver'] = combined_df['Driver'].astype(str).fillna('')
 
-    # Remove rows where Adapter-Driver is "N/A" or "iwlwifi" or "NaN"
-    combined_df = combined_df[~combined_df['Adapter-Driver'].isin(['N/A', 'nan', 'iwlwifi'])]
+
+    # Remove rows where Adapter-Driver column contains any of the unwanted values
+    combined_df = combined_df[~combined_df['Adapter-Driver'].isin(unwanted_values)]
+
+    # Remove rows where Driver contains any of the unwanted values
+    combined_df = combined_df[~combined_df['Driver'].isin(unwanted_values)]
 
     # Remove rows where Adapter-Driver starts with a number
     combined_df = combined_df[~combined_df['Adapter-Driver'].str.match(r'^\d')]
@@ -48,6 +59,11 @@ def combine_and_aggregate_roaming_data(folder_path):
         'Client Count': 'sum',
         'Total Sum': 'sum'
     })
+
+    # Merge back the Adapter and Driver columns (keeping first occurrence for each Adapter-Driver)
+    aggregated_df = aggregated_df.merge(combined_df[['Adapter-Driver', 'Adapter', 'Driver']].drop_duplicates(),
+                                        on='Adapter-Driver', how='left')
+
 
     # Recalculate 'Good Roaming Calculation (%)'
     aggregated_df['Good Roaming Calculation (%)'] = (aggregated_df['Good Sum'] / aggregated_df['Total Sum']) * 100
@@ -68,15 +84,15 @@ def combine_and_aggregate_roaming_data(folder_path):
     # Remove rows where 'Total Sum' is less than 10,000
     aggregated_df = aggregated_df[aggregated_df['Total Sum'] >= 10000]
 
-    # Format back as percentage strings
-    # aggregated_df['Good Roaming Calculation (%)'] = aggregated_df['Good Roaming Calculation (%)'].map(lambda x: f"{x:.2f}%")
+    
 
     # Output file path
     output_file = os.path.join(output_path, "aggregated_roaming_data.csv")
 
     # Save the aggregated data to a new CSV file
     aggregated_df.to_csv(output_file, index=False)
-    print(f"Aggregated data saved to: {output_file}")
+    print(f"✅ Daily data aggregated and successfully saved to: {output_file}")
+    print()
 
 # Run the function
 combine_and_aggregate_roaming_data(folder_path)
