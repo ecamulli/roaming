@@ -3,8 +3,8 @@ import os
 import glob
 
 # Specify the folder containing the roaming_data files
-folder_path = "C:/Python Path/Roaming/History"  # Change this to your target folder path
-output_path = "C:/Python Path/Roaming" #Save aggregated data file here
+folder_path = "History"  # Change this to your target folder path
+output_path = "Output" #Save aggregated data file here
 
 # Define a list of unwanted values dynamically
 unwanted_values = ['N/A', 'nan', 'Wi-Fi - 16.0 (1657)', 'Fi - 16.0 (1657)', 'Wi-Fi  (0x14E4, 0x4387) - 16.0 (1657)','iwlwifi', 'ath10k_pci', 'rtw89_8852be', 'Intel Corporation Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak] [8086:2526] (rev 29) - iwlwifi', 'Intel Corporation Wireless-AC 9260 [8086:2526] (rev 29) - iwlwifi'
