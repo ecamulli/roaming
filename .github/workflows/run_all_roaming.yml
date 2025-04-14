@@ -67,4 +67,16 @@ jobs:
         git add Output/*.csv Output/*.json
         git commit -m "📊 Add daily, aggregated, merged, and manufacturer stats for $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
-    
+
+    - name: Copy data.json to wi-fi-adapter-search
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'Output/data.json'
+        destination_repo: 'your-username/wi-fi-adapter-search'
+        destination_folder: 'data'
+        user_email: 'eric.camulli@7signal.com'
+        user_name: 'ecamulli'
+        commit_message: 'Automated update of data.json from roaming repo'
+
