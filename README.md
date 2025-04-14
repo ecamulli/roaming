@@ -1,16 +1,16 @@
 Steps to Getting Data for Dashboard
 
-1.	C:\Python Path\Roaming\get_roaming_data.py
+1.	get_roaming_data_fast.py
 
-2.	C:\Python Path\Roaming\aggregate_roaming_data.py
+2.	aggregate_roaming_data.py
 
-3.	C:\Python Path\Roaming\merge_with_vintage.py
+3.	get_driver_vintage.py
 
-4.	C:\Python Path\Roaming\get_driver_vintage.py
+	The result is merged_roaming_analysis_with_vintage.csv
 
-	The result is merged_roaming_analysis_with_vintage.csv		# Feeds list and chart
+5.	merge_with_vintage.py
 
-5.	C:\Python Path\Roaming\latest_intel_driver.py			# Returns intel_driver_info.json - Feeds Intel panel
+6.	calculate_manufacturers_and_samples.py
 
-	Fourth panel, Manufacturers, determined by ChatGPT when analyzing merged_roaming_analysis_with_vintage.csv
+7.	get_latest_intel_driver.py
 
