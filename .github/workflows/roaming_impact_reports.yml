@@ -1,0 +1,47 @@
+name: Weekly Roaming Impact Reports
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'  # Every Monday at 9:00 AM ET
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  analyze-drivers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install openpyxl tqdm requests
+
+    - name: Run find_bad_drivers_per_acct.py
+      run: |
+        python Scripts/find_bad_drivers_per_acct.py
+
+    - name: Run find_good_drivers_per_acct.py
+      run: |
+        python Scripts/find_good_drivers_per_acct.py
+
+    - name: Set up Git identity
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Commit and push driver reports
+      run: |
+        git add Output/bad_drivers_per_acct/*.csv
+        git add Output/roaming_impact_reports_per_acct/*.xlsx
+        git commit -m "📊 Weekly driver report update for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
