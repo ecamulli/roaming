@@ -17,18 +17,18 @@ to_timestamp = int(now_local.timestamp() * 1000)
 from_timestamp = int((now_local - timedelta(days=30)).timestamp() * 1000)
 
 # Define your save directory
-output_dir = r"C:/Python Path/Roaming/Bad Drivers Per Account"
+output_dir = "Output/bad_drivers_per_acct"
 os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists
 
 # Driver vintage source file
-merged_roaming_analysis_file = r"C:/Python Path/Roaming/merged_roaming_analysis_with_vintage.csv"
+merged_roaming_analysis_file = "Output/merged_roaming_analysis_with_vintage.csv"
 
 # API URLs
 ROAMING_URL = f"https://api-v2.7signal.com/kpis/agents/adapter-drivers?from={from_timestamp}&to={to_timestamp}&type=ROAMING&includeClientCount=true"
 AUTH_URL = 'https://api-v2.7signal.com/oauth2/token'
 
 # Excel file containing customer details
-EXCEL_PATH = "C:/Python Path/Customer_Data.xlsx"
+EXCEL_PATH = "Customer_Data.xlsx"
 
 # Read customer credentials and account names
 customers_df = pd.read_excel(EXCEL_PATH)
