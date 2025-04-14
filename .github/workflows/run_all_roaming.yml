@@ -74,7 +74,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_file: 'Output/data.json'
-        destination_repo: 'your-username/wi-fi-adapter-search'
+        destination_repo: 'ecamulli/wi-fi-adapter-search'
         destination_folder: 'data'
         user_email: 'eric.camulli@7signal.com'
         user_name: 'ecamulli'
