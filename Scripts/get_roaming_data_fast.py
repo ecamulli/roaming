@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 today_date = datetime.now().strftime("%Y-%m-%d")
 
 # Define your save directory
-output_dir = r"C:/Python Path/Roaming/History"
+output_dir = r"roaming/History/"
 os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists
 
 # Define output filename
@@ -21,7 +21,7 @@ ROAMING_URL = 'https://api-v2.7signal.com/kpis/agents/adapter-drivers?type=ROAMI
 AUTH_URL = 'https://api-v2.7signal.com/oauth2/token'
 
 # Excel file containing customer details
-EXCEL_PATH = "C:/Python Path/Customer_Data.xlsx"
+EXCEL_PATH = "roaming/Customer_Data.xlsx"
 
 # Read customer credentials
 customers_df = pd.read_excel(EXCEL_PATH)
