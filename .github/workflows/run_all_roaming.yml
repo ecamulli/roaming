@@ -1,16 +1,19 @@
-name: Daily Roaming Script
+name: Run All Roaming Scripts
 
 on:
-  workflow_dispatch:
-  #schedule:
-  #  - cron: '15 15 * * *'  # 11:15AM ET
+  workflow_dispatch:          # allows manual trigger
+  schedule:
+    - cron: '45 14 * * *'     # runs daily at 10:45 AM ET (14:45 UTC)
+
+permissions:
+  contents: write             # required to commit changes to the repo
 
 jobs:
-  run-roaming-script:
+  run-scripts:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Checkout repo
       uses: actions/checkout@v3
 
     - name: Set up Python
@@ -25,3 +28,14 @@ jobs:
     - name: Run get_roaming_data_fast.py
       run: |
         python Scripts/get_roaming_data_fast.py
+
+    - name: Set up Git identity
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Commit and push CSV to repo
+      run: |
+        git add roaming/History/*.csv
+        git commit -m "📈 Add roaming report for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
