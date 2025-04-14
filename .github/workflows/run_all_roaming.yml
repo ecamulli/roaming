@@ -75,7 +75,7 @@ jobs:
       with:
         source_file: 'Output/data.json'
         destination_repo: 'ecamulli/wi-fi-adapter-search'
-        destination_folder: 'data'
+        destination_folder: '.'
         user_email: 'eric.camulli@7signal.com'
         user_name: 'ecamulli'
         commit_message: 'Automated update of data.json from roaming repo'
