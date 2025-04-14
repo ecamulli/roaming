@@ -47,9 +47,9 @@ def sum_total_sum(input_file, output_file):
     print(f"✅ Total samples data successfully saved to: {total_samples_output_file}")
 
 # Define file paths
-input_file = "merged_roaming_analysis_with_vintage.csv"
-manufacturers_output_file = "manufacturers.csv"
-total_samples_output_file = "total_samples.csv"
+input_file = "Output/merged_roaming_analysis_with_vintage.csv"
+manufacturers_output_file = "Output/manufacturers.csv"
+total_samples_output_file = "Output/total_samples.csv"
 
 # Run the functions
 calculate_manufacturers(input_file, manufacturers_output_file)
