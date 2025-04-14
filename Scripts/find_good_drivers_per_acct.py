@@ -6,9 +6,9 @@ from openpyxl.styles import Font, numbers, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
 # Paths
-account_history_dir = r"C:/Python Path/Roaming/Bad Drivers Per Account"
-merged_file_path = r"C:/Python Path/Roaming/merged_roaming_analysis_with_vintage.csv"
-output_dir = r"C:/Python Path/Roaming/Roaming Impact Reports Per Account"
+account_history_dir = "Output/bad_drivers_per_acct"
+merged_file_path = "Output/merged_roaming_analysis_with_vintage.csv"
+output_dir = "Output/roaming_impact_reports_per_acct"
 
 # Ensure output directory exists
 os.makedirs(output_dir, exist_ok=True)
