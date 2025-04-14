@@ -59,4 +59,8 @@ jobs:
         git add Output/*.csv Output/*.json
         git commit -m "📈 Add aggregated roaming data merged with vintage for $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
+
+    - name: Run calculate_manufacturers_and_samples.py
+      run: |
+        python Scripts/calculate_manufacturers_and_samples.py
     
