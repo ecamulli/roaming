@@ -1,0 +1,400 @@
+Adapter,Driver,Adapter-Driver,Good Sum,Critical Sum,Warning Sum,Client Count,Total Sum,Good Roaming Calculation (%)
+Intel(R) Wi-Fi 6 AX201 160MHz,22.130.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 22.130.0.5,18638,17,55,42,18710,99.9%
+Intel(R) Wireless-AC 9560 160MHz,23.90.0.2,Intel(R) Wireless-AC 9560 160MHz - 23.90.0.2,145209,134,19,183,145362,99.9%
+Intel(R) Wireless-AC 9560 160MHz,23.60.1.2,Intel(R) Wireless-AC 9560 160MHz - 23.60.1.2,96894,135,52,146,97081,99.9%
+Intel(R) Wireless-AC 9560 160MHz,23.40.1.1,Intel(R) Wireless-AC 9560 160MHz - 23.40.1.1,804,1,2,1,807,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.100.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.100.0.4,11371,9,32,17,11412,99.9%
+Intel(R) Wireless-AC 9560 160MHz,23.40.0.4,Intel(R) Wireless-AC 9560 160MHz - 23.40.0.4,26925,31,24,34,26980,99.9%
+Intel(R) Wireless-AC 9560 160MHz,23.30.0.6,Intel(R) Wireless-AC 9560 160MHz - 23.30.0.6,6117,7,1,11,6125,99.9%
+Intel(R) Wireless-AC 9560 160MHz,23.20.1.1,Intel(R) Wireless-AC 9560 160MHz - 23.20.1.1,4961,7,8,8,4976,99.9%
+Intel(R) Wireless-AC 9560 160MHz,22.30.0.11,Intel(R) Wireless-AC 9560 160MHz - 22.30.0.11,3958,4,0,6,3962,99.9%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.60.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.60.0.6,1092,1,1,3,1094,99.9%
+Intel(R) Wireless-AC 9560 160MHz,22.240.0.6,Intel(R) Wireless-AC 9560 160MHz - 22.240.0.6,8519,5,20,12,8544,99.9%
+Intel(R) Wireless-AC 9560 160MHz,22.170.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3,3979,2,1,8,3982,99.9%
+Intel(R) Wireless-AC 9560 160MHz,22.160.0.4,Intel(R) Wireless-AC 9560 160MHz - 22.160.0.4,50995,73,2,72,51070,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.70.2.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.70.2.3,1387,1,13,5,1401,99.9%
+Intel(R) Wireless-AC 9560 160MHz,21.20.1.1,Intel(R) Wireless-AC 9560 160MHz - 21.20.1.1,110055,158,344,177,110557,99.9%
+Intel(R) Wireless-AC 9560 160MHz,21.110.1.1,Intel(R) Wireless-AC 9560 160MHz - 21.110.1.1,8147,6,5,13,8158,99.9%
+Intel(R) Wireless-AC 9260 160MHz,23.50.0.6,Intel(R) Wireless-AC 9260 160MHz - 23.50.0.6,8040,8,1,10,8049,99.9%
+Intel(R) Wireless-AC 9260 160MHz,22.90.0.5,Intel(R) Wireless-AC 9260 160MHz - 22.90.0.5,34657,43,14,43,34714,99.9%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.240.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 22.240.0.6,7277,5,8,18,7290,99.9%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.250.10.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.10.1,6327,4,0,35,6331,99.9%
+Intel(R) Wi-Fi 7 BE200 320MHz,23.90.0.2,Intel(R) Wi-Fi 7 BE200 320MHz - 23.90.0.2,1527,1,0,3,1528,99.9%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.90.1.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.1.3,41166,53,125,64,41344,99.9%
+Intel(R) Dual Band Wireless-AC 8265,22.130.0.5,Intel(R) Dual Band Wireless-AC 8265 - 22.130.0.5,9615,14,211,14,9840,99.9%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,12267,17,3,38,12287,99.9%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.120.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.120.0.3,3967,2,1,13,3970,99.9%
+Intel(R) Wireless-AC 9560 160MHz,23.80.0.7,Intel(R) Wireless-AC 9560 160MHz - 23.80.0.7,34573,45,10,91,34628,99.9%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.60.0.10,Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.0.10,1535,2,0,4,1537,99.9%
+Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC,2024.10.138.0,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.138.0,1961,2,0,3,1963,99.9%
+Intel(R) Dual Band Wireless-AC 3165,19.51.40.1,Intel(R) Dual Band Wireless-AC 3165 - 19.51.40.1,3992,5,8,5,4005,99.9%
+Intel(R) Dual Band Wireless-AC 8260,20.70.3.3,Intel(R) Dual Band Wireless-AC 8260 - 20.70.3.3,20034,17,15,31,20066,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.90.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 21.90.2.1,5536,8,3,8,5547,99.9%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.135.0,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.135.0,1359,2,0,7,1361,99.9%
+MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter,3.3.0.800,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.800,852,1,0,2,853,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.220.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.220.0.4,9208,9,20,22,9237,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,12180,11,3,22,12194,99.9%
+Intel(R) Dual Band Wireless-AC 3165,22.130.0.5,Intel(R) Dual Band Wireless-AC 3165 - 22.130.0.5,1410,2,1,2,1413,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.170.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.0.3,13710,18,9,31,13737,99.9%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.80.0.7,Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.0.7,18084,13,9,59,18106,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.10.2.2,Intel(R) Wi-Fi 6 AX201 160MHz - 21.10.2.2,1498,1,0,3,1499,99.9%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.60.0.10,Intel(R) Wi-Fi 6 AX200 160MHz - 23.60.0.10,1938,1,0,15,1939,99.9%
+Qualcomm QCA61x4A 802.11ac Wireless Adapter,12.0.0.1118,Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.1118,19287,25,47,25,19359,99.9%
+Fi 6 AX201 160MHz #3,N/A,Fi 6 AX201 160MHz #3 - N/A,2036,3,2,8,2041,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.80.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.80.1.1,8067,9,5,14,8081,99.9%
+Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W),22.250.0.4,Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 22.250.0.4,1183,1,0,2,1184,99.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.80.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 21.80.2.1,9492,18,14,33,9524,99.8%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.30.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 23.30.0.6,10548,17,24,26,10589,99.8%
+Intel(R) Dual Band Wireless-AC 8265,22.160.0.4,Intel(R) Dual Band Wireless-AC 8265 - 22.160.0.4,19494,35,89,26,19618,99.8%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.250.1.2,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.1.2,3668,7,19,15,3694,99.8%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.20.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.1.1,116901,188,547,310,117636,99.8%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.50.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 23.50.0.6,14472,33,24,39,14529,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.200.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.2.1,62018,122,286,166,62426,99.8%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.190.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 22.190.0.4,3690,6,0,5,3696,99.8%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.170.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 22.170.0.3,3405,6,2,5,3413,99.8%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.160.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.3,11113,17,23,38,11153,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.230.0.8,Intel(R) Wi-Fi 6 AX201 160MHz - 22.230.0.8,16401,31,272,55,16704,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,19207,31,11,57,19249,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.110.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 21.110.2.1,437,1,2,1,440,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.40.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.1.1,1611,4,0,4,1615,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.250.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.0.4,13417,32,4,27,13453,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.40.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.40.0.7,67401,141,67,185,67609,99.8%
+Intel(R) Dual Band Wireless-AC 8265,20.70.4.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.4.2,64341,132,44,76,64517,99.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.90.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 22.90.0.5,5415,10,5,8,5430,99.8%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.70.2.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.70.2.3,2086,4,0,12,2090,99.8%
+Intel(R) Dual Band Wireless-AC 8265,20.70.30.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.30.1,38080,93,194,75,38367,99.8%
+Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W),23.90.0.2,Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.90.0.2,9667,20,14,22,9701,99.8%
+Intel(R) Dual Band Wireless-AC 8260,20.70.11.3,Intel(R) Dual Band Wireless-AC 8260 - 20.70.11.3,1667,3,8,2,1678,99.8%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.149.100,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.149.100,119518,217,61,171,119796,99.8%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.149.0,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.149.0,411,1,0,2,412,99.8%
+MediaTek Wi-Fi 6 MT7921 Wireless LAN Card,24.40.2.575,MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 24.40.2.575,8763,20,7,31,8790,99.8%
+Intel(R) Wireless-AC 9260 160MHz,22.170.0.3,Intel(R) Wireless-AC 9260 160MHz - 22.170.0.3,15286,30,11,19,15327,99.8%
+Intel(R) Wireless-AC 9260 160MHz,22.220.0.4,Intel(R) Wireless-AC 9260 160MHz - 22.220.0.4,4284,7,0,6,4291,99.8%
+Fi 6 AX201 160MHz #4,N/A,Fi 6 AX201 160MHz #4 - N/A,659,1,1,2,661,99.8%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.80.1.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.1.3,846,2,0,4,848,99.8%
+Marvell AVASTAR Wireless-AC Network Controller,15.68.17022.122,Marvell AVASTAR Wireless-AC Network Controller - 15.68.17022.122,1330,2,0,8,1332,99.8%
+Intel(R) Dual Band Wireless-AC 3168,19.51.30.1,Intel(R) Dual Band Wireless-AC 3168 - 19.51.30.1,825,2,13,1,840,99.8%
+MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter,3.3.0.897,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.897,1179,2,15,4,1196,99.8%
+Fi,16.0 (1657),Fi - 16.0 (1657),54242,132,254,338,54628,99.8%
+Intel(R) Dual Band Wireless-AC 7265,19.51.27.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.27.1,1666,5,9,2,1680,99.7%
+Intel(R) Dual Band Wireless-AC 8265,20.70.3.3,Intel(R) Dual Band Wireless-AC 8265 - 20.70.3.3,13331,44,23,20,13398,99.7%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.40.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.1.1,667,2,0,3,669,99.7%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.120.0.3,5493,17,67,9,5577,99.7%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.0.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.0.6,10478,32,3,15,10513,99.7%
+Intel(R) Wireless-AC 9560 160MHz,21.30.3.2,Intel(R) Wireless-AC 9560 160MHz - 21.30.3.2,628,2,0,3,630,99.7%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.110.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 21.110.1.1,54572,143,82,118,54797,99.7%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.10.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.10.0.7,20657,59,113,49,20829,99.7%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.20.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.20.0.6,7915,25,4,10,7944,99.7%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,388608,1312,942,806,390862,99.7%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.100.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 23.100.0.4,7962,26,2,12,7990,99.7%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.250.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.0.4,10686,31,0,29,10717,99.7%
+Intel(R) Wireless-AC 9260 160MHz,22.30.0.11,Intel(R) Wireless-AC 9260 160MHz - 22.30.0.11,4944,16,8,6,4968,99.7%
+Intel(R) Dual Band Wireless-AC 8260,22.110.0.2,Intel(R) Dual Band Wireless-AC 8260 - 22.110.0.2,49974,142,18,65,50134,99.7%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.90.1.3,Intel(R) Wi-Fi 6E AX210 160MHz - 23.90.1.3,3959,10,1,7,3970,99.7%
+Intel(R) Dual Band Wireless-AC 8260,20.70.30.1,Intel(R) Dual Band Wireless-AC 8260 - 20.70.30.1,15382,39,74,31,15495,99.7%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.200.2.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.200.2.1,33875,130,29,99,34034,99.6%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.141.0,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.141.0,222,1,0,2,223,99.6%
+Intel(R) Dual Band Wireless-AC 7265,19.51.40.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.40.1,7034,30,12,10,7076,99.6%
+"Wi-Fi  (0x14E4, 0x4387)",16.0 (1657),"Wi-Fi  (0x14E4, 0x4387) - 16.0 (1657)",1333,5,19,5,1357,99.6%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.60.1.2,Intel(R) Wi-Fi 6 AX200 160MHz - 23.60.1.2,48529,178,41,69,48748,99.6%
+Intel(R) Dual Band Wireless-AC 8265,22.110.0.2,Intel(R) Dual Band Wireless-AC 8265 - 22.110.0.2,32097,118,32,43,32247,99.6%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.190.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.190.0.4,13649,54,55,50,13758,99.6%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.60.1.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.1.2,368395,1552,1283,1013,371230,99.6%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,136491,502,307,408,137300,99.6%
+Intel(R) Dual Band Wireless-AC 7260,17.15.0.5,Intel(R) Dual Band Wireless-AC 7260 - 17.15.0.5,8293,38,11,11,8342,99.5%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.110.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5,13647,72,275,43,13994,99.5%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.90.0.2,Intel(R) Wi-Fi 6 AX200 160MHz - 23.90.0.2,70199,319,193,88,70711,99.5%
+MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter,3.0.1.1317,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1317,197,1,5,4,203,99.5%
+Intel(R) Dual Band Wireless-AC 7265,19.51.37.2,Intel(R) Dual Band Wireless-AC 7265 - 19.51.37.2,1523,9,148,2,1680,99.5%
+Intel(R) Wireless-AC 9560 160MHz,22.250.1.2,Intel(R) Wireless-AC 9560 160MHz - 22.250.1.2,21449,108,43,33,21600,99.5%
+Intel(R) Dual Band Wireless-AC 8260,20.70.32.1,Intel(R) Dual Band Wireless-AC 8260 - 20.70.32.1,17224,91,381,28,17696,99.5%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.190.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.190.0.4,4680,25,7,13,4712,99.5%
+Intel(R) Dual Band Wireless-AC 8265,20.90.0.100,Intel(R) Dual Band Wireless-AC 8265 - 20.90.0.100,783,4,80,1,867,99.5%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.110.0.5,Intel(R) Wi-Fi 6E AX211 160MHz - 23.110.0.5,146842,700,419,457,147961,99.5%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.20.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1,68966,396,654,176,70016,99.4%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.50.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.50.0.6,14915,83,14,26,15012,99.4%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.60.0.10,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.0.10,5368,35,347,22,5750,99.4%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,336894,2104,1229,690,340227,99.4%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.140.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.140.0.3,1871,12,5,7,1888,99.4%
+Android,N/A,N/A,2757337,17608,8554,5234,2783499,99.4%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.100.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.1.1,1415,8,0,4,1423,99.4%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.250.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.1.2,166670,1247,1503,487,169420,99.3%
+Intel(R) Dual Band Wireless-AC 8265,20.70.21.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.21.2,14466,102,512,30,15080,99.3%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.160.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.3,73264,540,602,227,74406,99.3%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,360861,2454,1856,1024,365171,99.3%
+Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter,1.0.0.1694,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1694,3794,25,2,8,3821,99.3%
+Intel(R) Wireless-AC 9462,22.70.0.6,Intel(R) Wireless-AC 9462 - 22.70.0.6,714,5,1,1,720,99.3%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.180.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.180.0.4,4847,38,274,10,5159,99.3%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.60.1.2,12062,87,39,34,12188,99.3%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.110.0.5,Intel(R) Wi-Fi 6 AX200 160MHz - 23.110.0.5,1972,17,230,5,2219,99.2%
+MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter,3.4.0.1088,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.4.0.1088,470,4,0,5,474,99.2%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,39008,318,157,145,39483,99.2%
+Realtek RTL8822CE 802.11ac PCIe Adapter,2024.10.229.0,Realtek RTL8822CE 802.11ac PCIe Adapter - 2024.10.229.0,120,1,1,1,122,99.2%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.130.0.5,Intel(R) Wi-Fi 6E AX211 160MHz - 22.130.0.5,30327,265,48,108,30640,99.1%
+Intel(R) Wi-Fi 6E AX210 160MHz,22.250.1.2,Intel(R) Wi-Fi 6E AX210 160MHz - 22.250.1.2,230,2,0,1,232,99.1%
+Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC,2024.10.139.3,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.3,2774,28,29,5,2831,99.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,9329,92,3,20,9424,99.0%
+Linux,iwlwifi,iwlwifi,42451,431,217,72,43099,99.0%
+Intel Corporation Wireless-AC 9260 [8086:2526] (rev 29),iwlwifi,Intel Corporation Wireless-AC 9260 [8086:2526] (rev 29) - iwlwifi,10478,105,34,17,10617,99.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.250.10.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.10.1,12722,130,553,35,13405,99.0%
+MediaTek Wi-Fi 6 MT7921 Wireless LAN Card,3.0.1.1314,MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 3.0.1.1314,2622,27,3,8,2652,99.0%
+Intel(R) Dual Band Wireless-AC 8265,20.70.24.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.24.1,2052,22,4,3,2078,98.9%
+TP-Link Wireless USB Adapter,1030.38.712.2019,TP-Link Wireless USB Adapter - 1030.38.712.2019,914,10,2,2,926,98.9%
+Intel(R) Dual Band Wireless-AC 8265,20.70.18.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.18.2,8958,97,68,18,9123,98.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.10.0.8,Intel(R) Wi-Fi 6 AX201 160MHz - 23.10.0.8,3464,37,7,12,3508,98.9%
+Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter,6001.10.356.1,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.1,26190,281,32,68,26503,98.9%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.120.1.9,Intel(R) Wi-Fi 6 AX200 160MHz - 22.120.1.9,12540,139,52,17,12731,98.9%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.200.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.0.6,3040,38,16,6,3094,98.8%
+Intel(R) Dual Band Wireless-AC 8265,20.50.3.3,Intel(R) Dual Band Wireless-AC 8265 - 20.50.3.3,6070,79,67,9,6216,98.7%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.110.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.110.1.1,35292,487,524,87,36303,98.7%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.240.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.240.0.6,1790,28,18,2,1836,98.5%
+Intel(R) Dual Band Wireless-AC 8265,20.70.16.4,Intel(R) Dual Band Wireless-AC 8265 - 20.70.16.4,2910,48,29,4,2987,98.4%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,102097,1808,247,301,104152,98.3%
+Intel(R) Dual Band Wireless-AC 8265,20.70.27.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.27.1,5576,100,89,9,5765,98.3%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.30.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6,70090,1261,338,185,71689,98.2%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.170.2.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.170.2.1,81813,1544,396,281,83753,98.2%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.170.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.2.1,157918,2981,1967,465,162866,98.2%
+Intel(R) Dual Band Wireless-AC 8265,20.70.32.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1,29488,605,116,54,30209,98.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.0.1.5,Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.1.5,5701,120,130,9,5951,98.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.42.2,Intel(R) Dual Band Wireless-AC 7265 - 19.51.42.2,16472,337,234,38,17043,98.0%
+MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter,3.3.0.824,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.824,349,8,0,1,357,97.8%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.160.3.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.3.2,1872,43,14,3,1929,97.8%
+Qualcomm Atheros AR9580 Wireless Network Adapter,3.0.2.201,Qualcomm Atheros AR9580 Wireless Network Adapter - 3.0.2.201,1302,35,7,3,1344,97.4%
+Intel(R) Wireless-AC 9260 160MHz,23.40.0.4,Intel(R) Wireless-AC 9260 160MHz - 23.40.0.4,803,26,4,1,833,96.9%
+Intel(R) Dual Band Wireless-AC 8265,20.70.17.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.17.1,195,7,4,1,206,96.6%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.220.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.220.1.1,1843,76,132,4,2051,96.3%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.170.0.3,Intel(R) Wi-Fi 6 AX200 160MHz - 22.170.0.3,504,21,9,3,534,96.1%
+Intel(R) Dual Band Wireless-AC 7265,19.51.48.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.48.1,2840,121,28,4,2989,96.0%
+Qualcomm Atheros AR9580 Wireless Network Adapter,10.1.10.5,Qualcomm Atheros AR9580 Wireless Network Adapter - 10.1.10.5,546,24,16,1,586,95.9%
+Intel(R) Dual Band Wireless-AC 7265,19.51.12.3,Intel(R) Dual Band Wireless-AC 7265 - 19.51.12.3,953,49,1,2,1003,95.1%
+Intel(R) Dual Band Wireless-AC 7265,22.110.0.2,Intel(R) Dual Band Wireless-AC 7265 - 22.110.0.2,762,45,86,1,893,95.0%
+Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter,1030.44.822.2023,Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter - 1030.44.822.2023,15287,856,149,19,16292,94.7%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3,4783,466,143,16,5392,91.4%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.200.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 22.200.0.6,48,5,3,2,56,91.1%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.150.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.0.3,5850,779,1,12,6630,88.3%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.155.1,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.155.1,5959,1283,167,13,7409,82.7%
+MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter,3.0.1.1327,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1327,34,0,0,3,34,100.0%
+Intel,23.40.1.1,23.40.1.1,712,0,0,1,712,100.0%
+Intel(R) Dual Band Wireless-AC 3168,19.51.21.1,Intel(R) Dual Band Wireless-AC 3168 - 19.51.21.1,7028,0,1,9,7029,100.0%
+NETGEAR A8000 WiFi 6 & 6E Adapter,1.0.0.108,NETGEAR A8000 WiFi 6 & 6E Adapter - 1.0.0.108,256,0,0,1,256,100.0%
+802.11ac Wireless LAN Card,5.1.22.0,802.11ac Wireless LAN Card - 5.1.22.0,237,0,0,1,237,100.0%
+Intel,23.80.0.7,23.80.0.7,2085,0,0,4,2085,100.0%
+802.11n Wireless PCI Express Card LAN Adapter,5.0.57.1,802.11n Wireless PCI Express Card LAN Adapter - 5.0.57.1,840,0,0,1,840,100.0%
+MediaTek Wi-Fi 6 MT7921 Wireless LAN Card,23.32.2.560,MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 23.32.2.560,551,0,0,1,551,100.0%
+Intel(R) Dual Band Wireless-AC 3160,18.33.17.1,Intel(R) Dual Band Wireless-AC 3160 - 18.33.17.1,1679,0,0,2,1679,100.0%
+RZ616 Wi-Fi 6E 160MHz,24.34.2.567,RZ616 Wi-Fi 6E 160MHz - 24.34.2.567,13,0,0,1,13,100.0%
+Intel(R) Centrino(R) Ultimate-N 6300 AGN,15.18.0.1,Intel(R) Centrino(R) Ultimate-N 6300 AGN - 15.18.0.1,840,0,0,1,840,100.0%
+MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter,3.3.0.908,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.908,1604,0,0,2,1604,100.0%
+RZ616 Wi-Fi 6E 160MHz,23.32.2.560,RZ616 Wi-Fi 6E 160MHz - 23.32.2.560,170,0,0,1,170,100.0%
+Intel(R) Dual Band Wireless-AC 7260,18.33.15.1,Intel(R) Dual Band Wireless-AC 7260 - 18.33.15.1,920,0,0,1,920,100.0%
+MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter,3.0.1.1303,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1303,4,0,0,1,4,100.0%
+MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter,3.0.1.1297,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1297,112,0,0,3,112,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.80.0.9,Intel(R) Wireless-AC 9560 160MHz - 22.80.0.9,272,0,0,1,272,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.80.1.1,Intel(R) Wireless-AC 9560 160MHz - 22.80.1.1,838,0,0,1,838,100.0%
+Intel(R) Wireless-AC 9560 160MHz,23.110.0.5,Intel(R) Wireless-AC 9560 160MHz - 23.110.0.5,2660,0,0,6,2660,100.0%
+Intel(R) Wireless-AC 9560 160MHz,23.120.0.3,Intel(R) Wireless-AC 9560 160MHz - 23.120.0.3,837,0,0,1,837,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.47.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.47.1,60,0,0,1,60,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.31.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.31.1,835,0,0,1,835,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.30.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.30.1,3346,1,0,4,3347,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.29.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.29.1,164,0,0,1,164,100.0%
+Intel(R) Wireless-AC 9560 160MHz,23.90.1.3,Intel(R) Wireless-AC 9560 160MHz - 23.90.1.3,435,0,0,1,435,100.0%
+Intel(R) Dual Band Wireless-AC 7260,18.33.17.1,Intel(R) Dual Band Wireless-AC 7260 - 18.33.17.1,5040,1,0,7,5041,100.0%
+Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W),23.20.1.1,Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.20.1.1,452,0,0,3,452,100.0%
+Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W),23.60.1.2,Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.60.1.2,942,0,0,2,942,100.0%
+Intel(R) Dual Band Wireless-AC 7260,18.33.16.2,Intel(R) Dual Band Wireless-AC 7260 - 18.33.16.2,3709,0,0,6,3709,100.0%
+Killer(R) Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW),23.90.0.2,Killer(R) Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW) - 23.90.0.2,775,0,0,2,775,100.0%
+Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW),22.70.0.6,Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW) - 22.70.0.6,1205,0,0,1,1205,100.0%
+Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW),23.60.1.2,Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW) - 23.60.1.2,4,0,0,1,4,100.0%
+AC 8265 #2,N/A,AC 8265 #2 - N/A,698,0,0,2,698,100.0%
+Fi 6 AX201 160MHz,N/A,Fi 6 AX201 160MHz - N/A,840,0,0,1,840,100.0%
+Fi 6 AX201 160MHz #2,N/A,Fi 6 AX201 160MHz #2 - N/A,5778,0,0,14,5778,100.0%
+Intel(R) Dual Band Wireless-AC 7260,18.33.14.3,Intel(R) Dual Band Wireless-AC 7260 - 18.33.14.3,1678,0,0,2,1678,100.0%
+Fi 6E AX211 160MHz #2,N/A,Fi 6E AX211 160MHz #2 - N/A,75,0,0,1,75,100.0%
+Linux,ath10k_pci,ath10k_pci,632,0,0,1,632,100.0%
+Linux,rtw89_8852be,rtw89_8852be,130,0,0,1,130,100.0%
+Intel Corporation Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak] [8086:2526] (rev 29),iwlwifi,Intel Corporation Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak] [8086:2526] (rev 29) - iwlwifi,699,0,0,1,699,100.0%
+Intel(R) Dual Band Wireless-AC 3168,19.51.40.1,Intel(R) Dual Band Wireless-AC 3168 - 19.51.40.1,744,0,0,1,744,100.0%
+MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter,3.0.1.1216,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1216,1541,0,0,1,1541,100.0%
+MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter,3.0.1.1255,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1255,60,0,0,2,60,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.50.1.6,Intel(R) Dual Band Wireless-AC 7265 - 19.50.1.6,337,0,0,1,337,100.0%
+Qualcomm QCA61x4A 802.11ac Wireless Adapter,12.0.0.722,Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.722,368,0,0,3,368,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.15.3,Intel(R) Dual Band Wireless-AC 7265 - 19.51.15.3,15172,7,2,19,15181,100.0%
+Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter,6001.10.355.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.355.0,134,0,0,1,134,100.0%
+Edimax AC1750 Wi-Fi USB Adapter,1030.44.1014.2024,Edimax AC1750 Wi-Fi USB Adapter - 1030.44.1014.2024,840,0,0,1,840,100.0%
+Realtek 8811CU Wireless LAN 802.11ac USB NIC,1030.44.1014.2024,Realtek 8811CU Wireless LAN 802.11ac USB NIC - 1030.44.1014.2024,803,0,0,1,803,100.0%
+Intel,20.70.30.1,20.70.30.1,141,0,0,2,141,100.0%
+Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC,2024.10.139.2,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.2,0,0,0,1,0,100.0%
+Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC,2024.10.142.0,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.142.0,63,0,0,1,63,100.0%
+Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC,2024.0.8.135,Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC - 2024.0.8.135,504,0,0,3,504,100.0%
+Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC,2024.10.139.1,Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.1,195,0,0,1,195,100.0%
+Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC,2024.10.139.3,Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.3,9,0,0,1,9,100.0%
+Realtek RTL8822BE 802.11ac PCIe Adapter,2024.0.10.209,Realtek RTL8822BE 802.11ac PCIe Adapter - 2024.0.10.209,840,0,0,1,840,100.0%
+Realtek RTL8822CE 802.11ac PCIe Adapter,2024.10.227.0,Realtek RTL8822CE 802.11ac PCIe Adapter - 2024.10.227.0,921,0,0,1,921,100.0%
+Realtek RTL8822CE 802.11ac PCIe Adapter,2024.10.228.7,Realtek RTL8822CE 802.11ac PCIe Adapter - 2024.10.228.7,840,0,0,1,840,100.0%
+Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter,6001.10.353.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.353.0,2714,0,0,4,2714,100.0%
+Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter,6001.10.356.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.0,953,0,0,2,953,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.8.3,Intel(R) Dual Band Wireless-AC 7265 - 19.51.8.3,515,0,0,1,515,100.0%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.128.0,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.128.0,2515,0,0,4,2515,100.0%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.131.0,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.131.0,18507,7,2,25,18516,100.0%
+V Virtual Ethernet Adapter,N/A,V Virtual Ethernet Adapter - N/A,0,0,0,1,0,100.0%
+"Wi-Fi  (0x14E4, 0x7BF)",16.0 (1657),"Wi-Fi  (0x14E4, 0x7BF) - 16.0 (1657)",271,0,0,1,271,100.0%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.143.0,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.143.0,164,0,0,1,164,100.0%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.145.600,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.145.600,210,0,0,1,210,100.0%
+"Wi-Fi  (0x14E4, 0x4388)",16.0 (1657),"Wi-Fi  (0x14E4, 0x4388) - 16.0 (1657)",4,0,0,1,4,100.0%
+Wi-Fi,16.0 (1657),Wi-Fi - 16.0 (1657),609,0,0,6,609,100.0%
+Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter,6001.15.152.0,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.152.0,12135,0,0,49,12135,100.0%
+Realtek USB GbE Family Controller,N/A,N/A,0,0,0,1,0,100.0%
+Unknown,N/A,N/A,4,0,1,3,5,100.0%
+Dell Wireless 1550 802.11ac,6.30.223.259,Dell Wireless 1550 802.11ac - 6.30.223.259,840,0,0,1,840,100.0%
+Qualcomm QCA61x4A 802.11ac Wireless Adapter #2,N/A,N/A,86,0,0,1,86,100.0%
+Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter,N/A,Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - N/A,964,0,0,1,964,100.0%
+Qualcomm QCA9377 802.11ac Wireless Adapter,12.0.0.953,Qualcomm QCA9377 802.11ac Wireless Adapter - 12.0.0.953,754,0,0,1,754,100.0%
+Qualcomm QCA61x4A 802.11ac Wireless Adapter,12.0.0.926,Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.926,3619,0,5,4,3624,100.0%
+Intel,23.110.0.5,23.110.0.5,781,0,0,4,781,100.0%
+Intel,22.250.1.2,22.250.1.2,95,0,0,1,95,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,21.10.2.2,Intel(R) Wi-Fi 6 AX200 160MHz - 21.10.2.2,150,0,0,1,150,100.0%
+Intel,22.170.0.3,22.170.0.3,733,0,0,1,733,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.10.2.2,Intel(R) Wireless-AC 9560 160MHz - 21.10.2.2,1333,0,0,2,1333,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.80.2.3,Intel(R) Wireless-AC 9560 160MHz - 21.80.2.3,207,0,0,1,207,100.0%
+Microsoft Wi-Fi Direct Virtual Adapter,10.0.22621.1,Microsoft Wi-Fi Direct Virtual Adapter - 10.0.22621.1,0,0,0,1,0,100.0%
+Microsoft Wi-Fi Direct Virtual Adapter,10.0.26100.2454,Microsoft Wi-Fi Direct Virtual Adapter - 10.0.26100.2454,0,0,0,3,0,100.0%
+Microsoft Wi-Fi Direct Virtual Adapter,10.0.26100.3037,Microsoft Wi-Fi Direct Virtual Adapter - 10.0.26100.3037,0,0,0,1,0,100.0%
+Microsoft Wi-Fi Direct Virtual Adapter,10.0.26100.3323,Microsoft Wi-Fi Direct Virtual Adapter - 10.0.26100.3323,0,0,0,1,0,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.40.0.7,Intel(R) Wireless-AC 9560 160MHz - 22.40.0.7,2464,0,0,6,2464,100.0%
+Qualcomm QCA9377 802.11ac Wireless Adapter,12.0.0.697,Qualcomm QCA9377 802.11ac Wireless Adapter - 12.0.0.697,839,0,0,1,839,100.0%
+Realtek 8812BU Wireless LAN 802.11ac USB NIC,1030.38.712.2019,Realtek 8812BU Wireless LAN 802.11ac USB NIC - 1030.38.712.2019,896,0,0,1,896,100.0%
+Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter,1030.38.712.2019,Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter - 1030.38.712.2019,330,0,0,1,330,100.0%
+Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter,1030.38.712.2019,Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter - 1030.38.712.2019,1848,0,0,2,1848,100.0%
+NETGEAR WNA3100 N300 Wireless USB Adapter,5.100.148.5,NETGEAR WNA3100 N300 Wireless USB Adapter - 5.100.148.5,369,0,0,1,369,100.0%
+Killer Wi-Fi 6 AX500-DBS Wireless Network Adapter,1.0.0.1769,Killer Wi-Fi 6 AX500-DBS Wireless Network Adapter - 1.0.0.1769,1174,0,0,2,1174,100.0%
+Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter,1.0.0.1633,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1633,79,0,0,1,79,100.0%
+Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter,1.0.0.1671,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1671,1912,0,0,2,1912,100.0%
+Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter,2.0.0.1229,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1229,356,0,0,4,356,100.0%
+Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter,2.0.0.1277,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1277,0,0,0,1,0,100.0%
+Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter,1.0.4166.1200,Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter - 1.0.4166.1200,127,0,0,1,127,100.0%
+Qualcomm QCA61x4A 802.11ac Wireless Adapter,12.0.0.1016,Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.1016,2750,1,0,6,2751,100.0%
+Intel,21.110.1.1,21.110.1.1,758,0,0,1,758,100.0%
+Qualcomm QCA61x4A 802.11ac Wireless Adapter,12.0.0.1272,Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.1272,9107,1,4,15,9112,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.50.0.7,Intel(R) Wireless-AC 9560 160MHz - 22.50.0.7,22251,4,0,30,22255,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.90.3.2,Intel(R) Wireless-AC 9560 160MHz - 21.90.3.2,1390,0,0,3,1390,100.0%
+Intel(R) Dual Band Wireless-AC 7265,19.51.50.2,Intel(R) Dual Band Wireless-AC 7265 - 19.51.50.2,827,0,0,1,827,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.40.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.0.4,8180,4,7,23,8191,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.20.1.1,Intel(R) Wi-Fi 6E AX210 160MHz - 23.20.1.1,63,0,0,1,63,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.30.0.6,Intel(R) Wi-Fi 6E AX210 160MHz - 23.30.0.6,129,0,0,1,129,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.40.0.4,Intel(R) Wi-Fi 6E AX210 160MHz - 23.40.0.4,128,0,0,2,128,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.60.1.2,Intel(R) Wi-Fi 6E AX210 160MHz - 23.60.1.2,2826,0,0,7,2826,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.80.0.7,Intel(R) Wi-Fi 6E AX210 160MHz - 23.80.0.7,2953,0,2,11,2955,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.90.0.2,Intel(R) Wi-Fi 6E AX210 160MHz - 23.90.0.2,14437,4,1,23,14442,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.100.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.100.1.1,4666,1,0,6,4667,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.110.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.110.1.1,1857,0,0,3,1857,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.150.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.0.3,6,0,0,1,6,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.150.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.1.1,2,0,0,1,2,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.150.3.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.3.1,344,0,0,1,344,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.160.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 22.160.0.4,924,0,0,1,924,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.160.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.4,314,0,0,1,314,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.180.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.180.0.4,84,0,0,1,84,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.110.1.1,Intel(R) Wi-Fi 6 AX200 160MHz - 22.110.1.1,651,0,0,1,651,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.10.0.7,Intel(R) Wi-Fi 6 AX200 160MHz - 22.10.0.7,626,0,0,1,626,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.220.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.220.0.4,543,0,0,2,543,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,22.230.0.8,Intel(R) Wi-Fi 6E AX211 160MHz - 22.230.0.8,15361,1,5,46,15367,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.0.1.1,Intel(R) Wi-Fi 6 AX200 160MHz - 22.0.1.1,324,0,0,1,324,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,21.40.2.2,Intel(R) Wi-Fi 6 AX200 160MHz - 21.40.2.2,344,0,0,1,344,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,21.20.1.1,Intel(R) Wi-Fi 6 AX200 160MHz - 21.20.1.1,670,0,0,1,670,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,21.120.0.9,Intel(R) Wi-Fi 6 AX200 160MHz - 21.120.0.9,1835,0,0,2,1835,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.10.0.8,Intel(R) Wi-Fi 6E AX211 160MHz - 23.10.0.8,4606,2,0,9,4608,100.0%
+Intel(R) Dual Band Wireless-AC 8265,22.30.0.11,Intel(R) Dual Band Wireless-AC 8265 - 22.30.0.11,1936,0,0,3,1936,100.0%
+C LAN,N/A,C LAN - N/A,0,0,0,1,0,100.0%
+Intel(R) Dual Band Wireless-AC 8265,22.0.1.1,Intel(R) Dual Band Wireless-AC 8265 - 22.0.1.1,707,0,0,1,707,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.20.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.0.4,2417,0,0,5,2417,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.120.0.3,Intel(R) Wi-Fi 6E AX210 160MHz - 23.120.0.3,799,0,1,1,800,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,23.110.0.5,Intel(R) Wi-Fi 6E AX210 160MHz - 23.110.0.5,8893,1,1,22,8895,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,22.80.0.9,Intel(R) Wi-Fi 6E AX210 160MHz - 22.80.0.9,87,0,0,1,87,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.20.1.1,Intel(R) Wi-Fi 6 AX200 160MHz - 23.20.1.1,834,0,0,1,834,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.160.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.4,9138,1,1,13,9140,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.0.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.1.1,3509,0,0,6,3509,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.80.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 21.80.0.4,896,0,0,1,896,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.70.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 21.70.0.6,1601,0,0,2,1601,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,21.60.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 21.60.2.1,839,0,0,1,839,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.80.1.3,Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.1.3,3849,1,1,5,3851,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.30.0.11,Intel(R) Wi-Fi 6 AX201 160MHz - 22.30.0.11,13557,5,10,36,13572,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,23.70.2.3,Intel(R) Wi-Fi 6 AX200 160MHz - 23.70.2.3,924,0,0,1,924,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.50.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.50.1.1,490,0,0,2,490,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.60.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.60.0.6,1109,0,0,4,1109,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.70.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.70.0.6,6087,3,7,15,6097,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.80.0.9,Intel(R) Wi-Fi 6 AX201 160MHz - 22.80.0.9,761,0,0,3,761,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.40.0.7,Intel(R) Wi-Fi 6 AX200 160MHz - 22.40.0.7,1816,0,5,3,1821,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,22.70.0.6,Intel(R) Wi-Fi 6E AX210 160MHz - 22.70.0.6,930,0,0,1,930,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.30.0.11,Intel(R) Wi-Fi 6 AX200 160MHz - 22.30.0.11,67,0,0,1,67,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.20.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.0.4,2573,0,0,5,2573,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.250.1.2,Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.1.2,2911,0,0,6,2911,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.250.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.0.4,4977,2,17,6,4996,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.230.0.8,Intel(R) Wi-Fi 6 AX200 160MHz - 22.230.0.8,3717,0,0,7,3717,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.220.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 22.220.0.4,961,0,0,1,961,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.200.2.1,Intel(R) Wi-Fi 6 AX200 160MHz - 22.200.2.1,160,0,0,1,160,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.80.1.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.1.3,2287,0,0,10,2287,100.0%
+Intel(R) Wi-Fi 6 AX200 160MHz,22.200.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.200.0.6,1054,0,0,2,1054,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,23.90.1.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.1.3,1109,0,0,4,1109,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,22.110.1.1,Intel(R) Wi-Fi 6E AX210 160MHz - 22.110.1.1,840,0,0,1,840,100.0%
+Intel(R) Wi-Fi 6E AX210 160MHz,22.250.10.1,Intel(R) Wi-Fi 6E AX210 160MHz - 22.250.10.1,12,0,0,1,12,100.0%
+Intel(R) Dual Band Wireless-AC 8265,21.120.0.9,Intel(R) Dual Band Wireless-AC 8265 - 21.120.0.9,1679,0,0,2,1679,100.0%
+Intel(R) Dual Band Wireless-AC 8265,20.70.9.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.9.1,840,0,0,1,840,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.250.10.1,Intel(R) Wireless-AC 9560 160MHz - 22.250.10.1,840,0,0,1,840,100.0%
+Intel(R) Dual Band Wireless-AC 8265,20.70.5.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.5.2,2771,0,0,3,2771,100.0%
+Intel(R) Dual Band Wireless-AC 8260,22.180.0.4,Intel(R) Dual Band Wireless-AC 8260 - 22.180.0.4,835,0,0,1,835,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.110.2.1,Intel(R) Wireless-AC 9560 160MHz - 21.110.2.1,392,0,0,1,392,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.110.3.2,Intel(R) Wireless-AC 9560 160MHz - 21.110.3.2,439,0,0,1,439,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.120.0.9,Intel(R) Wireless-AC 9560 160MHz - 21.120.0.9,583,0,0,2,583,100.0%
+Intel(R) Dual Band Wireless-AC 8260,20.70.25.2,Intel(R) Dual Band Wireless-AC 8260 - 20.70.25.2,4914,1,1,7,4916,100.0%
+Intel(R) Dual Band Wireless-AC 8260,20.70.21.2,Intel(R) Dual Band Wireless-AC 8260 - 20.70.21.2,252,0,0,1,252,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.40.1.4,Intel(R) Wireless-AC 9560 160MHz - 21.40.1.4,840,0,0,1,840,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.40.2.2,Intel(R) Wireless-AC 9560 160MHz - 21.40.2.2,508,0,0,9,508,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.50.1.1,Intel(R) Wireless-AC 9560 160MHz - 21.50.1.1,3102,0,0,5,3102,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.70.0.6,Intel(R) Wireless-AC 9560 160MHz - 21.70.0.6,446,0,0,2,446,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.80.2.1,Intel(R) Wireless-AC 9560 160MHz - 21.80.2.1,3626,1,3,8,3630,100.0%
+Intel(R) Wi-Fi 6 AX201 160MHz,22.150.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.1.1,1535,0,1,5,1536,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.0.0.6,Intel(R) Wireless-AC 9560 160MHz - 22.0.0.6,26,0,0,1,26,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.10.0.7,Intel(R) Wireless-AC 9560 160MHz - 22.10.0.7,2546,0,0,5,2546,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.110.1.1,Intel(R) Wireless-AC 9560 160MHz - 22.110.1.1,67,0,0,3,67,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.120.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.120.0.3,1066,0,0,2,1066,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.130.0.5,Intel(R) Wireless-AC 9560 160MHz - 22.130.0.5,1044,0,0,3,1044,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.140.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.140.0.3,2819,0,0,4,2819,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.150.1.1,Intel(R) Wireless-AC 9560 160MHz - 22.150.1.1,251,0,0,1,251,100.0%
+Intel(R) Dual Band Wireless-AC 8260,20.70.18.2,Intel(R) Dual Band Wireless-AC 8260 - 20.70.18.2,1141,0,0,2,1141,100.0%
+Intel(R) Dual Band Wireless-AC 8260,20.70.16.4,Intel(R) Dual Band Wireless-AC 8260 - 20.70.16.4,64,0,0,1,64,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.190.0.4,Intel(R) Wireless-AC 9560 160MHz - 22.190.0.4,6,0,0,1,6,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.200.2.1,Intel(R) Wireless-AC 9560 160MHz - 22.200.2.1,2233,0,0,4,2233,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.220.0.4,Intel(R) Wireless-AC 9560 160MHz - 22.220.0.4,3236,0,0,8,3236,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.230.0.8,Intel(R) Wireless-AC 9560 160MHz - 22.230.0.8,1680,0,0,2,1680,100.0%
+Intel(R) Dual Band Wireless-AC 8260,20.70.12.5,Intel(R) Dual Band Wireless-AC 8260 - 20.70.12.5,1520,0,0,2,1520,100.0%
+Intel(R) Wireless-AC 9560 160MHz,22.250.0.4,Intel(R) Wireless-AC 9560 160MHz - 22.250.0.4,20854,9,28,36,20891,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.10.0.5,Intel(R) Wireless-AC 9560 160MHz - 21.10.0.5,1409,0,0,5,1409,100.0%
+Intel(R) Wireless-AC 9560 160MHz,21.0.0.5,Intel(R) Wireless-AC 9560 160MHz - 21.0.0.5,840,0,0,1,840,100.0%
+Intel(R) Wireless-AC 9560 160MHz,20.100.0.4,Intel(R) Wireless-AC 9560 160MHz - 20.100.0.4,845,0,0,2,845,100.0%
+Intel(R) Wireless-AC 9260 160MHz,22.120.0.3,Intel(R) Wireless-AC 9260 160MHz - 22.120.0.3,1891,0,0,3,1891,100.0%
+Intel(R) Wi-Fi 6E AX211 160MHz,23.70.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 23.70.0.6,739,0,0,4,739,100.0%
+Intel(R) Dual Band Wireless-AC 8265,20.70.26.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.26.2,477,0,0,2,477,100.0%
+Intel(R) Dual Band Wireless-AC 8265,20.70.25.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.25.2,21120,7,2,38,21129,100.0%
+Intel(R) Wi-Fi 7 BE200 320MHz,23.30.0.6,Intel(R) Wi-Fi 7 BE200 320MHz - 23.30.0.6,62,0,0,1,62,100.0%
+Intel(R) Wi-Fi 7 BE200 320MHz,23.40.0.4,Intel(R) Wi-Fi 7 BE200 320MHz - 23.40.0.4,127,0,0,1,127,100.0%
+Intel(R) Wi-Fi 7 BE200 320MHz,23.60.1.2,Intel(R) Wi-Fi 7 BE200 320MHz - 23.60.1.2,1217,0,0,2,1217,100.0%
+Intel(R) Wireless-AC 9260,20.70.0.100,Intel(R) Wireless-AC 9260 - 20.70.0.100,563,0,0,1,563,100.0%
+Intel(R) Wireless-AC 9260 160MHz,20.120.0.100,Intel(R) Wireless-AC 9260 160MHz - 20.120.0.100,759,0,0,1,759,100.0%
+Intel(R) Wireless-AC 9260 160MHz,21.110.1.1,Intel(R) Wireless-AC 9260 160MHz - 21.110.1.1,2497,0,0,5,2497,100.0%
+Intel(R) Wireless-AC 9260 160MHz,21.20.1.1,Intel(R) Wireless-AC 9260 160MHz - 21.20.1.1,91,0,0,1,91,100.0%
+Intel(R) Wireless-AC 9260 160MHz,21.50.1.1,Intel(R) Wireless-AC 9260 160MHz - 21.50.1.1,1763,0,0,3,1763,100.0%
+Intel(R) Wireless-AC 9260 160MHz,21.60.0.5,Intel(R) Wireless-AC 9260 160MHz - 21.60.0.5,840,0,0,1,840,100.0%
+Intel(R) Wireless-AC 9260 160MHz,22.160.0.4,Intel(R) Wireless-AC 9260 160MHz - 22.160.0.4,602,0,0,1,602,100.0%
+Intel(R) Wireless-AC 9560,20.30.4.1,Intel(R) Wireless-AC 9560 - 20.30.4.1,1261,0,0,2,1261,100.0%
+Intel(R) Wireless-AC 9260 160MHz,22.180.0.4,Intel(R) Wireless-AC 9260 160MHz - 22.180.0.4,269,0,0,4,269,100.0%
+Intel(R) Dual Band Wireless-AC 8265,20.70.12.5,Intel(R) Dual Band Wireless-AC 8265 - 20.70.12.5,1716,0,0,2,1716,100.0%
+Intel(R) Wireless-AC 9260 160MHz,22.240.0.6,Intel(R) Wireless-AC 9260 160MHz - 22.240.0.6,1173,0,0,2,1173,100.0%
+Intel(R) Wireless-AC 9260 160MHz,22.250.1.2,Intel(R) Wireless-AC 9260 160MHz - 22.250.1.2,13007,4,3,17,13014,100.0%
+Intel(R) Wireless-AC 9260 160MHz,22.40.0.7,Intel(R) Wireless-AC 9260 160MHz - 22.40.0.7,840,0,0,1,840,100.0%
+Intel(R) Dual Band Wireless-AC 8260,22.80.1.1,Intel(R) Dual Band Wireless-AC 8260 - 22.80.1.1,1680,0,0,2,1680,100.0%
+Intel(R) Wireless-AC 9260 160MHz,23.100.0.4,Intel(R) Wireless-AC 9260 160MHz - 23.100.0.4,7577,0,0,10,7577,100.0%
+Intel(R) Wireless-AC 9260 160MHz,23.110.0.5,Intel(R) Wireless-AC 9260 160MHz - 23.110.0.5,1570,0,0,3,1570,100.0%
+Intel(R) Wireless-AC 9260 160MHz,23.120.0.3,Intel(R) Wireless-AC 9260 160MHz - 23.120.0.3,840,0,0,1,840,100.0%
+Intel(R) Dual Band Wireless-AC 8260,22.60.0.6,Intel(R) Dual Band Wireless-AC 8260 - 22.60.0.6,840,0,0,1,840,100.0%
+Intel(R) Wireless-AC 9260 160MHz,23.80.0.7,Intel(R) Wireless-AC 9260 160MHz - 23.80.0.7,1051,0,0,2,1051,100.0%
+Intel(R) Wireless-AC 9462,23.60.1.2,Intel(R) Wireless-AC 9462 - 23.60.1.2,840,0,0,1,840,100.0%
+"Realtek Semiconductor Co., Ltd. RTL8821CE 802.11ac PCIe Wireless Network Adapter (00)",6.8.0-55-generic,"Realtek Semiconductor Co., Ltd. RTL8821CE 802.11ac PCIe Wireless Network Adapter (00) - 6.8.0-55-generic",117,0,0,1,117,100.0%
