@@ -3,7 +3,7 @@ name: Run All Roaming Scripts
 on:
   workflow_dispatch:          # allows manual trigger
   schedule:
-    - cron: '45 14 * * *'     # runs daily at 10:45 AM ET (14:45 UTC)
+    - cron: '00 19 * * *'     # runs daily
 
 permissions:
   contents: write             # required to commit changes to the repo
