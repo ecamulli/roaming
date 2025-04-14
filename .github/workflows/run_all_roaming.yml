@@ -49,3 +49,14 @@ jobs:
         git add Output/*.csv
         git commit -m "📈 Add aggregated roaming data for $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
+
+    -name: Run merge_with_vintage.py
+      run: |
+        python Scripts/merge_with_vintage.py
+
+    - name: Commit and push next CSV to repo
+      run: |
+        git add Output/*.csv
+        git commit -m "📈 Add aggregated roaming data for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
+    
