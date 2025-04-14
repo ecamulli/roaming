@@ -2,3 +2,5 @@ pandas
 requests
 tqdm
 openpyxl
+selenium
+beautifulsoup4
