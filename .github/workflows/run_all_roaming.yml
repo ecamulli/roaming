@@ -41,6 +41,14 @@ jobs:
       run: |
         python Scripts/calculate_manufacturers_and_samples.py
 
+    - name: Run aggregate_critical_roaming_minutes.py
+      run: |
+        python Scripts/aggregate_critical_roaming_minutes.py
+
+    - name: Run get_latest_intel_driver.py
+      run: |
+        python Scripts/get_latest_intel_driver.py
+
     - name: Set up Git identity
       run: |
         git config user.name "github-actions"
