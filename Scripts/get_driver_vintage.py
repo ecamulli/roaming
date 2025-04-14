@@ -10,7 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # Load CSV file
 input_file_path = "aggregated_roaming_data.csv"
-output_file_path = "aggregated_roaming_data_with_vintage.csv"
+output_file_path = "Output/aggregated_roaming_data_with_vintage.csv"
 
 df = pd.read_csv(input_file_path)
 
