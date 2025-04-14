@@ -1,0 +1,48 @@
+name: Monthly Driver Vintage Lookup
+
+on:
+  schedule:
+    - cron: '0 12 15 * *'  # 8:00 AM ET on the 15th of every month
+  workflow_dispatch:        # Allow manual runs too
+
+permissions:
+  contents: write
+
+jobs:
+  driver-vintage-monthly:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install selenium webdriver-manager
+
+    - name: Set up Chromium and ChromeDriver
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser chromium-chromedriver
+        sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/local/bin/chromedriver
+
+    - name: Run get_driver_vintage.py
+      run: |
+        python Scripts/get_driver_vintage.py
+
+    - name: Set up Git identity
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Commit and push updated vintage file
+      run: |
+        git add aggregated_roaming_data_with_vintage.csv
+        git commit -m "📅 Monthly update of driver vintage data for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
