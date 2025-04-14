@@ -36,6 +36,6 @@ jobs:
 
     - name: Commit and push CSV to repo
       run: |
-        git add roaming/History/*.csv
+        git add History/*.csv
         git commit -m "📈 Add roaming report for $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
