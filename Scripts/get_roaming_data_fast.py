@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 today_date = datetime.now().strftime("%Y-%m-%d")
 
 # Define your save directory
-output_dir = r"roaming/History"
+output_dir = r"History"
 os.makedirs(output_dir, exist_ok=True)  # Ensure the directory exists
 
 # Define output filename
