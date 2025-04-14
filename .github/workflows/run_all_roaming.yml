@@ -24,4 +24,4 @@ jobs:
 
     - name: Run get_roaming_data_fast.py
       run: |
-        python roaming/Scripts/get_roaming_data_fast.py
+        python Scripts/get_roaming_data_fast.py
