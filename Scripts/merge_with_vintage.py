@@ -2,13 +2,13 @@ import pandas as pd
 import os
 
 # Define file paths
-file1_path = "aggregated_roaming_data.csv"  # Main dataset
-file2_path = "aggregated_roaming_data_with_vintage.csv"  # Contains Driver Vintage column
+file1_path = "Output/aggregated_roaming_data.csv"  # Main dataset
+file2_path = "Output/aggregated_roaming_data_with_vintage.csv"  # Contains Driver Vintage column
 
 # Define output file paths
-output_csv_path = "C:/Python Path/Roaming/merged_roaming_analysis_with_vintage.csv"
-output_json_path = "C:/Python Path/Roaming/merged_roaming_analysis_with_vintage.json"
-output_data_json_path = "C:/Python Path/Roaming/data.json"
+output_csv_path = "Output/merged_roaming_analysis_with_vintage.csv"
+output_json_path = "Output/merged_roaming_analysis_with_vintage.json"
+output_data_json_path = "Output/data.json"
 
 # Load the CSV files into DataFrames
 df1 = pd.read_csv(file1_path)  # Main data
