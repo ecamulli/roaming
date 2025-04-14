@@ -43,6 +43,6 @@ jobs:
 
     - name: Commit and push updated vintage file
       run: |
-        git add aggregated_roaming_data_with_vintage.csv
+        git add Output/aggregated_roaming_data_with_vintage.csv
         git commit -m "📅 Monthly update of driver vintage data for $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
