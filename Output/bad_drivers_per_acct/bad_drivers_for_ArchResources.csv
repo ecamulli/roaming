@@ -1,0 +1,5 @@
+Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
+ArchResources,intel(r) wi-fi 6e ax210 160mhz,23.60.1.2,Intel(R) Wi-Fi 6E AX210 160MHz - 23.60.1.2,1524,1,12108,87.4
+ArchResources,mediatek wi-fi 6e mt7922 (rz616) 160mhz pcie adapter,3.3.0.908,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.908,2766,1,28912,90.4
+ArchResources,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,886,6,54757,98.4
+ArchResources,intel(r) wi-fi 6 ax201 160mhz,23.10.0.8,Intel(R) Wi-Fi 6 AX201 160MHz - 23.10.0.8,9,1,806,98.9

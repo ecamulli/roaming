@@ -1,0 +1,5 @@
+Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
+Natividad,intel(r) wireless-ac 9560 160mhz,22.130.0.5,Intel(R) Wireless-AC 9560 160MHz - 22.130.0.5,4,3,98,95.9
+Natividad,intel(r) wireless-ac 9560 160mhz,22.170.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3,1,1,44,97.7
+Natividad,intel(r) dual band wireless-ac 8265,20.70.24.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.24.1,1808,5,90755,98.0
+Natividad,intel(r) wi-fi 6 ax201 160mhz,22.160.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.4,5624,9,363367,98.5

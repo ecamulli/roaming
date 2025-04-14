@@ -1,0 +1,5 @@
+Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
+Kingston,realtek rtl8852be wifi 6 802.11ax pcie adapter,6001.15.155.1,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.155.1,79169,18,501434,84.2
+Kingston,fi,16.0 (1657),Fi - 16.0 (1657),6,1,46,87.0
+Kingston,realtek 8821ce wireless lan 802.11ac pci-e nic,2024.10.138.0,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.138.0,1369,3,55874,97.5
+Kingston,realtek 8821ce wireless lan 802.11ac pci-e nic,2024.10.139.3,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.3,1850,5,108109,98.3

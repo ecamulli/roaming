@@ -1,0 +1,4 @@
+Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
+JohnsManville,realtek rtl8852ae wifi 6 802.11ax pcie adapter,6001.10.356.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.0,324,2,6523,95.0
+JohnsManville,qualcomm atheros ar9580 wireless network adapter,3.0.2.201,Qualcomm Atheros AR9580 Wireless Network Adapter - 3.0.2.201,2427,4,65531,96.3
+JohnsManville,qualcomm atheros ar9580 wireless network adapter,10.1.10.5,Qualcomm Atheros AR9580 Wireless Network Adapter - 10.1.10.5,1071,3,29847,96.4
