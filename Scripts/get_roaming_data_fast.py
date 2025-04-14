@@ -21,7 +21,7 @@ ROAMING_URL = 'https://api-v2.7signal.com/kpis/agents/adapter-drivers?type=ROAMI
 AUTH_URL = 'https://api-v2.7signal.com/oauth2/token'
 
 # Excel file containing customer details
-EXCEL_PATH = "roaming/Customer_Data.xlsx"
+EXCEL_PATH = "Customer_Data.xlsx"
 
 # Read customer credentials
 customers_df = pd.read_excel(EXCEL_PATH)
