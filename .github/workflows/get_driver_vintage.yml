@@ -2,7 +2,7 @@ name: Monthly Driver Vintage Lookup
 
 on:
   schedule:
-    - cron: '0 12 15 * *'  # 8:00 AM ET on the 15th of every month
+    - cron: '50 12 15 * *'  # 8:00 AM ET on the 15th of every month
   workflow_dispatch:        # Allow manual runs too
 
 permissions:
