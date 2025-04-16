@@ -37,15 +37,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3",
-        "Good Sum":439705,
-        "Critical Sum":42414,
+        "Good Sum":448762,
+        "Critical Sum":42650,
         "Warning Sum":18728,
-        "Client Count":943,
-        "Total Sum":500847,
+        "Client Count":956,
+        "Total Sum":510140,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.120.0.3",
-        "Good Roaming Calculation (%)":87.8,
-        "Driver Vintage":"2022-01-30"
+        "Good Roaming Calculation (%)":88.0,
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.70.4.1",
@@ -69,7 +69,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.17.1",
         "Good Roaming Calculation (%)":90.6,
-        "Driver Vintage":"2020-04-15"
+        "Driver Vintage":"2024-08-13"
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 23.32.2.560",
@@ -81,7 +81,7 @@
         "Adapter":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
         "Driver":"23.32.2.560",
         "Good Roaming Calculation (%)":92.9,
-        "Driver Vintage":"2023-07-16"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 3.3.3.854",
@@ -109,11 +109,11 @@
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.908",
-        "Good Sum":129780,
-        "Critical Sum":7532,
+        "Good Sum":131466,
+        "Critical Sum":7564,
         "Warning Sum":40,
-        "Client Count":184,
-        "Total Sum":137352,
+        "Client Count":186,
+        "Total Sum":139070,
         "Adapter":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter",
         "Driver":"3.3.0.908",
         "Good Roaming Calculation (%)":94.5,
@@ -181,15 +181,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.1.1",
-        "Good Sum":46503,
-        "Critical Sum":162,
+        "Good Sum":46565,
+        "Critical Sum":165,
         "Warning Sum":1613,
-        "Client Count":60,
-        "Total Sum":48278,
+        "Client Count":61,
+        "Total Sum":48343,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.150.1.1",
         "Good Roaming Calculation (%)":96.3,
-        "Driver Vintage":"2022-06-20"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.130.0.5",
@@ -201,15 +201,15 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.130.0.5",
         "Good Roaming Calculation (%)":96.3,
-        "Driver Vintage":"2022-03-14"
+        "Driver Vintage":"2022-06-20"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 23.40.0.4",
-        "Good Sum":78683,
-        "Critical Sum":2682,
+        "Good Sum":80082,
+        "Critical Sum":2717,
         "Warning Sum":354,
-        "Client Count":85,
-        "Total Sum":81719,
+        "Client Count":86,
+        "Total Sum":83153,
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.40.0.4",
         "Good Roaming Calculation (%)":96.3,
@@ -217,15 +217,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.220.1.1",
-        "Good Sum":1853590,
-        "Critical Sum":48618,
+        "Good Sum":1906419,
+        "Critical Sum":49629,
         "Warning Sum":19627,
-        "Client Count":1651,
-        "Total Sum":1921835,
+        "Client Count":1691,
+        "Total Sum":1975675,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.220.1.1",
-        "Good Roaming Calculation (%)":96.4,
-        "Driver Vintage":"2023-04-02"
+        "Good Roaming Calculation (%)":96.5,
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.12.3",
@@ -237,7 +237,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.12.3",
         "Good Roaming Calculation (%)":96.7,
-        "Driver Vintage":"2018-04-24"
+        "Driver Vintage":"2023-04-02"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.70.2.3",
@@ -249,19 +249,19 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.70.2.3",
         "Good Roaming Calculation (%)":96.8,
-        "Driver Vintage":"2024-07-23"
+        "Driver Vintage":"2018-04-24"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.0.3",
-        "Good Sum":805675,
-        "Critical Sum":23534,
+        "Good Sum":820956,
+        "Critical Sum":23991,
         "Warning Sum":3394,
-        "Client Count":1340,
-        "Total Sum":832603,
+        "Client Count":1369,
+        "Total Sum":848341,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.150.0.3",
         "Good Roaming Calculation (%)":96.8,
-        "Driver Vintage":"2022-05-23"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.27.1",
@@ -285,15 +285,15 @@
         "Adapter":"Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC",
         "Driver":"2024.10.139.3",
         "Good Roaming Calculation (%)":96.9,
-        "Driver Vintage":"2024-01-14"
+        "Driver Vintage":"2019-12-02"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.18.1",
-        "Good Sum":27038,
+        "Good Sum":27891,
         "Critical Sum":692,
         "Warning Sum":68,
-        "Client Count":31,
-        "Total Sum":27798,
+        "Client Count":32,
+        "Total Sum":28651,
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.18.1",
         "Good Roaming Calculation (%)":97.3,
@@ -345,31 +345,7 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.70.0.6",
         "Good Roaming Calculation (%)":97.4,
-        "Driver Vintage":"2024-07-16"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 22.230.0.8",
-        "Good Sum":56366,
-        "Critical Sum":273,
-        "Warning Sum":1089,
-        "Client Count":50,
-        "Total Sum":57728,
-        "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
-        "Driver":"22.230.0.8",
-        "Good Roaming Calculation (%)":97.6,
-        "Driver Vintage":"2023-05-08"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.2.1",
-        "Good Sum":9664456,
-        "Critical Sum":142266,
-        "Warning Sum":99429,
-        "Client Count":24954,
-        "Total Sum":9906151,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.170.2.1",
-        "Good Roaming Calculation (%)":97.6,
-        "Driver Vintage":"2022-08-30"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 3165 - 19.51.40.1",
@@ -384,24 +360,48 @@
         "Driver Vintage":"2022-02-19"
     },
     {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.2.1",
+        "Good Sum":9665286,
+        "Critical Sum":142266,
+        "Warning Sum":99429,
+        "Client Count":24956,
+        "Total Sum":9906981,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.170.2.1",
+        "Good Roaming Calculation (%)":97.6,
+        "Driver Vintage":"2022-08-30"
+    },
+    {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.48.1",
-        "Good Sum":40597,
-        "Critical Sum":765,
+        "Good Sum":40854,
+        "Critical Sum":773,
         "Warning Sum":211,
-        "Client Count":71,
-        "Total Sum":41573,
+        "Client Count":72,
+        "Total Sum":41838,
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.48.1",
+        "Good Roaming Calculation (%)":97.6,
+        "Driver Vintage":"2022-02-19"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 22.230.0.8",
+        "Good Sum":57805,
+        "Critical Sum":273,
+        "Warning Sum":1089,
+        "Client Count":51,
+        "Total Sum":59167,
+        "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
+        "Driver":"22.230.0.8",
         "Good Roaming Calculation (%)":97.7,
-        "Driver Vintage":"2023-07-08"
+        "Driver Vintage":"2023-05-08"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.18.2",
-        "Good Sum":289573,
-        "Critical Sum":2100,
+        "Good Sum":295950,
+        "Critical Sum":2244,
         "Warning Sum":4794,
-        "Client Count":320,
-        "Total Sum":296467,
+        "Client Count":325,
+        "Total Sum":302988,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
         "Driver":"20.70.18.2",
         "Good Roaming Calculation (%)":97.7,
@@ -433,11 +433,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.3.2",
-        "Good Sum":154714,
-        "Critical Sum":2869,
+        "Good Sum":154918,
+        "Critical Sum":2931,
         "Warning Sum":539,
-        "Client Count":211,
-        "Total Sum":158122,
+        "Client Count":213,
+        "Total Sum":158388,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.160.3.2",
         "Good Roaming Calculation (%)":97.8,
@@ -445,11 +445,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.3",
-        "Good Sum":4200777,
-        "Critical Sum":56001,
+        "Good Sum":4200894,
+        "Critical Sum":56003,
         "Warning Sum":38573,
-        "Client Count":12373,
-        "Total Sum":4295351,
+        "Client Count":12375,
+        "Total Sum":4295470,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.160.0.3",
         "Good Roaming Calculation (%)":97.8,
@@ -457,15 +457,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.140.0.3",
-        "Good Sum":201905,
-        "Critical Sum":3779,
+        "Good Sum":205426,
+        "Critical Sum":3824,
         "Warning Sum":596,
-        "Client Count":378,
-        "Total Sum":206280,
+        "Client Count":385,
+        "Total Sum":209846,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.140.0.3",
         "Good Roaming Calculation (%)":97.9,
-        "Driver Vintage":"2022-04-25"
+        "Driver Vintage":"2022-07-18"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.100.0.3",
@@ -481,11 +481,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1",
-        "Good Sum":5074817,
-        "Critical Sum":56078,
+        "Good Sum":5075666,
+        "Critical Sum":56081,
         "Warning Sum":53966,
-        "Client Count":10118,
-        "Total Sum":5184861,
+        "Client Count":10121,
+        "Total Sum":5185713,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.20.1.1",
         "Good Roaming Calculation (%)":97.9,
@@ -493,11 +493,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.1.1",
-        "Good Sum":495452,
-        "Critical Sum":8201,
+        "Good Sum":497127,
+        "Critical Sum":8221,
         "Warning Sum":2440,
-        "Client Count":958,
-        "Total Sum":506093,
+        "Client Count":963,
+        "Total Sum":507788,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.40.1.1",
         "Good Roaming Calculation (%)":97.9,
@@ -517,11 +517,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.190.0.4",
-        "Good Sum":415821,
-        "Critical Sum":6621,
+        "Good Sum":416513,
+        "Critical Sum":6622,
         "Warning Sum":1850,
-        "Client Count":875,
-        "Total Sum":424292,
+        "Client Count":877,
+        "Total Sum":424985,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.190.0.4",
         "Good Roaming Calculation (%)":98.0,
@@ -529,27 +529,27 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6",
-        "Good Sum":2513070,
-        "Critical Sum":26674,
+        "Good Sum":2542813,
+        "Critical Sum":26823,
         "Warning Sum":24819,
-        "Client Count":6713,
-        "Total Sum":2564563,
+        "Client Count":6776,
+        "Total Sum":2594455,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.30.0.6",
         "Good Roaming Calculation (%)":98.0,
-        "Driver Vintage":"2024-01-20"
+        "Driver Vintage":"2022-11-22"
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.897",
-        "Good Sum":189311,
-        "Critical Sum":3043,
+        "Good Sum":190646,
+        "Critical Sum":3044,
         "Warning Sum":708,
-        "Client Count":302,
-        "Total Sum":193062,
+        "Client Count":303,
+        "Total Sum":194398,
         "Adapter":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter",
         "Driver":"3.3.0.897",
         "Good Roaming Calculation (%)":98.1,
-        "Driver Vintage":"2023-11-20"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.42.2",
@@ -561,7 +561,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.42.2",
         "Good Roaming Calculation (%)":98.1,
-        "Driver Vintage":"2022-08-01"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.90.0.100",
@@ -573,7 +573,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.90.0.100",
         "Good Roaming Calculation (%)":98.1,
-        "Driver Vintage":"2018-10-03"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.138.0",
@@ -589,15 +589,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7",
-        "Good Sum":8557502,
-        "Critical Sum":112447,
+        "Good Sum":8651088,
+        "Critical Sum":113041,
         "Warning Sum":54768,
-        "Client Count":18260,
-        "Total Sum":8724717,
+        "Client Count":18478,
+        "Total Sum":8818897,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.80.0.7",
         "Good Roaming Calculation (%)":98.1,
-        "Driver Vintage":"2024-09-01"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.20.1.1",
@@ -609,43 +609,43 @@
         "Adapter":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W)",
         "Driver":"23.20.1.1",
         "Good Roaming Calculation (%)":98.1,
-        "Driver Vintage":"2023-12-19"
+        "Driver Vintage":"2024-09-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.0.10",
-        "Good Sum":633566,
-        "Critical Sum":7547,
+        "Good Sum":644449,
+        "Critical Sum":7585,
         "Warning Sum":4371,
-        "Client Count":1426,
-        "Total Sum":645484,
+        "Client Count":1442,
+        "Total Sum":656405,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.60.0.10",
         "Good Roaming Calculation (%)":98.2,
-        "Driver Vintage":"2024-05-16"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5",
+        "Good Sum":534015,
+        "Critical Sum":6580,
+        "Warning Sum":2527,
+        "Client Count":1399,
+        "Total Sum":543122,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"23.110.0.5",
+        "Good Roaming Calculation (%)":98.3,
+        "Driver Vintage":"2020-06-23"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.60.0.10",
-        "Good Sum":267866,
-        "Critical Sum":3748,
+        "Good Sum":271631,
+        "Critical Sum":3754,
         "Warning Sum":830,
-        "Client Count":940,
-        "Total Sum":272444,
+        "Client Count":949,
+        "Total Sum":276215,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"23.60.0.10",
         "Good Roaming Calculation (%)":98.3,
         "Driver Vintage":"2024-05-16"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.1.2",
-        "Good Sum":12053707,
-        "Critical Sum":120182,
-        "Warning Sum":84319,
-        "Client Count":18911,
-        "Total Sum":12258208,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.250.1.2",
-        "Good Roaming Calculation (%)":98.3,
-        "Driver Vintage":"2023-08-06"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.170.2.1",
@@ -657,7 +657,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.170.2.1",
         "Good Roaming Calculation (%)":98.3,
-        "Driver Vintage":"2022-08-30"
+        "Driver Vintage":"2023-08-06"
     },
     {
         "Adapter-Driver":"NETGEAR A6100 WiFi Adapter - 1030.25.701.2017",
@@ -696,16 +696,16 @@
         "Driver Vintage":"2019-09-05"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.10.1",
-        "Good Sum":2704558,
-        "Critical Sum":23160,
-        "Warning Sum":20122,
-        "Client Count":6192,
-        "Total Sum":2747840,
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.1.2",
+        "Good Sum":12387862,
+        "Critical Sum":122168,
+        "Warning Sum":84319,
+        "Client Count":19423,
+        "Total Sum":12594349,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.250.10.1",
+        "Driver":"22.250.1.2",
         "Good Roaming Calculation (%)":98.4,
-        "Driver Vintage":"2023-08-14"
+        "Driver Vintage":"2023-08-06"
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 24.40.2.575",
@@ -733,63 +733,75 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.18.2",
-        "Good Sum":836155,
-        "Critical Sum":9208,
+        "Good Sum":853481,
+        "Critical Sum":9352,
         "Warning Sum":4733,
-        "Client Count":1329,
-        "Total Sum":850096,
+        "Client Count":1348,
+        "Total Sum":867566,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.18.2",
         "Good Roaming Calculation (%)":98.4,
-        "Driver Vintage":"2020-06-23"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5",
-        "Good Sum":509187,
-        "Critical Sum":6004,
-        "Warning Sum":2527,
-        "Client Count":1344,
-        "Total Sum":517718,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"23.110.0.5",
-        "Good Roaming Calculation (%)":98.4,
-        "Driver Vintage":"2025-01-01"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.0.10",
-        "Good Sum":97964,
-        "Critical Sum":1260,
+        "Good Sum":101326,
+        "Critical Sum":1471,
         "Warning Sum":191,
-        "Client Count":224,
-        "Total Sum":99415,
+        "Client Count":228,
+        "Total Sum":102988,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.60.0.10",
-        "Good Roaming Calculation (%)":98.5,
-        "Driver Vintage":"2024-05-16"
+        "Good Roaming Calculation (%)":98.4,
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.10.1",
+        "Good Sum":2706760,
+        "Critical Sum":23168,
+        "Warning Sum":20122,
+        "Client Count":6196,
+        "Total Sum":2750050,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.250.10.1",
+        "Good Roaming Calculation (%)":98.4,
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.110.1.1",
-        "Good Sum":3022494,
-        "Critical Sum":27903,
+        "Good Sum":3027577,
+        "Critical Sum":27924,
         "Warning Sum":18622,
-        "Client Count":5218,
-        "Total Sum":3069019,
+        "Client Count":5236,
+        "Total Sum":3074123,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.110.1.1",
         "Good Roaming Calculation (%)":98.5,
-        "Driver Vintage":"2022-01-01"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.800",
-        "Good Sum":24688,
-        "Critical Sum":287,
-        "Warning Sum":75,
-        "Client Count":121,
-        "Total Sum":25050,
-        "Adapter":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter",
-        "Driver":"3.3.0.800",
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.27.1",
+        "Good Sum":652577,
+        "Critical Sum":5610,
+        "Warning Sum":3714,
+        "Client Count":827,
+        "Total Sum":661901,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
+        "Driver":"20.70.27.1",
         "Good Roaming Calculation (%)":98.6,
-        "Driver Vintage":"2023-04-18"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.90.0.2",
+        "Good Sum":460792,
+        "Critical Sum":5841,
+        "Warning Sum":820,
+        "Client Count":787,
+        "Total Sum":467453,
+        "Adapter":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W)",
+        "Driver":"23.90.0.2",
+        "Good Roaming Calculation (%)":98.6,
+        "Driver Vintage":"2024-09-25"
     },
     {
         "Adapter-Driver":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.60.1.2",
@@ -801,19 +813,7 @@
         "Adapter":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W)",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":98.6,
-        "Driver Vintage":"2024-06-02"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.27.1",
-        "Good Sum":651236,
-        "Critical Sum":5537,
-        "Warning Sum":3714,
-        "Client Count":826,
-        "Total Sum":660487,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
-        "Driver":"20.70.27.1",
-        "Good Roaming Calculation (%)":98.6,
-        "Driver Vintage":"2021-09-11"
+        "Driver Vintage":"2023-04-18"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.3",
@@ -828,6 +828,18 @@
         "Driver Vintage":"2022-07-18"
     },
     {
+        "Adapter-Driver":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.800",
+        "Good Sum":24725,
+        "Critical Sum":287,
+        "Warning Sum":75,
+        "Client Count":123,
+        "Total Sum":25087,
+        "Adapter":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter",
+        "Driver":"3.3.0.800",
+        "Good Roaming Calculation (%)":98.6,
+        "Driver Vintage":"2022-01-01"
+    },
+    {
         "Adapter-Driver":"Edimax AC1750 Wi-Fi USB Adapter - 1030.44.1014.2024",
         "Good Sum":57203,
         "Critical Sum":816,
@@ -837,55 +849,19 @@
         "Adapter":"Edimax AC1750 Wi-Fi USB Adapter",
         "Driver":"1030.44.1014.2024",
         "Good Roaming Calculation (%)":98.6,
-        "Driver Vintage":"2024-10-13"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.130.0.5",
-        "Good Sum":1902914,
+        "Good Sum":1905284,
         "Critical Sum":13172,
         "Warning Sum":11439,
-        "Client Count":2908,
-        "Total Sum":1927525,
+        "Client Count":2911,
+        "Total Sum":1929895,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.130.0.5",
         "Good Roaming Calculation (%)":98.7,
         "Driver Vintage":"2022-03-14"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6",
-        "Good Sum":4118166,
-        "Critical Sum":35321,
-        "Warning Sum":16979,
-        "Client Count":7142,
-        "Total Sum":4170466,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"23.30.0.6",
-        "Good Roaming Calculation (%)":98.7,
-        "Driver Vintage":"2024-01-20"
-    },
-    {
-        "Adapter-Driver":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.90.0.2",
-        "Good Sum":456579,
-        "Critical Sum":5006,
-        "Warning Sum":820,
-        "Client Count":778,
-        "Total Sum":462405,
-        "Adapter":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W)",
-        "Driver":"23.90.0.2",
-        "Good Roaming Calculation (%)":98.7,
-        "Driver Vintage":"2024-09-25"
-    },
-    {
-        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1193",
-        "Good Sum":42470,
-        "Critical Sum":560,
-        "Warning Sum":0,
-        "Client Count":59,
-        "Total Sum":43030,
-        "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter",
-        "Driver":"2.0.0.1193",
-        "Good Roaming Calculation (%)":98.7,
-        "Driver Vintage":"2024-06-02"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.60.1.2",
@@ -897,19 +873,43 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.60.1.2",
         "Good Roaming Calculation (%)":98.8,
-        "Driver Vintage":"2021-06-20"
+        "Driver Vintage":"2024-06-02"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.170.0.3",
-        "Good Sum":340706,
-        "Critical Sum":4001,
+        "Good Sum":346224,
+        "Critical Sum":4005,
         "Warning Sum":215,
-        "Client Count":416,
-        "Total Sum":344922,
+        "Client Count":420,
+        "Total Sum":350444,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.170.0.3",
         "Good Roaming Calculation (%)":98.8,
         "Driver Vintage":"2022-08-28"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.1.5",
+        "Good Sum":405118,
+        "Critical Sum":2488,
+        "Warning Sum":2503,
+        "Client Count":536,
+        "Total Sum":410109,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.0.1.5",
+        "Good Roaming Calculation (%)":98.8,
+        "Driver Vintage":"2019-07-17"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6",
+        "Good Sum":4231805,
+        "Critical Sum":36177,
+        "Warning Sum":16979,
+        "Client Count":7264,
+        "Total Sum":4284961,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"23.30.0.6",
+        "Good Roaming Calculation (%)":98.8,
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"TP-Link Wireless USB Adapter - 1030.38.712.2019",
@@ -924,18 +924,6 @@
         "Driver Vintage":"2019-07-17"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.1.5",
-        "Good Sum":397062,
-        "Critical Sum":2481,
-        "Warning Sum":2503,
-        "Client Count":528,
-        "Total Sum":402046,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.0.1.5",
-        "Good Roaming Calculation (%)":98.8,
-        "Driver Vintage":null
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.0.4",
         "Good Sum":219776,
         "Critical Sum":1687,
@@ -946,6 +934,18 @@
         "Driver":"23.20.0.4",
         "Good Roaming Calculation (%)":98.9,
         "Driver Vintage":"2023-11-28"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.10.2.2",
+        "Good Sum":146622,
+        "Critical Sum":1184,
+        "Warning Sum":378,
+        "Client Count":245,
+        "Total Sum":148184,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"21.10.2.2",
+        "Good Roaming Calculation (%)":98.9,
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.70.4.1",
@@ -961,11 +961,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.1.1",
-        "Good Sum":73281,
+        "Good Sum":73557,
         "Critical Sum":768,
         "Warning Sum":23,
-        "Client Count":218,
-        "Total Sum":74072,
+        "Client Count":220,
+        "Total Sum":74348,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.40.1.1",
         "Good Roaming Calculation (%)":98.9,
@@ -973,39 +973,39 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4",
-        "Good Sum":726442,
-        "Critical Sum":6265,
+        "Good Sum":738771,
+        "Critical Sum":6690,
         "Warning Sum":1810,
-        "Client Count":1360,
-        "Total Sum":734517,
+        "Client Count":1375,
+        "Total Sum":747271,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"23.40.0.4",
-        "Good Roaming Calculation (%)":98.9,
-        "Driver Vintage":"2024-03-09"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.10.2.2",
-        "Good Sum":146622,
-        "Critical Sum":1184,
-        "Warning Sum":378,
-        "Client Count":245,
-        "Total Sum":148184,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"21.10.2.2",
         "Good Roaming Calculation (%)":98.9,
         "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.31.1",
-        "Good Sum":84331,
-        "Critical Sum":898,
-        "Warning Sum":3,
-        "Client Count":91,
-        "Total Sum":85232,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
-        "Driver":"19.51.31.1",
+        "Adapter-Driver":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 23.33.2.563",
+        "Good Sum":124147,
+        "Critical Sum":982,
+        "Warning Sum":446,
+        "Client Count":251,
+        "Total Sum":125575,
+        "Adapter":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+        "Driver":"23.33.2.563",
         "Good Roaming Calculation (%)":98.9,
-        "Driver Vintage":"2020-09-14"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1193",
+        "Good Sum":54061,
+        "Critical Sum":581,
+        "Warning Sum":0,
+        "Client Count":74,
+        "Total Sum":54642,
+        "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter",
+        "Driver":"2.0.0.1193",
+        "Good Roaming Calculation (%)":98.9,
+        "Driver Vintage":"2024-06-02"
     },
     {
         "Adapter-Driver":"Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.353.0",
@@ -1020,18 +1020,6 @@
         "Driver Vintage":"2022-12-21"
     },
     {
-        "Adapter-Driver":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 23.33.2.563",
-        "Good Sum":124147,
-        "Critical Sum":982,
-        "Warning Sum":446,
-        "Client Count":251,
-        "Total Sum":125575,
-        "Adapter":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
-        "Driver":"23.33.2.563",
-        "Good Roaming Calculation (%)":98.9,
-        "Driver Vintage":"2023-10-10"
-    },
-    {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.24.1",
         "Good Sum":464893,
         "Critical Sum":4007,
@@ -1044,52 +1032,16 @@
         "Driver Vintage":"2021-05-09"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 22.150.0.3",
-        "Good Sum":64453,
-        "Critical Sum":168,
-        "Warning Sum":456,
-        "Client Count":65,
-        "Total Sum":65077,
-        "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
-        "Driver":"22.150.0.3",
-        "Good Roaming Calculation (%)":99.0,
-        "Driver Vintage":"2022-05-23"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.200.2.1",
-        "Good Sum":3453918,
-        "Critical Sum":27767,
-        "Warning Sum":8239,
-        "Client Count":7255,
-        "Total Sum":3489924,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"22.200.2.1",
-        "Good Roaming Calculation (%)":99.0,
-        "Driver Vintage":"2023-03-08"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.1.3",
-        "Good Sum":143498,
-        "Critical Sum":637,
-        "Warning Sum":834,
-        "Client Count":266,
-        "Total Sum":144969,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"23.90.1.3",
-        "Good Roaming Calculation (%)":99.0,
-        "Driver Vintage":"2024-10-12"
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2",
-        "Good Sum":38440141,
-        "Critical Sum":236403,
+        "Good Sum":38589892,
+        "Critical Sum":236620,
         "Warning Sum":140001,
-        "Client Count":67029,
-        "Total Sum":38816545,
+        "Client Count":67295,
+        "Total Sum":38966513,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":99.0,
-        "Driver Vintage":"2024-06-02"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.0.4",
@@ -1104,28 +1056,40 @@
         "Driver Vintage":"2023-11-28"
     },
     {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.200.2.1",
+        "Good Sum":3470267,
+        "Critical Sum":27786,
+        "Warning Sum":8239,
+        "Client Count":7289,
+        "Total Sum":3506292,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"22.200.2.1",
+        "Good Roaming Calculation (%)":99.0,
+        "Driver Vintage":"2023-03-08"
+    },
+    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4",
-        "Good Sum":8428377,
-        "Critical Sum":52173,
+        "Good Sum":8532823,
+        "Critical Sum":53002,
         "Warning Sum":35322,
-        "Client Count":18730,
-        "Total Sum":8515872,
+        "Client Count":18918,
+        "Total Sum":8621147,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.40.0.4",
         "Good Roaming Calculation (%)":99.0,
-        "Driver Vintage":"2024-03-09"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1",
-        "Good Sum":2260725,
-        "Critical Sum":15181,
-        "Warning Sum":8360,
-        "Client Count":3467,
-        "Total Sum":2284266,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
-        "Driver":"20.70.32.1",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.1.3",
+        "Good Sum":143498,
+        "Critical Sum":637,
+        "Warning Sum":834,
+        "Client Count":266,
+        "Total Sum":144969,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"23.90.1.3",
         "Good Roaming Calculation (%)":99.0,
-        "Driver Vintage":"2022-07-23"
+        "Driver Vintage":"2024-10-12"
     },
     {
         "Adapter-Driver":"Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.3",
@@ -1140,6 +1104,30 @@
         "Driver Vintage":"2024-01-14"
     },
     {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.31.1",
+        "Good Sum":85768,
+        "Critical Sum":898,
+        "Warning Sum":3,
+        "Client Count":92,
+        "Total Sum":86669,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
+        "Driver":"19.51.31.1",
+        "Good Roaming Calculation (%)":99.0,
+        "Driver Vintage":"2020-09-14"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1",
+        "Good Sum":2266889,
+        "Critical Sum":15186,
+        "Warning Sum":8360,
+        "Client Count":3473,
+        "Total Sum":2290435,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
+        "Driver":"20.70.32.1",
+        "Good Roaming Calculation (%)":99.0,
+        "Driver Vintage":"2024-03-09"
+    },
+    {
         "Adapter-Driver":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 3.0.1.1314",
         "Good Sum":192890,
         "Critical Sum":505,
@@ -1149,55 +1137,67 @@
         "Adapter":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
         "Driver":"3.0.1.1314",
         "Good Roaming Calculation (%)":99.0,
-        "Driver Vintage":"2023-10-11"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.32.1",
-        "Good Sum":980654,
-        "Critical Sum":3914,
-        "Warning Sum":5426,
-        "Client Count":1216,
-        "Total Sum":989994,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
-        "Driver":"20.70.32.1",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.240.0.6",
+        "Good Sum":103926,
+        "Critical Sum":662,
+        "Warning Sum":319,
+        "Client Count":186,
+        "Total Sum":104907,
+        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
+        "Driver":"22.240.0.6",
         "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2022-07-23"
+        "Driver Vintage":"2023-06-17"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.110.1.1",
-        "Good Sum":4410338,
-        "Critical Sum":21256,
-        "Warning Sum":16739,
-        "Client Count":7678,
-        "Total Sum":4448333,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"21.110.1.1",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.130.0.5",
+        "Good Sum":2579699,
+        "Critical Sum":14878,
+        "Warning Sum":7789,
+        "Client Count":6455,
+        "Total Sum":2602366,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"22.130.0.5",
         "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2020-06-30"
+        "Driver Vintage":"2022-03-14"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 22.150.0.3",
+        "Good Sum":65884,
+        "Critical Sum":171,
+        "Warning Sum":456,
+        "Client Count":66,
+        "Total Sum":66511,
+        "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
+        "Driver":"22.150.0.3",
+        "Good Roaming Calculation (%)":99.1,
+        "Driver Vintage":"2021-05-09"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2",
-        "Good Sum":20279212,
-        "Critical Sum":130796,
+        "Good Sum":20312823,
+        "Critical Sum":130873,
         "Warning Sum":52713,
-        "Client Count":30319,
-        "Total Sum":20462721,
+        "Client Count":30376,
+        "Total Sum":20496409,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.90.0.2",
         "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2024-09-25"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.80.0.9",
-        "Good Sum":34697,
-        "Critical Sum":248,
+        "Good Sum":35634,
+        "Critical Sum":252,
         "Warning Sum":71,
-        "Client Count":82,
-        "Total Sum":35016,
+        "Client Count":84,
+        "Total Sum":35957,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.80.0.9",
         "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2021-08-18"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1297",
@@ -1224,96 +1224,96 @@
         "Driver Vintage":"2021-05-26"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.240.0.6",
-        "Good Sum":103926,
-        "Critical Sum":662,
-        "Warning Sum":319,
-        "Client Count":186,
-        "Total Sum":104907,
-        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
-        "Driver":"22.240.0.6",
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.32.1",
+        "Good Sum":989577,
+        "Critical Sum":3914,
+        "Warning Sum":5426,
+        "Client Count":1224,
+        "Total Sum":998917,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
+        "Driver":"20.70.32.1",
         "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2023-06-17"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.180.0.4",
-        "Good Sum":403391,
-        "Critical Sum":1429,
-        "Warning Sum":2267,
-        "Client Count":559,
-        "Total Sum":407087,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.180.0.4",
-        "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2022-10-17"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.120.0.3",
-        "Good Sum":64745,
-        "Critical Sum":537,
-        "Warning Sum":52,
-        "Client Count":147,
-        "Total Sum":65334,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"23.120.0.3",
-        "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2025-02-05"
+        "Driver Vintage":"2022-07-23"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.1.1",
-        "Good Sum":8551922,
-        "Critical Sum":38061,
+        "Good Sum":8553986,
+        "Critical Sum":38076,
         "Warning Sum":41132,
-        "Client Count":17913,
-        "Total Sum":8631115,
+        "Client Count":17924,
+        "Total Sum":8633194,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.20.1.1",
         "Good Roaming Calculation (%)":99.1,
         "Driver Vintage":"2023-12-19"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.0.6",
-        "Good Sum":290526,
-        "Critical Sum":1773,
-        "Warning Sum":722,
-        "Client Count":462,
-        "Total Sum":293021,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.200.0.6",
-        "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2023-01-16"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.130.0.5",
-        "Good Sum":2579226,
-        "Critical Sum":14878,
-        "Warning Sum":7789,
-        "Client Count":6454,
-        "Total Sum":2601893,
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.120.0.3",
+        "Good Sum":66357,
+        "Critical Sum":539,
+        "Warning Sum":52,
+        "Client Count":150,
+        "Total Sum":66948,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"22.130.0.5",
+        "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":99.1,
-        "Driver Vintage":"2022-03-14"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3",
-        "Good Sum":273410,
-        "Critical Sum":1530,
-        "Warning Sum":538,
-        "Client Count":487,
-        "Total Sum":275478,
-        "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
-        "Driver":"22.170.0.3",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.180.0.4",
+        "Good Sum":409038,
+        "Critical Sum":1431,
+        "Warning Sum":2267,
+        "Client Count":566,
+        "Total Sum":412736,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.180.0.4",
+        "Good Roaming Calculation (%)":99.1,
+        "Driver Vintage":"2022-10-17"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.16.4",
+        "Good Sum":284786,
+        "Critical Sum":1276,
+        "Warning Sum":1028,
+        "Client Count":372,
+        "Total Sum":287090,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
+        "Driver":"20.70.16.4",
         "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2022-08-28"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.1.2",
+        "Good Sum":32550930,
+        "Critical Sum":134755,
+        "Warning Sum":121512,
+        "Client Count":69313,
+        "Total Sum":32807197,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"23.60.1.2",
+        "Good Roaming Calculation (%)":99.2,
+        "Driver Vintage":"2024-06-02"
+    },
+    {
+        "Adapter-Driver":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1317",
+        "Good Sum":43502,
+        "Critical Sum":197,
+        "Warning Sum":160,
+        "Client Count":403,
+        "Total Sum":43859,
+        "Adapter":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter",
+        "Driver":"3.0.1.1317",
+        "Good Roaming Calculation (%)":99.2,
+        "Driver Vintage":"2023-11-21"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.120.0.3",
-        "Good Sum":10276,
-        "Critical Sum":83,
+        "Good Sum":11707,
+        "Critical Sum":90,
         "Warning Sum":4,
-        "Client Count":19,
-        "Total Sum":10363,
+        "Client Count":20,
+        "Total Sum":11801,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":99.2,
@@ -1329,135 +1329,111 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.70.4.1",
         "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2024-08-13"
+        "Driver Vintage":"2025-02-05"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.60.1.2",
-        "Good Sum":737990,
-        "Critical Sum":2640,
+        "Good Sum":739947,
+        "Critical Sum":2657,
         "Warning Sum":3292,
-        "Client Count":1271,
-        "Total Sum":743922,
+        "Client Count":1277,
+        "Total Sum":745896,
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":99.2,
         "Driver Vintage":"2024-06-02"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.0.7",
-        "Good Sum":919294,
-        "Critical Sum":5218,
-        "Warning Sum":2128,
-        "Client Count":1976,
-        "Total Sum":926640,
-        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
-        "Driver":"23.80.0.7",
-        "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2024-09-01"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.110.0.5",
-        "Good Sum":5131642,
-        "Critical Sum":30861,
-        "Warning Sum":12087,
-        "Client Count":11919,
-        "Total Sum":5174590,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"23.110.0.5",
-        "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2025-01-01"
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.110.2.1",
-        "Good Sum":30843,
-        "Critical Sum":178,
+        "Good Sum":31329,
+        "Critical Sum":180,
         "Warning Sum":63,
-        "Client Count":82,
-        "Total Sum":31084,
+        "Client Count":83,
+        "Total Sum":31572,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"21.110.2.1",
         "Good Roaming Calculation (%)":99.2,
         "Driver Vintage":"2020-07-20"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.1.2",
-        "Good Sum":32526242,
-        "Critical Sum":134225,
-        "Warning Sum":121512,
-        "Client Count":69251,
-        "Total Sum":32781979,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"23.60.1.2",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.110.1.1",
+        "Good Sum":4454701,
+        "Critical Sum":21318,
+        "Warning Sum":16739,
+        "Client Count":7711,
+        "Total Sum":4492758,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"21.110.1.1",
         "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2024-06-02"
+        "Driver Vintage":"2020-06-30"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.0.7",
+        "Good Sum":953497,
+        "Critical Sum":5398,
+        "Warning Sum":2128,
+        "Client Count":2022,
+        "Total Sum":961023,
+        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
+        "Driver":"23.80.0.7",
+        "Good Roaming Calculation (%)":99.2,
+        "Driver Vintage":"2024-09-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.240.0.6",
-        "Good Sum":538038,
-        "Critical Sum":3544,
+        "Good Sum":539689,
+        "Critical Sum":3558,
         "Warning Sum":684,
-        "Client Count":1019,
-        "Total Sum":542266,
+        "Client Count":1024,
+        "Total Sum":543931,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.240.0.6",
         "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2023-06-17"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.230.0.8",
-        "Good Sum":1985889,
-        "Critical Sum":5023,
-        "Warning Sum":10006,
-        "Client Count":3336,
-        "Total Sum":2000918,
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.2.1",
+        "Good Sum":4938006,
+        "Critical Sum":24580,
+        "Warning Sum":17144,
+        "Client Count":9941,
+        "Total Sum":4979730,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.230.0.8",
+        "Driver":"22.200.2.1",
         "Good Roaming Calculation (%)":99.2,
         "Driver Vintage":"2023-05-08"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.2.1",
-        "Good Sum":4920571,
-        "Critical Sum":24498,
-        "Warning Sum":17144,
-        "Client Count":9917,
-        "Total Sum":4962213,
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.0.6",
+        "Good Sum":293898,
+        "Critical Sum":1774,
+        "Warning Sum":722,
+        "Client Count":467,
+        "Total Sum":296394,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.200.2.1",
+        "Driver":"22.200.0.6",
         "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2023-03-08"
+        "Driver Vintage":"2023-01-16"
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.16.4",
-        "Good Sum":284786,
-        "Critical Sum":1276,
-        "Warning Sum":1028,
-        "Client Count":372,
-        "Total Sum":287090,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
-        "Driver":"20.70.16.4",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.110.0.5",
+        "Good Sum":5303092,
+        "Critical Sum":32278,
+        "Warning Sum":12087,
+        "Client Count":12159,
+        "Total Sum":5347457,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"23.110.0.5",
         "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2019-12-31"
-    },
-    {
-        "Adapter-Driver":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1317",
-        "Good Sum":43502,
-        "Critical Sum":197,
-        "Warning Sum":160,
-        "Client Count":403,
-        "Total Sum":43859,
-        "Adapter":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter",
-        "Driver":"3.0.1.1317",
-        "Good Roaming Calculation (%)":99.2,
-        "Driver Vintage":"2023-11-21"
+        "Driver Vintage":"2025-01-01"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.21.2",
-        "Good Sum":1255463,
-        "Critical Sum":4612,
+        "Good Sum":1270497,
+        "Critical Sum":4616,
         "Warning Sum":3835,
-        "Client Count":1934,
-        "Total Sum":1263910,
+        "Client Count":1947,
+        "Total Sum":1278948,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.21.2",
         "Good Roaming Calculation (%)":99.3,
@@ -1473,79 +1449,31 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 7260",
         "Driver":"18.33.16.2",
         "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2019-03-24"
+        "Driver Vintage":"2021-01-09"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.110.1.1",
+        "Good Sum":223919,
+        "Critical Sum":1106,
+        "Warning Sum":444,
+        "Client Count":407,
+        "Total Sum":225469,
+        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
+        "Driver":"21.110.1.1",
+        "Good Roaming Calculation (%)":99.3,
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.80.1.1",
-        "Good Sum":1639339,
-        "Critical Sum":3903,
+        "Good Sum":1640256,
+        "Critical Sum":3969,
         "Warning Sum":6911,
-        "Client Count":1707,
-        "Total Sum":1650153,
+        "Client Count":1709,
+        "Total Sum":1651136,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.80.1.1",
         "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2022-05-01"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.10.1",
-        "Good Sum":1466355,
-        "Critical Sum":4190,
-        "Warning Sum":5536,
-        "Client Count":2807,
-        "Total Sum":1476081,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"22.250.10.1",
-        "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2023-08-14"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.70.0.6",
-        "Good Sum":432476,
-        "Critical Sum":951,
-        "Warning Sum":1991,
-        "Client Count":842,
-        "Total Sum":435418,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.70.0.6",
-        "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2021-06-28"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.90.0.2",
-        "Good Sum":5356311,
-        "Critical Sum":24679,
-        "Warning Sum":10503,
-        "Client Count":5601,
-        "Total Sum":5391493,
-        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
-        "Driver":"23.90.0.2",
-        "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2024-09-25"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.1.2",
-        "Good Sum":340024,
-        "Critical Sum":1331,
-        "Warning Sum":995,
-        "Client Count":792,
-        "Total Sum":342350,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"22.250.1.2",
-        "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2023-08-06"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2",
-        "Good Sum":17916544,
-        "Critical Sum":93717,
-        "Warning Sum":35931,
-        "Client Count":25591,
-        "Total Sum":18046192,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"23.90.0.2",
-        "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2024-09-25"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.4",
@@ -1561,35 +1489,95 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.30.0.11",
-        "Good Sum":990123,
-        "Critical Sum":4265,
+        "Good Sum":991065,
+        "Critical Sum":4267,
         "Warning Sum":2688,
-        "Client Count":2293,
-        "Total Sum":997076,
+        "Client Count":2296,
+        "Total Sum":998020,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.30.0.11",
         "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2021-01-19"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.0.4",
-        "Good Sum":537944,
-        "Critical Sum":2346,
-        "Warning Sum":1470,
-        "Client Count":584,
-        "Total Sum":541760,
-        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
-        "Driver":"22.250.0.4",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.70.0.6",
+        "Good Sum":432902,
+        "Critical Sum":951,
+        "Warning Sum":1991,
+        "Client Count":843,
+        "Total Sum":435844,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.70.0.6",
         "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2023-07-25"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.1.2",
+        "Good Sum":342000,
+        "Critical Sum":1399,
+        "Warning Sum":995,
+        "Client Count":797,
+        "Total Sum":344394,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"22.250.1.2",
+        "Good Roaming Calculation (%)":99.3,
+        "Driver Vintage":"2023-08-06"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.10.1",
+        "Good Sum":1466355,
+        "Critical Sum":4190,
+        "Warning Sum":5536,
+        "Client Count":2807,
+        "Total Sum":1476081,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"22.250.10.1",
+        "Good Roaming Calculation (%)":99.3,
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2",
+        "Good Sum":18089984,
+        "Critical Sum":94863,
+        "Warning Sum":35931,
+        "Client Count":25788,
+        "Total Sum":18220778,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"23.90.0.2",
+        "Good Roaming Calculation (%)":99.3,
+        "Driver Vintage":"2024-09-25"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.230.0.8",
+        "Good Sum":1991747,
+        "Critical Sum":5029,
+        "Warning Sum":10006,
+        "Client Count":3345,
+        "Total Sum":2006782,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.230.0.8",
+        "Good Roaming Calculation (%)":99.3,
+        "Driver Vintage":"2023-06-17"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3",
+        "Good Sum":279161,
+        "Critical Sum":1531,
+        "Warning Sum":538,
+        "Client Count":492,
+        "Total Sum":281230,
+        "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
+        "Driver":"22.170.0.3",
+        "Good Roaming Calculation (%)":99.3,
+        "Driver Vintage":"2022-08-28"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7",
-        "Good Sum":2095750,
-        "Critical Sum":6176,
+        "Good Sum":2101503,
+        "Critical Sum":6265,
         "Warning Sum":8848,
-        "Client Count":3819,
-        "Total Sum":2110774,
+        "Client Count":3836,
+        "Total Sum":2116616,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.80.0.7",
         "Good Roaming Calculation (%)":99.3,
@@ -1597,15 +1585,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.70.0.6",
-        "Good Sum":138987,
-        "Critical Sum":931,
+        "Good Sum":139125,
+        "Critical Sum":933,
         "Warning Sum":44,
-        "Client Count":251,
-        "Total Sum":139962,
+        "Client Count":253,
+        "Total Sum":140102,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.70.0.6",
         "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2021-06-28"
+        "Driver Vintage":"2024-09-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.1.3",
@@ -1617,7 +1605,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.90.1.3",
         "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2024-10-12"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Killer Wi-Fi 6 AX500-DBS Wireless Network Adapter - 1.0.0.1769",
@@ -1632,36 +1620,36 @@
         "Driver Vintage":"2021-12-14"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.110.1.1",
-        "Good Sum":223919,
-        "Critical Sum":1106,
-        "Warning Sum":444,
-        "Client Count":407,
-        "Total Sum":225469,
-        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
-        "Driver":"21.110.1.1",
-        "Good Roaming Calculation (%)":99.3,
-        "Driver Vintage":"2020-06-30"
-    },
-    {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 22.160.0.4",
-        "Good Sum":1352819,
-        "Critical Sum":5303,
+        "Good Sum":1377957,
+        "Critical Sum":5359,
         "Warning Sum":3820,
-        "Client Count":1534,
-        "Total Sum":1361942,
+        "Client Count":1552,
+        "Total Sum":1387136,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"22.160.0.4",
         "Good Roaming Calculation (%)":99.3,
         "Driver Vintage":null
     },
     {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.0.4",
+        "Good Sum":545842,
+        "Critical Sum":2631,
+        "Warning Sum":1470,
+        "Client Count":590,
+        "Total Sum":549943,
+        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
+        "Driver":"22.250.0.4",
+        "Good Roaming Calculation (%)":99.3,
+        "Driver Vintage":"2023-07-25"
+    },
+    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.200.2.1",
-        "Good Sum":731594,
-        "Critical Sum":2121,
+        "Good Sum":732278,
+        "Critical Sum":2128,
         "Warning Sum":2400,
-        "Client Count":880,
-        "Total Sum":736115,
+        "Client Count":881,
+        "Total Sum":736806,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.200.2.1",
         "Good Roaming Calculation (%)":99.4,
@@ -1669,11 +1657,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.40.1",
-        "Good Sum":624267,
-        "Critical Sum":1949,
+        "Good Sum":627142,
+        "Critical Sum":1950,
         "Warning Sum":1571,
-        "Client Count":687,
-        "Total Sum":627787,
+        "Client Count":689,
+        "Total Sum":630663,
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.40.1",
         "Good Roaming Calculation (%)":99.4,
@@ -1689,19 +1677,19 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.10.0.9",
         "Good Roaming Calculation (%)":99.4,
-        "Driver Vintage":"2016-08-20"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.40.0.7",
-        "Good Sum":528335,
-        "Critical Sum":1142,
+        "Good Sum":537909,
+        "Critical Sum":1173,
         "Warning Sum":2101,
-        "Client Count":901,
-        "Total Sum":531578,
+        "Client Count":920,
+        "Total Sum":541183,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.40.0.7",
         "Good Roaming Calculation (%)":99.4,
-        "Driver Vintage":"2021-03-02"
+        "Driver Vintage":"2016-08-20"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.250.0.4",
@@ -1713,15 +1701,15 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.250.0.4",
         "Good Roaming Calculation (%)":99.4,
-        "Driver Vintage":"2023-07-25"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.20.1.1",
-        "Good Sum":143440,
+        "Good Sum":144878,
         "Critical Sum":151,
         "Warning Sum":654,
-        "Client Count":210,
-        "Total Sum":144245,
+        "Client Count":211,
+        "Total Sum":145683,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"23.20.1.1",
         "Good Roaming Calculation (%)":99.4,
@@ -1729,35 +1717,47 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.1.2",
-        "Good Sum":336524,
-        "Critical Sum":1729,
+        "Good Sum":342134,
+        "Critical Sum":1732,
         "Warning Sum":304,
-        "Client Count":593,
-        "Total Sum":338557,
+        "Client Count":602,
+        "Total Sum":344170,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.250.1.2",
         "Good Roaming Calculation (%)":99.4,
-        "Driver Vintage":"2023-08-06"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.722",
-        "Good Sum":86679,
+        "Good Sum":87415,
         "Critical Sum":24,
         "Warning Sum":464,
-        "Client Count":151,
-        "Total Sum":87167,
+        "Client Count":152,
+        "Total Sum":87903,
         "Adapter":"Qualcomm QCA61x4A 802.11ac Wireless Adapter",
         "Driver":"12.0.0.722",
         "Good Roaming Calculation (%)":99.4,
         "Driver Vintage":"2018-08-21"
     },
     {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.90.0.2",
+        "Good Sum":5471670,
+        "Critical Sum":25217,
+        "Warning Sum":10503,
+        "Client Count":5685,
+        "Total Sum":5507390,
+        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
+        "Driver":"23.90.0.2",
+        "Good Roaming Calculation (%)":99.4,
+        "Driver Vintage":null
+    },
+    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.10.0.7",
-        "Good Sum":2553141,
-        "Critical Sum":7027,
+        "Good Sum":2586757,
+        "Critical Sum":7156,
         "Warning Sum":7507,
-        "Client Count":5200,
-        "Total Sum":2567675,
+        "Client Count":5288,
+        "Total Sum":2601420,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.10.0.7",
         "Good Roaming Calculation (%)":99.4,
@@ -1765,39 +1765,39 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.1.1",
-        "Good Sum":1479485,
-        "Critical Sum":7046,
+        "Good Sum":1526588,
+        "Critical Sum":7107,
         "Warning Sum":2278,
-        "Client Count":2886,
-        "Total Sum":1488809,
+        "Client Count":2988,
+        "Total Sum":1535973,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.100.1.1",
         "Good Roaming Calculation (%)":99.4,
-        "Driver Vintage":"2022-05-01"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3",
-        "Good Sum":836433,
-        "Critical Sum":2606,
-        "Warning Sum":2650,
-        "Client Count":1309,
-        "Total Sum":841689,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.100.0.3",
-        "Good Roaming Calculation (%)":99.4,
-        "Driver Vintage":"2022-05-01"
+        "Driver Vintage":"2020-10-19"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6",
-        "Good Sum":1594003,
-        "Critical Sum":6777,
+        "Good Sum":1608109,
+        "Critical Sum":6896,
         "Warning Sum":3231,
-        "Client Count":3019,
-        "Total Sum":1604011,
+        "Client Count":3054,
+        "Total Sum":1618236,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.240.0.6",
         "Good Roaming Calculation (%)":99.4,
         "Driver Vintage":"2023-06-17"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3",
+        "Good Sum":837249,
+        "Critical Sum":2617,
+        "Warning Sum":2650,
+        "Client Count":1311,
+        "Total Sum":842516,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.100.0.3",
+        "Good Roaming Calculation (%)":99.4,
+        "Driver Vintage":"2022-05-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.50.0.6",
@@ -1813,11 +1813,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.3.3",
-        "Good Sum":1082287,
+        "Good Sum":1083064,
         "Critical Sum":4004,
         "Warning Sum":2337,
-        "Client Count":1469,
-        "Total Sum":1088628,
+        "Client Count":1470,
+        "Total Sum":1089405,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.3.3",
         "Good Roaming Calculation (%)":99.4,
@@ -1837,51 +1837,51 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.70.0.6",
-        "Good Sum":1654294,
+        "Good Sum":1656681,
         "Critical Sum":5126,
         "Warning Sum":3982,
-        "Client Count":1376,
-        "Total Sum":1663402,
+        "Client Count":1379,
+        "Total Sum":1665789,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.70.0.6",
         "Good Roaming Calculation (%)":99.5,
         "Driver Vintage":"2024-07-16"
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.2.1",
-        "Good Sum":153485,
-        "Critical Sum":367,
-        "Warning Sum":444,
-        "Client Count":158,
-        "Total Sum":154296,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
-        "Driver":"20.70.2.1",
+        "Adapter-Driver":"Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.1",
+        "Good Sum":818461,
+        "Critical Sum":3559,
+        "Warning Sum":180,
+        "Client Count":1368,
+        "Total Sum":822200,
+        "Adapter":"Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter",
+        "Driver":"6001.10.356.1",
         "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2018-08-13"
+        "Driver Vintage":"2024-05-12"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.25.2",
-        "Good Sum":1554077,
+        "Good Sum":1563582,
         "Critical Sum":6985,
         "Warning Sum":634,
-        "Client Count":2251,
-        "Total Sum":1561696,
+        "Client Count":2260,
+        "Total Sum":1571201,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.25.2",
         "Good Roaming Calculation (%)":99.5,
         "Driver Vintage":"2021-06-21"
     },
     {
-        "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.250.1.2",
-        "Good Sum":2005320,
-        "Critical Sum":7232,
-        "Warning Sum":2308,
-        "Client Count":2621,
-        "Total Sum":2014860,
-        "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
-        "Driver":"22.250.1.2",
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.2.1",
+        "Good Sum":158888,
+        "Critical Sum":384,
+        "Warning Sum":444,
+        "Client Count":162,
+        "Total Sum":159716,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
+        "Driver":"20.70.2.1",
         "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2023-08-06"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 22.110.0.2",
@@ -1897,23 +1897,23 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.110.1.1",
-        "Good Sum":112917,
+        "Good Sum":114352,
         "Critical Sum":318,
         "Warning Sum":203,
-        "Client Count":186,
-        "Total Sum":113438,
+        "Client Count":187,
+        "Total Sum":114873,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.110.1.1",
         "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2022-01-01"
+        "Driver Vintage":"2021-11-27"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.170.0.3",
-        "Good Sum":265469,
-        "Critical Sum":890,
+        "Good Sum":267660,
+        "Critical Sum":894,
         "Warning Sum":418,
-        "Client Count":563,
-        "Total Sum":266777,
+        "Client Count":570,
+        "Total Sum":268972,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.170.0.3",
         "Good Roaming Calculation (%)":99.5,
@@ -1944,40 +1944,40 @@
         "Driver Vintage":"2023-10-22"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.0.4",
-        "Good Sum":1674049,
-        "Critical Sum":3187,
-        "Warning Sum":4386,
-        "Client Count":2280,
-        "Total Sum":1681622,
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.90.2.1",
+        "Good Sum":638626,
+        "Critical Sum":2128,
+        "Warning Sum":1131,
+        "Client Count":732,
+        "Total Sum":641885,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.250.0.4",
+        "Driver":"21.90.2.1",
         "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2023-07-25"
+        "Driver Vintage":"2020-04-15"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.0.4",
-        "Good Sum":655054,
-        "Critical Sum":1787,
-        "Warning Sum":1469,
-        "Client Count":1737,
-        "Total Sum":658310,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"23.40.0.4",
+        "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.250.1.2",
+        "Good Sum":2030645,
+        "Critical Sum":7410,
+        "Warning Sum":2308,
+        "Client Count":2641,
+        "Total Sum":2040363,
+        "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
+        "Driver":"22.250.1.2",
         "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2024-03-09"
+        "Driver Vintage":"2023-08-06"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.80.0.7",
-        "Good Sum":360041,
-        "Critical Sum":981,
+        "Good Sum":360128,
+        "Critical Sum":987,
         "Warning Sum":753,
-        "Client Count":681,
-        "Total Sum":361775,
+        "Client Count":683,
+        "Total Sum":361868,
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"23.80.0.7",
         "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2024-09-01"
+        "Driver Vintage":"2024-03-09"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7260 - 17.15.0.5",
@@ -1992,18 +1992,6 @@
         "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.90.2.1",
-        "Good Sum":637188,
-        "Critical Sum":2128,
-        "Warning Sum":1131,
-        "Client Count":731,
-        "Total Sum":640447,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"21.90.2.1",
-        "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2020-04-15"
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.50.0.6",
         "Good Sum":794069,
         "Critical Sum":2086,
@@ -2013,27 +2001,27 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.50.0.6",
         "Good Roaming Calculation (%)":99.5,
-        "Driver Vintage":"2024-04-13"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Wireless-AC 9462 - 22.70.0.6",
-        "Good Sum":72457,
-        "Critical Sum":239,
-        "Warning Sum":44,
-        "Client Count":71,
-        "Total Sum":72740,
-        "Adapter":"Intel(R) Wireless-AC 9462",
-        "Driver":"22.70.0.6",
-        "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2021-06-28"
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.0.4",
+        "Good Sum":656670,
+        "Critical Sum":1797,
+        "Warning Sum":1469,
+        "Client Count":1743,
+        "Total Sum":659936,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"23.40.0.4",
+        "Good Roaming Calculation (%)":99.5,
+        "Driver Vintage":"2024-03-09"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.60.0.5",
-        "Good Sum":627090,
-        "Critical Sum":657,
+        "Good Sum":642264,
+        "Critical Sum":674,
         "Warning Sum":1597,
-        "Client Count":1436,
-        "Total Sum":629344,
+        "Client Count":1477,
+        "Total Sum":644535,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"21.60.0.5",
         "Good Roaming Calculation (%)":99.6,
@@ -2053,23 +2041,35 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 22.130.0.5",
-        "Good Sum":760356,
+        "Good Sum":761795,
         "Critical Sum":2131,
         "Warning Sum":1043,
-        "Client Count":958,
-        "Total Sum":763530,
+        "Client Count":959,
+        "Total Sum":764969,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"22.130.0.5",
         "Good Roaming Calculation (%)":99.6,
         "Driver Vintage":"2022-03-14"
     },
     {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.10.0.6",
+        "Good Sum":61528,
+        "Critical Sum":142,
+        "Warning Sum":99,
+        "Client Count":54,
+        "Total Sum":61769,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
+        "Driver":"20.10.0.6",
+        "Good Roaming Calculation (%)":99.6,
+        "Driver Vintage":"2017-10-16"
+    },
+    {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.21.2",
-        "Good Sum":95225,
+        "Good Sum":96806,
         "Critical Sum":181,
         "Warning Sum":243,
-        "Client Count":167,
-        "Total Sum":95649,
+        "Client Count":169,
+        "Total Sum":97230,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
         "Driver":"20.70.21.2",
         "Good Roaming Calculation (%)":99.6,
@@ -2089,11 +2089,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.23.1",
-        "Good Sum":641578,
-        "Critical Sum":1923,
+        "Good Sum":656852,
+        "Critical Sum":1957,
         "Warning Sum":884,
-        "Client Count":625,
-        "Total Sum":644385,
+        "Client Count":636,
+        "Total Sum":659693,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
         "Driver":"20.70.23.1",
         "Good Roaming Calculation (%)":99.6,
@@ -2101,39 +2101,27 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.50.0.5",
-        "Good Sum":31890,
-        "Critical Sum":3,
+        "Good Sum":32625,
+        "Critical Sum":5,
         "Warning Sum":112,
-        "Client Count":57,
-        "Total Sum":32005,
+        "Client Count":58,
+        "Total Sum":32742,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.50.0.5",
         "Good Roaming Calculation (%)":99.6,
         "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.1",
-        "Good Sum":755725,
-        "Critical Sum":3138,
-        "Warning Sum":180,
-        "Client Count":1304,
-        "Total Sum":759043,
-        "Adapter":"Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter",
-        "Driver":"6001.10.356.1",
+        "Adapter-Driver":"Intel(R) Wireless-AC 9462 - 22.70.0.6",
+        "Good Sum":73894,
+        "Critical Sum":239,
+        "Warning Sum":44,
+        "Client Count":72,
+        "Total Sum":74177,
+        "Adapter":"Intel(R) Wireless-AC 9462",
+        "Driver":"22.70.0.6",
         "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2024-05-12"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.10.0.6",
-        "Good Sum":60493,
-        "Critical Sum":136,
-        "Warning Sum":99,
-        "Client Count":53,
-        "Total Sum":60728,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
-        "Driver":"20.10.0.6",
-        "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2017-10-16"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 23.110.0.5",
@@ -2145,7 +2133,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.110.0.5",
         "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":null
+        "Driver Vintage":"2025-01-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.150.1.1",
@@ -2161,27 +2149,39 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.50.1.1",
-        "Good Sum":23612,
-        "Critical Sum":74,
+        "Good Sum":24165,
+        "Critical Sum":78,
         "Warning Sum":10,
-        "Client Count":41,
-        "Total Sum":23696,
+        "Client Count":42,
+        "Total Sum":24253,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"21.50.1.1",
         "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2019-10-05"
+        "Driver Vintage":"2022-06-20"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.120.0.3",
-        "Good Sum":28666,
+        "Good Sum":30103,
         "Critical Sum":123,
         "Warning Sum":0,
-        "Client Count":29,
-        "Total Sum":28789,
+        "Client Count":30,
+        "Total Sum":30226,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2025-02-05"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.20.0.6",
+        "Good Sum":785296,
+        "Critical Sum":1884,
+        "Warning Sum":1006,
+        "Client Count":845,
+        "Total Sum":788186,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.20.0.6",
+        "Good Roaming Calculation (%)":99.6,
+        "Driver Vintage":"2020-11-29"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.30.0.6",
@@ -2197,27 +2197,51 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.10.0.8",
-        "Good Sum":434551,
-        "Critical Sum":633,
+        "Good Sum":435458,
+        "Critical Sum":639,
         "Warning Sum":931,
-        "Client Count":669,
-        "Total Sum":436115,
+        "Client Count":670,
+        "Total Sum":437028,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.10.0.8",
         "Good Roaming Calculation (%)":99.6,
         "Driver Vintage":"2023-10-30"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.20.0.6",
-        "Good Sum":772357,
-        "Critical Sum":1864,
-        "Warning Sum":1006,
-        "Client Count":835,
-        "Total Sum":775227,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.20.0.6",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.0.4",
+        "Good Sum":1212021,
+        "Critical Sum":4245,
+        "Warning Sum":1009,
+        "Client Count":1896,
+        "Total Sum":1217275,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"22.250.0.4",
         "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2020-11-29"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.0.4",
+        "Good Sum":1681218,
+        "Critical Sum":3210,
+        "Warning Sum":4386,
+        "Client Count":2286,
+        "Total Sum":1688814,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.250.0.4",
+        "Good Roaming Calculation (%)":99.6,
+        "Driver Vintage":"2023-07-25"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.180.0.4",
+        "Good Sum":17609,
+        "Critical Sum":69,
+        "Warning Sum":0,
+        "Client Count":57,
+        "Total Sum":17678,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"22.180.0.4",
+        "Good Roaming Calculation (%)":99.6,
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.1.1",
@@ -2232,36 +2256,12 @@
         "Driver Vintage":"2022-06-20"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.180.0.4",
-        "Good Sum":17609,
-        "Critical Sum":69,
-        "Warning Sum":0,
-        "Client Count":57,
-        "Total Sum":17678,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"22.180.0.4",
-        "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2022-10-17"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.0.4",
-        "Good Sum":1210584,
-        "Critical Sum":4245,
-        "Warning Sum":1009,
-        "Client Count":1895,
-        "Total Sum":1215838,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"22.250.0.4",
-        "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2023-07-25"
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.60.1.2",
-        "Good Sum":4141020,
-        "Critical Sum":11650,
+        "Good Sum":4149451,
+        "Critical Sum":11930,
         "Warning Sum":5504,
-        "Client Count":5687,
-        "Total Sum":4158174,
+        "Client Count":5699,
+        "Total Sum":4166885,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":99.6,
@@ -2277,19 +2277,19 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.10.0.8",
         "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2023-10-30"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.40.0.7",
-        "Good Sum":6616470,
-        "Critical Sum":13465,
+        "Good Sum":6711087,
+        "Critical Sum":13646,
         "Warning Sum":13188,
-        "Client Count":14506,
-        "Total Sum":6643123,
+        "Client Count":14764,
+        "Total Sum":6737921,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.40.0.7",
         "Good Roaming Calculation (%)":99.6,
-        "Driver Vintage":"2021-09-18"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Wi-Fi  (0x14E4, 0x7BF) - 16.0 (1657)",
@@ -2305,11 +2305,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.110.0.5",
-        "Good Sum":159735,
+        "Good Sum":160961,
         "Critical Sum":552,
         "Warning Sum":148,
-        "Client Count":359,
-        "Total Sum":160435,
+        "Client Count":361,
+        "Total Sum":161661,
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"23.110.0.5",
         "Good Roaming Calculation (%)":99.6,
@@ -2317,23 +2317,23 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7260 - 18.33.17.1",
-        "Good Sum":443768,
-        "Critical Sum":458,
+        "Good Sum":445207,
+        "Critical Sum":459,
         "Warning Sum":728,
-        "Client Count":516,
-        "Total Sum":444954,
+        "Client Count":517,
+        "Total Sum":446394,
         "Adapter":"Intel(R) Dual Band Wireless-AC 7260",
         "Driver":"18.33.17.1",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2019-04-28"
+        "Driver Vintage":"2025-01-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 22.250.1.2",
-        "Good Sum":24976,
+        "Good Sum":25038,
         "Critical Sum":70,
         "Warning Sum":17,
-        "Client Count":72,
-        "Total Sum":25063,
+        "Client Count":73,
+        "Total Sum":25125,
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"22.250.1.2",
         "Good Roaming Calculation (%)":99.7,
@@ -2341,15 +2341,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.1.3",
-        "Good Sum":162823,
+        "Good Sum":167142,
         "Critical Sum":356,
         "Warning Sum":70,
-        "Client Count":357,
-        "Total Sum":163249,
+        "Client Count":361,
+        "Total Sum":167568,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.80.1.3",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2024-09-03"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.24.1",
@@ -2365,15 +2365,15 @@
     },
     {
         "Adapter-Driver":"Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.926",
-        "Good Sum":195723,
+        "Good Sum":198884,
         "Critical Sum":474,
         "Warning Sum":128,
-        "Client Count":200,
-        "Total Sum":196325,
+        "Client Count":202,
+        "Total Sum":199486,
         "Adapter":"Qualcomm QCA61x4A 802.11ac Wireless Adapter",
         "Driver":"12.0.0.926",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2019-09-18"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.3.3",
@@ -2385,7 +2385,19 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
         "Driver":"20.70.3.3",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2018-09-02"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 21.120.0.9",
+        "Good Sum":127884,
+        "Critical Sum":145,
+        "Warning Sum":221,
+        "Client Count":136,
+        "Total Sum":128250,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
+        "Driver":"21.120.0.9",
+        "Good Roaming Calculation (%)":99.7,
+        "Driver Vintage":"2020-08-15"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.4.2",
@@ -2401,11 +2413,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.110.1.1",
-        "Good Sum":132680,
-        "Critical Sum":188,
+        "Good Sum":133100,
+        "Critical Sum":189,
         "Warning Sum":263,
-        "Client Count":188,
-        "Total Sum":133131,
+        "Client Count":189,
+        "Total Sum":133552,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.110.1.1",
         "Good Roaming Calculation (%)":99.7,
@@ -2421,39 +2433,39 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.220.0.4",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2023-03-28"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.0.3",
-        "Good Sum":1046914,
-        "Critical Sum":2169,
+        "Good Sum":1056670,
+        "Critical Sum":2177,
         "Warning Sum":583,
-        "Client Count":1712,
-        "Total Sum":1049666,
+        "Client Count":1726,
+        "Total Sum":1059430,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.170.0.3",
+        "Good Roaming Calculation (%)":99.7,
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.220.0.4",
+        "Good Sum":693483,
+        "Critical Sum":1607,
+        "Warning Sum":507,
+        "Client Count":1219,
+        "Total Sum":695597,
+        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
+        "Driver":"22.220.0.4",
         "Good Roaming Calculation (%)":99.7,
         "Driver Vintage":"2022-08-28"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.220.0.4",
-        "Good Sum":685284,
-        "Critical Sum":1607,
-        "Warning Sum":507,
-        "Client Count":1211,
-        "Total Sum":687398,
-        "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
-        "Driver":"22.220.0.4",
-        "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2023-03-28"
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.190.0.4",
-        "Good Sum":1367581,
-        "Critical Sum":3237,
+        "Good Sum":1384179,
+        "Critical Sum":3356,
         "Warning Sum":1136,
-        "Client Count":2482,
-        "Total Sum":1371954,
+        "Client Count":2522,
+        "Total Sum":1388671,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.190.0.4",
         "Good Roaming Calculation (%)":99.7,
@@ -2469,43 +2481,31 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.90.0.5",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2021-09-26"
+        "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 21.120.0.9",
-        "Good Sum":127884,
-        "Critical Sum":145,
-        "Warning Sum":221,
-        "Client Count":136,
-        "Total Sum":128250,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
-        "Driver":"21.120.0.9",
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.230.0.8",
+        "Good Sum":1685243,
+        "Critical Sum":2908,
+        "Warning Sum":2614,
+        "Client Count":2871,
+        "Total Sum":1690765,
+        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
+        "Driver":"22.230.0.8",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2020-08-15"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.80.1.1",
-        "Good Sum":14764,
-        "Critical Sum":39,
+        "Good Sum":14821,
+        "Critical Sum":41,
         "Warning Sum":3,
-        "Client Count":53,
-        "Total Sum":14806,
+        "Client Count":54,
+        "Total Sum":14865,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.80.1.1",
         "Good Roaming Calculation (%)":99.7,
         "Driver Vintage":"2022-05-01"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.230.0.8",
-        "Good Sum":1681166,
-        "Critical Sum":2897,
-        "Warning Sum":2614,
-        "Client Count":2859,
-        "Total Sum":1686677,
-        "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
-        "Driver":"22.230.0.8",
-        "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2023-05-08"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.1.3",
@@ -2517,7 +2517,19 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"23.80.1.3",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2024-09-03"
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.90.3.2",
+        "Good Sum":79802,
+        "Critical Sum":35,
+        "Warning Sum":190,
+        "Client Count":126,
+        "Total Sum":80027,
+        "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
+        "Driver":"21.90.3.2",
+        "Good Roaming Calculation (%)":99.7,
+        "Driver Vintage":"2023-06-17"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 21.50.1.1",
@@ -2529,7 +2541,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"21.50.1.1",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2019-10-05"
+        "Driver Vintage":"2024-09-03"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.10.2.2",
@@ -2557,51 +2569,27 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.1.3",
-        "Good Sum":117784,
-        "Critical Sum":246,
+        "Good Sum":120468,
+        "Critical Sum":251,
         "Warning Sum":75,
-        "Client Count":264,
-        "Total Sum":118105,
+        "Client Count":269,
+        "Total Sum":120794,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.80.1.3",
         "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2024-09-03"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.240.0.6",
-        "Good Sum":446348,
-        "Critical Sum":575,
+        "Good Sum":452514,
+        "Critical Sum":577,
         "Warning Sum":974,
-        "Client Count":595,
-        "Total Sum":447897,
+        "Client Count":602,
+        "Total Sum":454065,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.240.0.6",
         "Good Roaming Calculation (%)":99.7,
         "Driver Vintage":"2023-06-17"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.90.3.2",
-        "Good Sum":79802,
-        "Critical Sum":35,
-        "Warning Sum":190,
-        "Client Count":126,
-        "Total Sum":80027,
-        "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
-        "Driver":"21.90.3.2",
-        "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":"2020-05-03"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.0.1.5",
-        "Good Sum":32600,
-        "Critical Sum":90,
-        "Warning Sum":3,
-        "Client Count":50,
-        "Total Sum":32693,
-        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
-        "Driver":"22.0.1.5",
-        "Good Roaming Calculation (%)":99.7,
-        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 3168 - 19.51.30.1",
@@ -2616,6 +2604,42 @@
         "Driver Vintage":"2020-06-01"
     },
     {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.0.1.5",
+        "Good Sum":32600,
+        "Critical Sum":90,
+        "Warning Sum":3,
+        "Client Count":50,
+        "Total Sum":32693,
+        "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
+        "Driver":"22.0.1.5",
+        "Good Roaming Calculation (%)":99.7,
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.25.2",
+        "Good Sum":442563,
+        "Critical Sum":387,
+        "Warning Sum":678,
+        "Client Count":568,
+        "Total Sum":443628,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
+        "Driver":"20.70.25.2",
+        "Good Roaming Calculation (%)":99.8,
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.30.1",
+        "Good Sum":1571383,
+        "Critical Sum":1853,
+        "Warning Sum":681,
+        "Client Count":2104,
+        "Total Sum":1573917,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
+        "Driver":"20.70.30.1",
+        "Good Roaming Calculation (%)":99.8,
+        "Driver Vintage":"2022-01-12"
+    },
+    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.90.1.3",
         "Good Sum":127181,
         "Critical Sum":241,
@@ -2625,55 +2649,43 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"23.90.1.3",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2024-10-12"
-    },
-    {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.30.1",
-        "Good Sum":1556435,
-        "Critical Sum":1845,
-        "Warning Sum":681,
-        "Client Count":2090,
-        "Total Sum":1558961,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
-        "Driver":"20.70.30.1",
-        "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2022-01-12"
+        "Driver Vintage":"2020-06-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 23.100.0.4",
-        "Good Sum":204164,
+        "Good Sum":204708,
         "Critical Sum":406,
         "Warning Sum":37,
-        "Client Count":355,
-        "Total Sum":204607,
+        "Client Count":357,
+        "Total Sum":205151,
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"23.100.0.4",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2024-11-10"
+        "Driver Vintage":"2022-01-12"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.19.1",
-        "Good Sum":47120,
-        "Critical Sum":50,
+        "Good Sum":48555,
+        "Critical Sum":51,
         "Warning Sum":25,
-        "Client Count":68,
-        "Total Sum":47195,
+        "Client Count":69,
+        "Total Sum":48631,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.19.1",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2020-09-14"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.30.1",
-        "Good Sum":3062096,
-        "Critical Sum":3915,
+        "Good Sum":3088730,
+        "Critical Sum":4243,
         "Warning Sum":2989,
-        "Client Count":4775,
-        "Total Sum":3069000,
+        "Client Count":4823,
+        "Total Sum":3095962,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.30.1",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2022-01-12"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.80.0.4",
@@ -2685,15 +2697,15 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"21.80.0.4",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2020-01-29"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.1.1",
-        "Good Sum":1120625,
-        "Critical Sum":1516,
+        "Good Sum":1145255,
+        "Critical Sum":1552,
         "Warning Sum":1075,
-        "Client Count":2374,
-        "Total Sum":1123216,
+        "Client Count":2437,
+        "Total Sum":1147882,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.0.1.1",
         "Good Roaming Calculation (%)":99.8,
@@ -2701,15 +2713,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.26.2",
-        "Good Sum":65198,
+        "Good Sum":65207,
         "Critical Sum":69,
         "Warning Sum":33,
-        "Client Count":220,
-        "Total Sum":65300,
+        "Client Count":221,
+        "Total Sum":65309,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.26.2",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2021-08-08"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 22.60.0.6",
@@ -2725,27 +2737,27 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.90.0.2",
-        "Good Sum":508994,
-        "Critical Sum":604,
+        "Good Sum":513072,
+        "Critical Sum":610,
         "Warning Sum":463,
-        "Client Count":840,
-        "Total Sum":510061,
+        "Client Count":847,
+        "Total Sum":514145,
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"23.90.0.2",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2024-09-25"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.60.0.6",
-        "Good Sum":90897,
-        "Critical Sum":155,
+        "Good Sum":91723,
+        "Critical Sum":163,
         "Warning Sum":30,
-        "Client Count":225,
-        "Total Sum":91082,
+        "Client Count":229,
+        "Total Sum":91916,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.60.0.6",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2021-05-26"
+        "Driver Vintage":"2024-09-25"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.20.1.1",
@@ -2773,11 +2785,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.140.0.3",
-        "Good Sum":67551,
+        "Good Sum":67661,
         "Critical Sum":118,
         "Warning Sum":1,
-        "Client Count":108,
-        "Total Sum":67670,
+        "Client Count":109,
+        "Total Sum":67780,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.140.0.3",
         "Good Roaming Calculation (%)":99.8,
@@ -2793,7 +2805,7 @@
         "Adapter":"Intel(R) Wireless-AC 9462",
         "Driver":"22.250.1.2",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2023-08-06"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 22.250.1.2",
@@ -2833,11 +2845,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.120.0.9",
-        "Good Sum":210085,
-        "Critical Sum":275,
+        "Good Sum":216301,
+        "Critical Sum":280,
         "Warning Sum":146,
-        "Client Count":520,
-        "Total Sum":210506,
+        "Client Count":533,
+        "Total Sum":216727,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"21.120.0.9",
         "Good Roaming Calculation (%)":99.8,
@@ -2865,7 +2877,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.10.0.8",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2023-10-30"
+        "Driver Vintage":"2021-01-19"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 22.90.0.5",
@@ -2881,11 +2893,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 21.110.1.1",
-        "Good Sum":328426,
+        "Good Sum":330576,
         "Critical Sum":374,
         "Warning Sum":150,
-        "Client Count":735,
-        "Total Sum":328950,
+        "Client Count":738,
+        "Total Sum":331100,
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"21.110.1.1",
         "Good Roaming Calculation (%)":99.8,
@@ -2901,15 +2913,15 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"22.170.0.3",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2022-08-28"
+        "Driver Vintage":"2020-06-30"
     },
     {
         "Adapter-Driver":"Marvell AVASTAR Wireless-AC Network Controller - 15.68.17022.122",
-        "Good Sum":273641,
-        "Critical Sum":446,
+        "Good Sum":273676,
+        "Critical Sum":448,
         "Warning Sum":195,
-        "Client Count":631,
-        "Total Sum":274282,
+        "Client Count":632,
+        "Total Sum":274319,
         "Adapter":"Marvell AVASTAR Wireless-AC Network Controller",
         "Driver":"15.68.17022.122",
         "Good Roaming Calculation (%)":99.8,
@@ -2917,47 +2929,47 @@
     },
     {
         "Adapter-Driver":"Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.1118",
-        "Good Sum":1285574,
-        "Critical Sum":1466,
+        "Good Sum":1310239,
+        "Critical Sum":1702,
         "Warning Sum":1566,
-        "Client Count":1594,
-        "Total Sum":1288606,
+        "Client Count":1617,
+        "Total Sum":1313507,
         "Adapter":"Qualcomm QCA61x4A 802.11ac Wireless Adapter",
         "Driver":"12.0.0.1118",
         "Good Roaming Calculation (%)":99.8,
         "Driver Vintage":"2021-06-14"
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.25.2",
-        "Good Sum":442563,
-        "Critical Sum":387,
-        "Warning Sum":678,
-        "Client Count":568,
-        "Total Sum":443628,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
-        "Driver":"20.70.25.2",
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.15.3",
+        "Good Sum":937216,
+        "Critical Sum":1130,
+        "Warning Sum":414,
+        "Client Count":1069,
+        "Total Sum":938760,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
+        "Driver":"19.51.15.3",
+        "Good Roaming Calculation (%)":99.8,
+        "Driver Vintage":null
+    },
+    {
+        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.40.0.4",
+        "Good Sum":70155,
+        "Critical Sum":76,
+        "Warning Sum":56,
+        "Client Count":137,
+        "Total Sum":70287,
+        "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
+        "Driver":"23.40.0.4",
         "Good Roaming Calculation (%)":99.8,
         "Driver Vintage":"2021-06-21"
     },
     {
-        "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.40.0.4",
-        "Good Sum":68185,
-        "Critical Sum":75,
-        "Warning Sum":56,
-        "Client Count":135,
-        "Total Sum":68316,
-        "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
-        "Driver":"23.40.0.4",
-        "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2024-03-09"
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.0.6",
-        "Good Sum":1551868,
-        "Critical Sum":1739,
+        "Good Sum":1569403,
+        "Critical Sum":1843,
         "Warning Sum":656,
-        "Client Count":1648,
-        "Total Sum":1554263,
+        "Client Count":1663,
+        "Total Sum":1571902,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.0.0.6",
         "Good Roaming Calculation (%)":99.8,
@@ -2985,15 +2997,15 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"21.80.2.1",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2020-02-24"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.40.0.4",
-        "Good Sum":2038769,
-        "Critical Sum":3392,
+        "Good Sum":2081928,
+        "Critical Sum":3420,
         "Warning Sum":1357,
-        "Client Count":2272,
-        "Total Sum":2043518,
+        "Client Count":2303,
+        "Total Sum":2086705,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.40.0.4",
         "Good Roaming Calculation (%)":99.8,
@@ -3009,27 +3021,27 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.90.1.3",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2024-10-12"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.80.0.7",
-        "Good Sum":2414810,
-        "Critical Sum":2760,
+        "Good Sum":2434863,
+        "Critical Sum":2898,
         "Warning Sum":914,
-        "Client Count":4597,
-        "Total Sum":2418484,
+        "Client Count":4640,
+        "Total Sum":2438675,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.80.0.7",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2024-09-01"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.60.1.2",
-        "Good Sum":12312921,
+        "Good Sum":12314171,
         "Critical Sum":18502,
         "Warning Sum":6330,
-        "Client Count":15190,
-        "Total Sum":12337753,
+        "Client Count":15192,
+        "Total Sum":12339003,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":99.8,
@@ -3045,7 +3057,7 @@
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.135.0",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2022-12-01"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 3165 - 22.130.0.5",
@@ -3061,15 +3073,15 @@
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.149.100",
-        "Good Sum":3980761,
+        "Good Sum":3980762,
         "Critical Sum":5619,
         "Warning Sum":1886,
-        "Client Count":5807,
-        "Total Sum":3988266,
+        "Client Count":5808,
+        "Total Sum":3988267,
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.149.100",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2024-01-16"
+        "Driver Vintage":"2022-03-14"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7260 - 18.33.14.3",
@@ -3084,24 +3096,12 @@
         "Driver Vintage":"2018-09-02"
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.15.3",
-        "Good Sum":931481,
-        "Critical Sum":1130,
-        "Warning Sum":414,
-        "Client Count":1065,
-        "Total Sum":933025,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
-        "Driver":"19.51.15.3",
-        "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2018-09-02"
-    },
-    {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.120.0.3",
-        "Good Sum":89951,
+        "Good Sum":92116,
         "Critical Sum":45,
         "Warning Sum":134,
-        "Client Count":132,
-        "Total Sum":90130,
+        "Client Count":135,
+        "Total Sum":92295,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":99.8,
@@ -3141,7 +3141,7 @@
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.145.600",
         "Good Roaming Calculation (%)":99.8,
-        "Driver Vintage":"2023-08-16"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.131.0",
@@ -3156,52 +3156,52 @@
         "Driver Vintage":"2022-10-03"
     },
     {
-        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1694",
-        "Good Sum":246694,
-        "Critical Sum":178,
-        "Warning Sum":41,
-        "Client Count":387,
-        "Total Sum":246913,
-        "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter",
-        "Driver":"1.0.0.1694",
+        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1229",
+        "Good Sum":169343,
+        "Critical Sum":103,
+        "Warning Sum":4,
+        "Client Count":239,
+        "Total Sum":169450,
+        "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter",
+        "Driver":"2.0.0.1229",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2024-08-08"
+        "Driver Vintage":"2024-08-26"
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.50.0.5",
-        "Good Sum":272879,
-        "Critical Sum":57,
-        "Warning Sum":80,
-        "Client Count":276,
-        "Total Sum":273016,
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.12.5",
+        "Good Sum":176517,
+        "Critical Sum":136,
+        "Warning Sum":59,
+        "Client Count":189,
+        "Total Sum":176712,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
-        "Driver":"20.50.0.5",
+        "Driver":"20.70.12.5",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":null
+        "Driver Vintage":"2019-08-25"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 23.100.0.4",
-        "Good Sum":395000,
-        "Critical Sum":298,
+        "Good Sum":404033,
+        "Critical Sum":307,
         "Warning Sum":178,
-        "Client Count":496,
-        "Total Sum":395476,
+        "Client Count":502,
+        "Total Sum":404518,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"23.100.0.4",
         "Good Roaming Calculation (%)":99.9,
         "Driver Vintage":"2024-11-10"
     },
     {
-        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1633",
-        "Good Sum":29905,
-        "Critical Sum":11,
-        "Warning Sum":4,
-        "Client Count":63,
-        "Total Sum":29920,
+        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1694",
+        "Good Sum":248130,
+        "Critical Sum":178,
+        "Warning Sum":41,
+        "Client Count":388,
+        "Total Sum":248349,
         "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter",
-        "Driver":"1.0.0.1633",
+        "Driver":"1.0.0.1694",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2024-02-26"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.100.1.1",
@@ -3213,15 +3213,15 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.100.1.1",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2022-05-01"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.230.0.8",
-        "Good Sum":319250,
+        "Good Sum":321079,
         "Critical Sum":169,
         "Warning Sum":25,
-        "Client Count":442,
-        "Total Sum":319444,
+        "Client Count":443,
+        "Total Sum":321273,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.230.0.8",
         "Good Roaming Calculation (%)":99.9,
@@ -3261,7 +3261,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.5.2",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2018-11-25"
+        "Driver Vintage":"2024-07-23"
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.4.0.1088",
@@ -3277,23 +3277,23 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.80.0.9",
-        "Good Sum":74510,
-        "Critical Sum":69,
+        "Good Sum":75093,
+        "Critical Sum":73,
         "Warning Sum":25,
-        "Client Count":141,
-        "Total Sum":74604,
+        "Client Count":144,
+        "Total Sum":75191,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.80.0.9",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2021-08-18"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.1272",
-        "Good Sum":629050,
-        "Critical Sum":341,
+        "Good Sum":661233,
+        "Critical Sum":344,
         "Warning Sum":23,
-        "Client Count":763,
-        "Total Sum":629414,
+        "Client Count":790,
+        "Total Sum":661600,
         "Adapter":"Qualcomm QCA61x4A 802.11ac Wireless Adapter",
         "Driver":"12.0.0.1272",
         "Good Roaming Calculation (%)":99.9,
@@ -3301,15 +3301,15 @@
     },
     {
         "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1277",
-        "Good Sum":19876,
+        "Good Sum":23898,
         "Critical Sum":17,
         "Warning Sum":0,
-        "Client Count":41,
-        "Total Sum":19893,
+        "Client Count":46,
+        "Total Sum":23915,
         "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter",
         "Driver":"2.0.0.1277",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":null
+        "Driver Vintage":"2024-11-18"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 23.100.0.4",
@@ -3321,7 +3321,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.100.0.4",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2024-11-10"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Killer(R) Wi-Fi 6 AX1650x 160MHz Wireless Network Adapter (200NGW) - 23.90.0.2",
@@ -3345,7 +3345,7 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"21.40.2.2",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2019-08-31"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 22.30.0.11",
@@ -3357,7 +3357,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"22.30.0.11",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2021-01-19"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Killer Wireless-n\/a\/ac 1535 Wireless Network Adapter - 12.0.0.1118",
@@ -3393,7 +3393,7 @@
         "Adapter":"Intel(R) Wi-Fi 7 BE200 320MHz",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2024-06-02"
+        "Driver Vintage":"2024-08-06"
     },
     {
         "Adapter-Driver":"Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 22.250.0.4",
@@ -3417,15 +3417,15 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.20.0.4",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2023-11-28"
+        "Driver Vintage":"2023-07-25"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.30.0.6",
-        "Good Sum":613777,
-        "Critical Sum":649,
+        "Good Sum":618299,
+        "Critical Sum":662,
         "Warning Sum":173,
-        "Client Count":1109,
-        "Total Sum":614599,
+        "Client Count":1118,
+        "Total Sum":619134,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.30.0.6",
         "Good Roaming Calculation (%)":99.9,
@@ -3433,11 +3433,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.40.1.1",
-        "Good Sum":274944,
-        "Critical Sum":187,
+        "Good Sum":274981,
+        "Critical Sum":190,
         "Warning Sum":20,
-        "Client Count":507,
-        "Total Sum":275151,
+        "Client Count":508,
+        "Total Sum":275191,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.40.1.1",
         "Good Roaming Calculation (%)":99.9,
@@ -3453,7 +3453,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.120.0.3",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2022-01-30"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 23.50.0.6",
@@ -3477,19 +3477,19 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2024-06-02"
+        "Driver Vintage":"2024-04-13"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 20.110.0.3",
-        "Good Sum":53675,
+        "Good Sum":55114,
         "Critical Sum":33,
         "Warning Sum":5,
-        "Client Count":76,
-        "Total Sum":53713,
+        "Client Count":77,
+        "Total Sum":55152,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"20.110.0.3",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2018-11-27"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 22.130.0.5",
@@ -3516,16 +3516,16 @@
         "Driver Vintage":null
     },
     {
-        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.12.5",
-        "Good Sum":175810,
-        "Critical Sum":134,
-        "Warning Sum":59,
-        "Client Count":188,
-        "Total Sum":176003,
-        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
-        "Driver":"20.70.12.5",
+        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1633",
+        "Good Sum":29905,
+        "Critical Sum":11,
+        "Warning Sum":4,
+        "Client Count":63,
+        "Total Sum":29920,
+        "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter",
+        "Driver":"1.0.0.1633",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2019-08-25"
+        "Driver Vintage":"2024-02-26"
     },
     {
         "Adapter-Driver":"Realtek 8812BU Wireless LAN 802.11ac USB NIC - 1030.38.712.2019",
@@ -3541,11 +3541,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.5.2",
-        "Good Sum":129093,
-        "Critical Sum":29,
+        "Good Sum":132287,
+        "Critical Sum":30,
         "Warning Sum":110,
-        "Client Count":144,
-        "Total Sum":129232,
+        "Client Count":147,
+        "Total Sum":132427,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
         "Driver":"20.70.5.2",
         "Good Roaming Calculation (%)":99.9,
@@ -3561,7 +3561,7 @@
         "Adapter":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter",
         "Driver":"3.0.1.1255",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2022-07-04"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.190.0.4",
@@ -3589,11 +3589,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.110.1.1",
-        "Good Sum":676640,
-        "Critical Sum":151,
+        "Good Sum":683634,
+        "Critical Sum":178,
         "Warning Sum":730,
-        "Client Count":938,
-        "Total Sum":677521,
+        "Client Count":944,
+        "Total Sum":684542,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.110.1.1",
         "Good Roaming Calculation (%)":99.9,
@@ -3601,11 +3601,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.200.0.6",
-        "Good Sum":143196,
+        "Good Sum":143677,
         "Critical Sum":67,
         "Warning Sum":64,
-        "Client Count":183,
-        "Total Sum":143327,
+        "Client Count":185,
+        "Total Sum":143808,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.200.0.6",
         "Good Roaming Calculation (%)":99.9,
@@ -3621,7 +3621,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.110.2.1",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2020-07-20"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.110.3.2",
@@ -3633,7 +3633,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.110.3.2",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2020-08-05"
+        "Driver Vintage":"2020-07-20"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.220.0.4",
@@ -3645,27 +3645,27 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.220.0.4",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2023-03-28"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.80.2.1",
-        "Good Sum":208048,
-        "Critical Sum":244,
+        "Good Sum":209280,
+        "Critical Sum":245,
         "Warning Sum":67,
-        "Client Count":400,
-        "Total Sum":208359,
+        "Client Count":403,
+        "Total Sum":209592,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.80.2.1",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2020-02-24"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.10.0.7",
-        "Good Sum":321033,
-        "Critical Sum":74,
+        "Good Sum":321478,
+        "Critical Sum":76,
         "Warning Sum":117,
-        "Client Count":419,
-        "Total Sum":321224,
+        "Client Count":420,
+        "Total Sum":321671,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.10.0.7",
         "Good Roaming Calculation (%)":99.9,
@@ -3717,7 +3717,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.130.0.5",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2022-03-14"
+        "Driver Vintage":"2024-09-25"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.140.0.3",
@@ -3729,19 +3729,19 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.140.0.3",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2022-04-25"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 3160 - 18.33.17.1",
-        "Good Sum":161088,
+        "Good Sum":162527,
         "Critical Sum":54,
         "Warning Sum":137,
-        "Client Count":165,
-        "Total Sum":161279,
+        "Client Count":167,
+        "Total Sum":162718,
         "Adapter":"Intel(R) Dual Band Wireless-AC 3160",
         "Driver":"18.33.17.1",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2019-04-28"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.0.1.1",
@@ -3753,19 +3753,19 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.0.1.1",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2020-09-28"
+        "Driver Vintage":"2019-04-28"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.160.0.4",
-        "Good Sum":3570540,
+        "Good Sum":3570918,
         "Critical Sum":2951,
         "Warning Sum":235,
-        "Client Count":4707,
-        "Total Sum":3573726,
+        "Client Count":4708,
+        "Total Sum":3574104,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.160.0.4",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2022-08-13"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.128.0",
@@ -3789,7 +3789,7 @@
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.124.0",
         "Good Roaming Calculation (%)":99.9,
-        "Driver Vintage":"2022-07-03"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.123.322",
@@ -3813,7 +3813,7 @@
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.141.0",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-04-17"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.143.0",
@@ -3825,7 +3825,7 @@
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.143.0",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-06-05"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.144.0",
@@ -3837,15 +3837,15 @@
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.144.0",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-07-10"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.149.0",
-        "Good Sum":81227,
+        "Good Sum":81251,
         "Critical Sum":14,
         "Warning Sum":14,
-        "Client Count":143,
-        "Total Sum":81255,
+        "Client Count":144,
+        "Total Sum":81279,
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.149.0",
         "Good Roaming Calculation (%)":100.0,
@@ -3861,7 +3861,7 @@
         "Adapter":"Dell Wireless 1550 802.11ac",
         "Driver":"6.30.223.259",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2023-12-20"
     },
     {
         "Adapter-Driver":"Intel(R) Centrino(R) Ultimate-N 6300 AGN - 15.18.0.1",
@@ -3885,15 +3885,15 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 3168",
         "Driver":"19.51.40.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-02-19"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.152.0",
-        "Good Sum":851300,
-        "Critical Sum":301,
+        "Good Sum":885028,
+        "Critical Sum":339,
         "Warning Sum":40,
-        "Client Count":1768,
-        "Total Sum":851641,
+        "Client Count":1826,
+        "Total Sum":885407,
         "Adapter":"Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter",
         "Driver":"6001.15.152.0",
         "Good Roaming Calculation (%)":100.0,
@@ -3901,11 +3901,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.30.1",
-        "Good Sum":183248,
-        "Critical Sum":63,
+        "Good Sum":187555,
+        "Critical Sum":69,
         "Warning Sum":6,
-        "Client Count":233,
-        "Total Sum":183317,
+        "Client Count":237,
+        "Total Sum":187630,
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.30.1",
         "Good Roaming Calculation (%)":100.0,
@@ -3913,11 +3913,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.150.1.1",
-        "Good Sum":151349,
+        "Good Sum":152784,
         "Critical Sum":4,
         "Warning Sum":44,
-        "Client Count":204,
-        "Total Sum":151397,
+        "Client Count":205,
+        "Total Sum":152832,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.150.1.1",
         "Good Roaming Calculation (%)":100.0,
@@ -3925,15 +3925,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 22.10.0.7",
-        "Good Sum":63506,
-        "Critical Sum":7,
+        "Good Sum":64470,
+        "Critical Sum":8,
         "Warning Sum":3,
-        "Client Count":92,
-        "Total Sum":63516,
+        "Client Count":93,
+        "Total Sum":64481,
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.10.0.7",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2020-10-19"
+        "Driver Vintage":"2022-06-20"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.0.1.1",
@@ -3945,7 +3945,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.0.1.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-03-24"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.10.0.5",
@@ -3961,11 +3961,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.10.1.2",
-        "Good Sum":546733,
+        "Good Sum":546747,
         "Critical Sum":4,
         "Warning Sum":0,
-        "Client Count":426,
-        "Total Sum":546737,
+        "Client Count":428,
+        "Total Sum":546751,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.10.1.2",
         "Good Roaming Calculation (%)":100.0,
@@ -3997,15 +3997,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.30.3.2",
-        "Good Sum":436024,
+        "Good Sum":437498,
         "Critical Sum":197,
         "Warning Sum":10,
-        "Client Count":411,
-        "Total Sum":436231,
+        "Client Count":413,
+        "Total Sum":437705,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.30.3.2",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-07-06"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.40.1.4",
@@ -4041,7 +4041,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.50.1.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-10-05"
+        "Driver Vintage":"2019-08-31"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.70.0.6",
@@ -4053,15 +4053,15 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.70.0.6",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2020-01-06"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.40.0.7",
-        "Good Sum":161404,
+        "Good Sum":163464,
         "Critical Sum":61,
         "Warning Sum":17,
-        "Client Count":343,
-        "Total Sum":161482,
+        "Client Count":345,
+        "Total Sum":163542,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.40.0.7",
         "Good Roaming Calculation (%)":100.0,
@@ -4093,15 +4093,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.80.1.1",
-        "Good Sum":87485,
+        "Good Sum":88919,
         "Critical Sum":0,
         "Warning Sum":0,
-        "Client Count":79,
-        "Total Sum":87485,
+        "Client Count":80,
+        "Total Sum":88919,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.80.1.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-05-01"
+        "Driver Vintage":"2021-06-28"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.10.0.8",
@@ -4113,7 +4113,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.10.0.8",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-10-30"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 21.80.2.3",
@@ -4161,7 +4161,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.80.0.7",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-09-01"
+        "Driver Vintage":"2022-05-01"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9462 - 23.60.1.2",
@@ -4185,7 +4185,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560",
         "Driver":"20.30.4.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2018-02-17"
+        "Driver Vintage":"2024-06-02"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 - 20.40.0.4",
@@ -4197,7 +4197,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560",
         "Driver":"20.40.0.4",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2018-02-05"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 - 20.90.0.7",
@@ -4209,7 +4209,7 @@
         "Adapter":"Intel(R) Wireless-AC 9560",
         "Driver":"20.90.0.7",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2018-09-24"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 20.100.0.4",
@@ -4233,15 +4233,15 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"21.0.0.5",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-08-31"
+        "Driver Vintage":"2018-10-31"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 23.110.0.5",
-        "Good Sum":47465,
+        "Good Sum":48868,
         "Critical Sum":8,
         "Warning Sum":4,
-        "Client Count":94,
-        "Total Sum":47477,
+        "Client Count":95,
+        "Total Sum":48880,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.110.0.5",
         "Good Roaming Calculation (%)":100.0,
@@ -4269,15 +4269,15 @@
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"23.70.4.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-08-13"
+        "Driver Vintage":"2024-04-13"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.190.0.4",
-        "Good Sum":25560,
+        "Good Sum":26403,
         "Critical Sum":0,
         "Warning Sum":0,
-        "Client Count":56,
-        "Total Sum":25560,
+        "Client Count":57,
+        "Total Sum":26403,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.190.0.4",
         "Good Roaming Calculation (%)":100.0,
@@ -4285,11 +4285,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9560 160MHz - 22.200.2.1",
-        "Good Sum":445686,
+        "Good Sum":445762,
         "Critical Sum":99,
         "Warning Sum":37,
-        "Client Count":633,
-        "Total Sum":445822,
+        "Client Count":634,
+        "Total Sum":445898,
         "Adapter":"Intel(R) Wireless-AC 9560 160MHz",
         "Driver":"22.200.2.1",
         "Good Roaming Calculation (%)":100.0,
@@ -4317,7 +4317,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"22.40.0.7",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2021-03-02"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 23.120.0.3",
@@ -4329,7 +4329,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2025-02-05"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 23.20.1.1",
@@ -4341,7 +4341,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"23.20.1.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-12-19"
+        "Driver Vintage":"2025-02-05"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 20.120.0.100",
@@ -4365,7 +4365,7 @@
         "Adapter":"Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW)",
         "Driver":"22.70.0.6",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2021-06-28"
+        "Driver Vintage":"2019-01-27"
     },
     {
         "Adapter-Driver":"Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW) - 23.60.1.2",
@@ -4377,7 +4377,7 @@
         "Adapter":"Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW)",
         "Driver":"23.60.1.2",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-06-02"
+        "Driver Vintage":"2021-06-28"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.10.1.2",
@@ -4401,7 +4401,7 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"21.30.4.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-07-29"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX200 160MHz - 21.60.2.1",
@@ -4437,7 +4437,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"22.120.0.3",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-01-30"
+        "Driver Vintage":"2019-11-10"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 22.130.0.5",
@@ -4449,7 +4449,7 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"22.130.0.5",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-03-14"
+        "Driver Vintage":"2022-01-30"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 22.160.0.4",
@@ -4461,15 +4461,15 @@
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"22.160.0.4",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-08-13"
+        "Driver Vintage":"2022-03-14"
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 160MHz - 22.180.0.4",
-        "Good Sum":88640,
+        "Good Sum":89227,
         "Critical Sum":2,
         "Warning Sum":10,
-        "Client Count":164,
-        "Total Sum":88652,
+        "Client Count":165,
+        "Total Sum":89239,
         "Adapter":"Intel(R) Wireless-AC 9260 160MHz",
         "Driver":"22.180.0.4",
         "Good Roaming Calculation (%)":100.0,
@@ -4485,7 +4485,7 @@
         "Adapter":"Intel(R) Wi-Fi 7 BE200 320MHz",
         "Driver":"23.40.2.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-03-30"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1216",
@@ -4497,7 +4497,7 @@
         "Adapter":"MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter",
         "Driver":"3.0.1.1216",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2021-12-23"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 22.30.1.1339",
@@ -4509,7 +4509,7 @@
         "Adapter":"MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
         "Driver":"22.30.1.1339",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-08-18"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 7 BE200 320MHz - 23.90.0.2",
@@ -4521,7 +4521,7 @@
         "Adapter":"Intel(R) Wi-Fi 7 BE200 320MHz",
         "Driver":"23.90.0.2",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-09-25"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wireless-AC 9260 - 20.70.0.100",
@@ -4545,7 +4545,7 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX200 160MHz",
         "Driver":"22.30.0.11",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2021-01-19"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.11.3",
@@ -4561,15 +4561,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.12.5",
-        "Good Sum":136087,
+        "Good Sum":137523,
         "Critical Sum":36,
         "Warning Sum":30,
-        "Client Count":176,
-        "Total Sum":136153,
+        "Client Count":177,
+        "Total Sum":137589,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.12.5",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-08-25"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.8.1",
@@ -4593,15 +4593,15 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.70.9.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-04-28"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 22.0.1.1",
-        "Good Sum":50744,
+        "Good Sum":51959,
         "Critical Sum":2,
         "Warning Sum":3,
-        "Client Count":66,
-        "Total Sum":50749,
+        "Client Count":67,
+        "Total Sum":51964,
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"22.0.1.1",
         "Good Roaming Calculation (%)":100.0,
@@ -4629,7 +4629,7 @@
         "Adapter":"NETGEAR WNA3100 N300 Wireless USB Adapter",
         "Driver":"5.100.148.5",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2021-09-11"
     },
     {
         "Adapter-Driver":"Qualcomm Atheros AR946x Wireless Network Adapter - 3.0.2.201",
@@ -4677,7 +4677,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8265",
         "Driver":"20.50.0.4",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2018-05-08"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8265 - 20.70.10.2",
@@ -4713,7 +4713,7 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"21.110.3.2",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2020-08-05"
+        "Driver Vintage":"2024-09-25"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.60.2.1",
@@ -4725,15 +4725,15 @@
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"21.60.2.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-12-14"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 21.70.0.6",
-        "Good Sum":108524,
+        "Good Sum":109986,
         "Critical Sum":21,
         "Warning Sum":14,
-        "Client Count":142,
-        "Total Sum":108559,
+        "Client Count":143,
+        "Total Sum":110021,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"21.70.0.6",
         "Good Roaming Calculation (%)":100.0,
@@ -4749,7 +4749,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX211 160MHz",
         "Driver":"22.150.0.3",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-05-23"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.3.1",
@@ -4765,11 +4765,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6 AX201 160MHz - 22.50.1.1",
-        "Good Sum":34217,
+        "Good Sum":34221,
         "Critical Sum":11,
         "Warning Sum":3,
-        "Client Count":76,
-        "Total Sum":34231,
+        "Client Count":77,
+        "Total Sum":34235,
         "Adapter":"Intel(R) Wi-Fi 6 AX201 160MHz",
         "Driver":"22.50.1.1",
         "Good Roaming Calculation (%)":100.0,
@@ -4785,7 +4785,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"22.70.0.6",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2021-06-28"
+        "Driver Vintage":"2021-04-27"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.120.0.3",
@@ -4797,27 +4797,27 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"23.120.0.3",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2021-06-28"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 23.20.1.1",
-        "Good Sum":12094,
-        "Critical Sum":1,
+        "Good Sum":13529,
+        "Critical Sum":3,
         "Warning Sum":1,
-        "Client Count":57,
-        "Total Sum":12096,
+        "Client Count":58,
+        "Total Sum":13533,
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"23.20.1.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-12-19"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.1016",
-        "Good Sum":145923,
+        "Good Sum":149498,
         "Critical Sum":5,
         "Warning Sum":7,
-        "Client Count":188,
-        "Total Sum":145935,
+        "Client Count":195,
+        "Total Sum":149510,
         "Adapter":"Qualcomm QCA61x4A 802.11ac Wireless Adapter",
         "Driver":"12.0.0.1016",
         "Good Roaming Calculation (%)":100.0,
@@ -4833,7 +4833,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
         "Driver":"20.70.27.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2021-09-11"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek 8811CU Wireless LAN 802.11ac USB NIC - 1030.44.1014.2024",
@@ -4845,7 +4845,7 @@
         "Adapter":"Realtek 8811CU Wireless LAN 802.11ac USB NIC",
         "Driver":"1030.44.1014.2024",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-10-13"
+        "Driver Vintage":"2021-09-11"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.50.2",
@@ -4857,7 +4857,7 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.50.2",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-11-06"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.8.3",
@@ -4869,7 +4869,19 @@
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.8.3",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2023-11-06"
+    },
+    {
+        "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.50.0.5",
+        "Good Sum":276874,
+        "Critical Sum":57,
+        "Warning Sum":80,
+        "Client Count":279,
+        "Total Sum":277011,
+        "Adapter":"Intel(R) Dual Band Wireless-AC 8260",
+        "Driver":"20.50.0.5",
+        "Good Roaming Calculation (%)":100.0,
+        "Driver Vintage":"2024-08-11"
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 8260 - 20.70.16.4",
@@ -4885,27 +4897,15 @@
     },
     {
         "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter - 1.0.0.1671",
-        "Good Sum":13473,
+        "Good Sum":13664,
         "Critical Sum":0,
         "Warning Sum":0,
-        "Client Count":38,
-        "Total Sum":13473,
+        "Client Count":39,
+        "Total Sum":13664,
         "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WDI Network Adapter",
         "Driver":"1.0.0.1671",
         "Good Roaming Calculation (%)":100.0,
         "Driver Vintage":"2024-05-30"
-    },
-    {
-        "Adapter-Driver":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1229",
-        "Good Sum":140961,
-        "Critical Sum":56,
-        "Warning Sum":4,
-        "Client Count":209,
-        "Total Sum":141021,
-        "Adapter":"Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter",
-        "Driver":"2.0.0.1229",
-        "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-08-26"
     },
     {
         "Adapter-Driver":"Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter - 1030.38.712.2019",
@@ -4917,7 +4917,7 @@
         "Adapter":"Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter",
         "Driver":"1030.38.712.2019",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-07-17"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter - 1030.44.1014.2024",
@@ -4929,7 +4929,7 @@
         "Adapter":"Realtek RTL8188EU Wireless LAN 802.11n USB 2.0 Network Adapter",
         "Driver":"1030.44.1014.2024",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2024-10-13"
+        "Driver Vintage":"2019-07-17"
     },
     {
         "Adapter-Driver":"Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter - 1030.38.712.2019",
@@ -4941,7 +4941,7 @@
         "Adapter":"Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter",
         "Driver":"1030.38.712.2019",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2019-07-17"
+        "Driver Vintage":"2024-10-13"
     },
     {
         "Adapter-Driver":"Realtek RTL8822BE 802.11ac PCIe Adapter - 2024.0.10.209",
@@ -4957,15 +4957,15 @@
     },
     {
         "Adapter-Driver":"Realtek RTL8822CE 802.11ac PCIe Adapter - 2024.10.227.0",
-        "Good Sum":37987,
+        "Good Sum":38582,
         "Critical Sum":7,
         "Warning Sum":4,
-        "Client Count":83,
-        "Total Sum":37998,
+        "Client Count":84,
+        "Total Sum":38593,
         "Adapter":"Realtek RTL8822CE 802.11ac PCIe Adapter",
         "Driver":"2024.10.227.0",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2022-06-20"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Realtek RTL8822CE 802.11ac PCIe Adapter - 2024.10.228.7",
@@ -4977,7 +4977,7 @@
         "Adapter":"Realtek RTL8822CE 802.11ac PCIe Adapter",
         "Driver":"2024.10.228.7",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2023-09-13"
+        "Driver Vintage":"2022-06-20"
     },
     {
         "Adapter-Driver":"Qualcomm QCA9377 802.11ac Wireless Adapter - 12.0.0.697",
@@ -4989,7 +4989,7 @@
         "Adapter":"Qualcomm QCA9377 802.11ac Wireless Adapter",
         "Driver":"12.0.0.697",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2018-03-26"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Qualcomm QCA9377 802.11ac Wireless Adapter - 12.0.0.953",
@@ -5001,7 +5001,7 @@
         "Adapter":"Qualcomm QCA9377 802.11ac Wireless Adapter",
         "Driver":"12.0.0.953",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2020-06-13"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"RZ616 Wi-Fi 6E 160MHz - 23.32.2.560",
@@ -5037,7 +5037,7 @@
         "Adapter":"Intel(R) Wi-Fi 6E AX210 160MHz",
         "Driver":"22.0.1.5",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":null
+        "Driver Vintage":"2023-11-26"
     },
     {
         "Adapter-Driver":"Intel(R) Wi-Fi 6E AX210 160MHz - 22.100.0.3",
@@ -5089,11 +5089,11 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7265 - 19.51.14.1",
-        "Good Sum":113664,
+        "Good Sum":115098,
         "Critical Sum":12,
         "Warning Sum":0,
-        "Client Count":100,
-        "Total Sum":113676,
+        "Client Count":101,
+        "Total Sum":115110,
         "Adapter":"Intel(R) Dual Band Wireless-AC 7265",
         "Driver":"19.51.14.1",
         "Good Roaming Calculation (%)":100.0,
@@ -5101,15 +5101,15 @@
     },
     {
         "Adapter-Driver":"Intel(R) Dual Band Wireless-AC 7260 - 18.33.15.1",
-        "Good Sum":81630,
+        "Good Sum":83189,
         "Critical Sum":0,
         "Warning Sum":0,
-        "Client Count":83,
-        "Total Sum":81630,
+        "Client Count":84,
+        "Total Sum":83189,
         "Adapter":"Intel(R) Dual Band Wireless-AC 7260",
         "Driver":"18.33.15.1",
         "Good Roaming Calculation (%)":100.0,
-        "Driver Vintage":"2018-11-10"
+        "Driver Vintage":null
     },
     {
         "Adapter-Driver":"Broadcom 802.11n Network Adapter - 6.30.223.256",
