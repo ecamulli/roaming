@@ -1,2 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-HoustonMethodist,intel corporation wireless-ac 9260 [8086:2526] (rev 29),iwlwifi,Intel Corporation Wireless-AC 9260 [8086:2526] (rev 29) - iwlwifi,5366,21,416134,98.7
+HoustonMethodist,intel(r) wireless-ac 9560 160mhz,22.170.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3,1,1,13,92.3
+HoustonMethodist,intel(r) wi-fi 6 ax200 160mhz,21.80.2.1,Intel(R) Wi-Fi 6 AX200 160MHz - 21.80.2.1,4,1,108,96.3
+HoustonMethodist,linux,iwlwifi,iwlwifi,2025,16,167214,98.8

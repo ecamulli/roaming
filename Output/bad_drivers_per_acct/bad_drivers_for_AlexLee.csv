@@ -1,0 +1,4 @@
+Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
+AlexLee,mediatek wi-fi 6e mt7922 (rz616) 160mhz pcie adapter,3.3.0.800,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.800,9,2,156,94.2
+AlexLee,mediatek wi-fi 6e mt7922 (rz616) 160mhz pcie adapter,3.3.0.897,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.897,531,8,10418,94.9
+AlexLee,mediatek wi-fi 6e mt7922 (rz616) 160mhz pcie adapter,3.3.0.824,MediaTek Wi-Fi 6E MT7922 (RZ616) 160MHz PCIe Adapter - 3.3.0.824,189,3,4054,95.3

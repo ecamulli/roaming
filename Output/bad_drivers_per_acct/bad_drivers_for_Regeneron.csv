@@ -1,0 +1,3 @@
+Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
+Regeneron,intel(r) wi-fi 6e ax211 160mhz,23.100.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 23.100.0.4,4,1,79,94.9
+Regeneron,realtek rtl8852ae wifi 6 802.11ax pcie adapter,6001.10.356.1,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.1,110,2,10468,98.9

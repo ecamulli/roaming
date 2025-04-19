@@ -1,6 +1,6 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-SAQ,intel(r) wi-fi 6 ax201 160mhz,22.220.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.220.1.1,5478,3,120579,95.5
-SAQ,intel(r) dual band wireless-ac 7260,17.15.0.5,Intel(R) Dual Band Wireless-AC 7260 - 17.15.0.5,1996,2,81983,97.6
-SAQ,intel(r) dual band wireless-ac 7265,19.51.42.2,Intel(R) Dual Band Wireless-AC 7265 - 19.51.42.2,17181,54,889957,98.1
-SAQ,intel(r) dual band wireless-ac 7265,19.51.48.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.48.1,2424,8,135727,98.2
-SAQ,intel(r) dual band wireless-ac 8265,20.70.32.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1,3000,12,178263,98.3
+SAQ,intel(r) wi-fi 6 ax201 160mhz,22.220.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.220.1.1,2383,3,42404,94.4
+SAQ,intel(r) dual band wireless-ac 7265,19.51.48.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.48.1,588,4,28143,97.9
+SAQ,intel(r) dual band wireless-ac 8265,20.70.32.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1,905,7,49455,98.2
+SAQ,intel(r) dual band wireless-ac 7265,19.51.42.2,Intel(R) Dual Band Wireless-AC 7265 - 19.51.42.2,4067,40,236172,98.3
+SAQ,intel(r) dual band wireless-ac 7260,17.15.0.5,Intel(R) Dual Band Wireless-AC 7260 - 17.15.0.5,331,2,20192,98.4

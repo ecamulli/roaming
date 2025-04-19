@@ -1,4 +1,10 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Excela,intel(r) wi-fi 6 ax201 160mhz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,322,1,15589,97.9
-Excela,intel(r) dual band wireless-ac 8265,21.120.0.9,Intel(R) Dual Band Wireless-AC 8265 - 21.120.0.9,521,1,43939,98.8
-Excela,intel(r) dual band wireless-ac 8265,22.160.0.4,Intel(R) Dual Band Wireless-AC 8265 - 22.160.0.4,2991,7,252240,98.8
+Excela,intel(r) wireless-ac 9560 160mhz,22.80.0.9,Intel(R) Wireless-AC 9560 160MHz - 22.80.0.9,1,1,45,97.8
+Excela,intel(r) wi-fi 6 ax201 160mhz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,121,1,6093,98.0
+Excela,intel(r) wi-fi 6 ax201 160mhz,22.150.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.0.3,45,1,3325,98.6
+Excela,intel(r) wi-fi 6 ax201 160mhz,23.50.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.50.0.6,160,1,12732,98.7
+Excela,intel(r) dual band wireless-ac 3165,19.51.40.1,Intel(R) Dual Band Wireless-AC 3165 - 19.51.40.1,780,5,64866,98.8
+Excela,intel(r) dual band wireless-ac 8265,21.120.0.9,Intel(R) Dual Band Wireless-AC 8265 - 21.120.0.9,158,1,14375,98.9
+Excela,intel(r) dual band wireless-ac 8265,22.160.0.4,Intel(R) Dual Band Wireless-AC 8265 - 22.160.0.4,966,7,90270,98.9
+Excela,intel(r) dual band wireless-ac 8265,22.130.0.5,Intel(R) Dual Band Wireless-AC 8265 - 22.130.0.5,722,6,64341,98.9
+Excela,intel(r) dual band wireless-ac 8265,20.90.0.100,Intel(R) Dual Band Wireless-AC 8265 - 20.90.0.100,151,1,13990,98.9
