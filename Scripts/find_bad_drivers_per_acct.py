@@ -13,8 +13,8 @@ now_local = datetime.now()
 today_date = datetime.now().strftime("%Y-%m-%d")
 to_timestamp = int(now_local.timestamp() * 1000)
 
-# Get timestamp from 3 days ago in milliseconds
-from_timestamp = int((now_local - timedelta(days=30)).timestamp() * 1000)
+# Get timestamp in milliseconds
+from_timestamp = int((now_local - timedelta(days=10).timestamp() * 1000)
 
 # Define your save directory
 output_dir = "Output/bad_drivers_per_acct"
