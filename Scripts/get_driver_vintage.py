@@ -1,5 +1,6 @@
 import time
 import random
+import tempfile
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -22,13 +23,14 @@ if "Adapter-Driver" not in df.columns:
 
 # Set up Selenium WebDriver options
 options = webdriver.ChromeOptions()
+options.add_argument("--headless=chrome")  # GitHub Actions-safe headless mode
 options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
-options.add_argument("start-maximized")
-options.add_argument("disable-infobars")
 options.add_argument("--disable-extensions")
-# options.add_argument("--headless=new")
+options.add_argument("--disable-gpu")  # Optional, helps headless in some CI cases
+options.add_argument(f"--user-data-dir={tempfile.mkdtemp()}")  # Unique profile
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
 # Install and launch WebDriver
 chrome_driver_path = ChromeDriverManager().install()
@@ -78,7 +80,7 @@ for index, row in df.iterrows():
     except Exception as e:
         print(f"❌ Error processing '{adapter}': Not Found")
         print("🔍 Current page source (truncated):")
-        print(driver.page_source[:500])
+        print(driver.page_source[:1000])
         df.at[index, "Driver Vintage"] = "Not Found"
 
     
