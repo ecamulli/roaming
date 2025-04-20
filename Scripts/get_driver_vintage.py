@@ -1,4 +1,5 @@
 import time
+import random
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -77,6 +78,9 @@ for index, row in df.iterrows():
     except Exception as e:
         print(f"❌ Error processing '{adapter}': Not Found")
         df.at[index, "Driver Vintage"] = "Not Found"
+    
+    # Minimum delay between requests
+    time.sleep(random.uniform(1.2, 2.5))
 
 # Close WebDriver
 driver.quit()
