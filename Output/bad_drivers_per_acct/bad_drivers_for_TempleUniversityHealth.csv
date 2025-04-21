@@ -1,4 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-TempleUniversityHealth,realtek rtl8811au wireless lan 802.11ac usb 2.0 network adapter,1030.44.822.2023,Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter - 1030.44.822.2023,10950,20,298938,96.3
-TempleUniversityHealth,intel(r) wi-fi 6 ax200 160mhz,22.120.1.9,Intel(R) Wi-Fi 6 AX200 160MHz - 22.120.1.9,3759,20,238680,98.4
-TempleUniversityHealth,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,222,1,15808,98.6
+TempleUniversityHealth,realtek rtl8811au wireless lan 802.11ac usb 2.0 network adapter,1030.44.822.2023,Realtek RTL8811AU Wireless LAN 802.11ac USB 2.0 Network Adapter - 1030.44.822.2023,10982,20,296748,96.3
+TempleUniversityHealth,intel(r) wi-fi 6 ax200 160mhz,22.120.1.9,Intel(R) Wi-Fi 6 AX200 160MHz - 22.120.1.9,3846,20,238197,98.4
+TempleUniversityHealth,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,200,1,15806,98.7

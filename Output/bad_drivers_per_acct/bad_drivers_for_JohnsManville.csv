@@ -1,4 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
 JohnsManville,qualcomm fastconnect 6900 wi-fi 6e dual band simultaneous (dbs) wificx network adapter,2.0.0.1229,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1229,1,2,9,88.9
-JohnsManville,qualcomm atheros ar9580 wireless network adapter,10.1.10.5,Qualcomm Atheros AR9580 Wireless Network Adapter - 10.1.10.5,878,3,16928,94.8
-JohnsManville,qualcomm atheros ar9580 wireless network adapter,3.0.2.201,Qualcomm Atheros AR9580 Wireless Network Adapter - 3.0.2.201,1058,3,22351,95.3
+JohnsManville,qualcomm atheros ar9580 wireless network adapter,10.1.10.5,Qualcomm Atheros AR9580 Wireless Network Adapter - 10.1.10.5,902,3,16709,94.6
+JohnsManville,qualcomm atheros ar9580 wireless network adapter,3.0.2.201,Qualcomm Atheros AR9580 Wireless Network Adapter - 3.0.2.201,1063,3,22525,95.3

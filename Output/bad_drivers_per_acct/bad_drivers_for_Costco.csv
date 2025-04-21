@@ -1,10 +1,10 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Costco,intel(r) wi-fi 6 ax201 160mhz,22.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3,2530,2,18616,86.4
-Costco,intel(r) dual band wireless-ac 8265,20.70.24.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.24.1,727,1,9192,92.1
-Costco,intel(r) wi-fi 6 ax201 160mhz,22.40.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.40.0.7,553,1,9181,94.0
-Costco,intel(r) wi-fi 6 ax201 160mhz,23.20.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1,670,2,11101,94.0
-Costco,intel(r) wi-fi 6 ax201 160mhz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,335,2,7815,95.7
-Costco,intel(r) dual band wireless-ac 7265,19.51.12.3,Intel(R) Dual Band Wireless-AC 7265 - 19.51.12.3,1204,3,35910,96.6
-Costco,intel(r) dual band wireless-ac 8265,20.70.17.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.17.1,200,1,6487,96.9
-Costco,intel(r) dual band wireless-ac 8265,20.70.3.3,Intel(R) Dual Band Wireless-AC 8265 - 20.70.3.3,123,1,4602,97.3
-Costco,intel(r) dual band wireless-ac 8265,20.50.3.3,Intel(R) Dual Band Wireless-AC 8265 - 20.50.3.3,727,8,41876,98.3
+Costco,intel(r) wi-fi 6 ax201 160mhz,22.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3,2431,2,17694,86.3
+Costco,intel(r) dual band wireless-ac 8265,20.70.24.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.24.1,671,1,8486,92.1
+Costco,intel(r) wi-fi 6 ax201 160mhz,22.40.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.40.0.7,507,1,8311,93.9
+Costco,intel(r) wi-fi 6 ax201 160mhz,23.20.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1,626,2,10194,93.9
+Costco,intel(r) wi-fi 6 ax201 160mhz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,280,2,7159,96.1
+Costco,intel(r) dual band wireless-ac 7265,19.51.12.3,Intel(R) Dual Band Wireless-AC 7265 - 19.51.12.3,1105,3,36160,96.9
+Costco,intel(r) dual band wireless-ac 8265,20.70.17.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.17.1,189,1,6084,96.9
+Costco,intel(r) dual band wireless-ac 8265,20.70.3.3,Intel(R) Dual Band Wireless-AC 8265 - 20.70.3.3,111,1,4380,97.5
+Costco,intel(r) dual band wireless-ac 8265,20.50.3.3,Intel(R) Dual Band Wireless-AC 8265 - 20.50.3.3,692,8,38908,98.2

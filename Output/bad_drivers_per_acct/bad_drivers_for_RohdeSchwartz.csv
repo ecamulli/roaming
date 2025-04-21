@@ -1,4 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-RohdeSchwartz,fi,16.0 (1657),Fi - 16.0 (1657),680,1,4187,83.8
-RohdeSchwartz,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,471,3,4289,89.0
+RohdeSchwartz,fi,16.0 (1657),Fi - 16.0 (1657),677,1,3666,81.5
+RohdeSchwartz,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,471,3,3572,86.8
 RohdeSchwartz,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,12,1,277,95.7

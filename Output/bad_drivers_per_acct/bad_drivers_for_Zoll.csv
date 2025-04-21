@@ -1,3 +1,2 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Zoll,intel(r) wi-fi 6 ax200 160mhz,23.110.0.5,Intel(R) Wi-Fi 6 AX200 160MHz - 23.110.0.5,26,1,387,93.3
-Zoll,realtek rtl8852ae wifi 6 802.11ax pcie adapter,6001.10.356.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.0,161,1,11385,98.6
+Zoll,realtek rtl8852ae wifi 6 802.11ax pcie adapter,6001.10.356.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.0,136,1,11383,98.8
