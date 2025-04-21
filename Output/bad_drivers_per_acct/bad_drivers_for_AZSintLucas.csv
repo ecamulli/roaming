@@ -1,8 +1,8 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-AZSintLucas,intel(r) wi-fi 6 ax201 160mhz,22.150.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.0.3,3079,1,13647,77.4
+AZSintLucas,intel(r) wi-fi 6 ax201 160mhz,22.150.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.0.3,3239,1,13650,76.3
 AZSintLucas,intel(r) wi-fi 6 ax201 160mhz,22.80.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.80.1.1,286,1,3488,91.8
-AZSintLucas,intel(r) wi-fi 6e ax211 160mhz,22.170.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 22.170.0.3,1950,4,56336,96.5
-AZSintLucas,intel(r) wi-fi 6 ax201 160mhz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,135,1,4103,96.7
+AZSintLucas,intel(r) wi-fi 6e ax211 160mhz,22.170.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 22.170.0.3,1950,4,56345,96.5
+AZSintLucas,intel(r) wi-fi 6 ax201 160mhz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,135,1,3944,96.6
 AZSintLucas,intel(r) wireless-ac 9560 160mhz,20.110.0.3,Intel(R) Wireless-AC 9560 160MHz - 20.110.0.3,6,1,188,96.8
-AZSintLucas,intel(r) wi-fi 6 ax201 160mhz,22.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3,839,3,43189,98.1
-AZSintLucas,intel(r) dual band wireless-ac 7260,18.33.17.1,Intel(R) Dual Band Wireless-AC 7260 - 18.33.17.1,154,1,14394,98.9
+AZSintLucas,intel(r) wi-fi 6 ax201 160mhz,22.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3,742,3,43190,98.3
+AZSintLucas,intel(r) dual band wireless-ac 7260,18.33.17.1,Intel(R) Dual Band Wireless-AC 7260 - 18.33.17.1,154,1,14397,98.9

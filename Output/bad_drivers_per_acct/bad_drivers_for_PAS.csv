@@ -1,3 +1,3 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-PAS,linux,iwlwifi,iwlwifi,4298,6,52182,91.8
-PAS,intel(r) wi-fi 6e ax211 160mhz,22.250.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.0.4,642,8,18281,96.5
+PAS,linux,iwlwifi,iwlwifi,4203,6,52225,92.0
+PAS,intel(r) wi-fi 6e ax211 160mhz,22.250.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.0.4,642,8,18273,96.5

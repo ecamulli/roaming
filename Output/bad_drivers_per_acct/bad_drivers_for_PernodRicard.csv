@@ -1,4 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-PernodRicard,intel(r) wi-fi 6 ax200 160mhz,22.250.1.2,Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.1.2,20,1,647,96.9
-PernodRicard,intel(r) wi-fi 6 ax201 160mhz,22.200.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.2.1,357,4,15423,97.7
-PernodRicard,intel(r) wireless-ac 9560 160mhz,22.170.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3,43,2,1926,97.8
+PernodRicard,intel(r) wi-fi 6 ax200 160mhz,22.250.1.2,Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.1.2,20,1,580,96.6
+PernodRicard,intel(r) wi-fi 6 ax201 160mhz,22.200.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.2.1,352,4,15244,97.7
+PernodRicard,intel(r) wireless-ac 9560 160mhz,22.170.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3,43,2,1849,97.7

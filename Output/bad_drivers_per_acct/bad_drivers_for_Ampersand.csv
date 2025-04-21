@@ -1,3 +1,3 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Ampersand,intel(r) wi-fi 6 ax200 160mhz,23.60.0.10,Intel(R) Wi-Fi 6 AX200 160MHz - 23.60.0.10,1146,11,34717,96.7
-Ampersand,intel(r) wi-fi 6 ax200 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,37,1,2693,98.6
+Ampersand,intel(r) wi-fi 6 ax200 160mhz,23.60.0.10,Intel(R) Wi-Fi 6 AX200 160MHz - 23.60.0.10,887,11,33778,97.4
+Ampersand,intel(r) wi-fi 6 ax200 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,37,1,2558,98.6

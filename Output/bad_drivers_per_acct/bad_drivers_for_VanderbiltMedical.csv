@@ -1,6 +1,6 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-VanderbiltMedical,qualcomm fastconnect 7800 wi-fi 7 dual band simultaneous (dbs) network adapter,1.0.4166.1200,Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter - 1.0.4166.1200,432,1,2429,82.2
-VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,1074,2,13681,92.1
-VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.60.0.10,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.0.10,7260,11,97598,92.6
-VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,69,2,2553,97.3
-VanderbiltMedical,intel(r) wi-fi 6e ax211 160mhz,22.250.10.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.10.1,77,1,3824,98.0
+VanderbiltMedical,qualcomm fastconnect 7800 wi-fi 7 dual band simultaneous (dbs) network adapter,1.0.4166.1200,Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter - 1.0.4166.1200,453,1,2584,82.5
+VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,1110,2,13948,92.0
+VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.60.0.10,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.0.10,7240,11,97301,92.6
+VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,70,2,2694,97.4
+VanderbiltMedical,intel(r) wi-fi 6e ax211 160mhz,22.250.10.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.10.1,77,1,3665,97.9

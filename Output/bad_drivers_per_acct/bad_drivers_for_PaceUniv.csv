@@ -1,4 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
 PaceUniv,intel(r) wi-fi 6e ax211 160mhz,22.160.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.4,8,1,165,95.2
-PaceUniv,intel(r) wi-fi 6e ax211 160mhz,23.20.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.1.1,627,1,29601,97.9
+PaceUniv,intel(r) wi-fi 6e ax211 160mhz,23.20.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.1.1,517,1,29343,98.2
 PaceUniv,intel(r) wi-fi 6 ax201 160mhz,23.60.0.10,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.0.10,48,1,2977,98.4

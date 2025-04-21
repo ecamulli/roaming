@@ -1,5 +1,5 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Carhartt,intel(r) wi-fi 6 ax200 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,2222,6,17886,87.6
-Carhartt,intel(r) wi-fi 6 ax201 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,103,1,2345,95.6
-Carhartt,intel(r) wi-fi 6 ax201 160mhz,23.110.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5,2247,14,75757,97.0
-Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,300,8,16844,98.2
+Carhartt,intel(r) wi-fi 6 ax200 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,2194,6,17779,87.7
+Carhartt,intel(r) wi-fi 6 ax201 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,103,1,2289,95.5
+Carhartt,intel(r) wi-fi 6 ax201 160mhz,23.110.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5,2259,14,76227,97.0
+Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,294,8,16357,98.2

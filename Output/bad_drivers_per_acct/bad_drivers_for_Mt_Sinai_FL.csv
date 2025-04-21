@@ -1,5 +1,6 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,22.110.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.110.1.1,409,2,21728,98.1
-Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,1654,11,98655,98.3
-Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,22.160.3.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.3.2,689,3,45016,98.5
-Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,132,2,11072,98.8
+Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,1667,11,98493,98.3
+Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,22.110.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.110.1.1,351,2,21819,98.4
+Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,22.160.3.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.3.2,684,3,45021,98.5
+Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,134,2,11228,98.8
+Mt Sinai FL,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,573,8,53290,98.9
