@@ -1,5 +1,8 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-CanadianTire,intel(r) dual band wireless-ac 8265,20.70.27.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.27.1,702,1,13911,95.0
-CanadianTire,intel(r) wi-fi 6 ax200 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.0.7,1340,31,103404,98.7
-CanadianTire,intel(r) dual band wireless-ac 8265,20.70.18.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.18.2,1850,21,156207,98.8
-CanadianTire,intel(r) dual band wireless-ac 8265,20.70.30.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.30.1,1104,25,102172,98.9
+CanadianTire,intel(r) dual band wireless-ac 8265,20.70.27.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.27.1,788,1,13640,94.2
+CanadianTire,intel(r) dual band wireless-ac 8265,20.70.30.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.30.1,2659,25,78976,96.6
+CanadianTire,intel(r) wi-fi 6 ax200 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.0.7,2533,28,113456,97.8
+CanadianTire,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,413,6,23444,98.2
+CanadianTire,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,2788,55,195100,98.6
+CanadianTire,intel(r) wi-fi 6e ax211 160mhz,22.220.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.220.0.4,95,1,6653,98.6
+CanadianTire,intel(r) dual band wireless-ac 8265,20.70.18.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.18.2,1732,21,159111,98.9

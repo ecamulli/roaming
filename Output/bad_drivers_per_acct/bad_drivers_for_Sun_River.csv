@@ -1,5 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Sun River,intel(r) dual band wireless-ac 7265,19.51.48.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.48.1,8,1,265,97.0
-Sun River,intel(r) wi-fi 6e ax211 160mhz,22.250.1.2,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.1.2,141,2,4966,97.2
-Sun River,intel(r) wi-fi 6e ax211 160mhz,23.60.0.10,Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.0.10,239,2,10479,97.7
-Sun River,intel(r) wi-fi 6e ax211 160mhz,23.30.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6,11223,165,910317,98.8
+Sun River,intel(r) wi-fi 6e ax211 160mhz,23.60.0.10,Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.0.10,249,2,8662,97.1
+Sun River,intel(r) dual band wireless-ac 7265,19.51.48.1,Intel(R) Dual Band Wireless-AC 7265 - 19.51.48.1,11,1,479,97.7
+Sun River,intel(r) wi-fi 6e ax211 160mhz,23.30.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6,16143,164,934380,98.3

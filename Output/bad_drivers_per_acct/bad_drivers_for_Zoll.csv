@@ -1,3 +1,2 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Zoll,realtek rtl8852be wifi 6 802.11ax pcie adapter,6001.15.123.330,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.123.330,1,1,56,98.2
-Zoll,realtek rtl8852ae wifi 6 802.11ax pcie adapter,6001.10.356.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.0,209,1,11385,98.2
+Zoll,realtek rtl8852ae wifi 6 802.11ax pcie adapter,6001.10.356.0,Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter - 6001.10.356.0,157,1,10515,98.5

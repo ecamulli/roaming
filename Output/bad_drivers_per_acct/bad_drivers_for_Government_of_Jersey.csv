@@ -1,3 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Government of Jersey,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,659,2,3996,83.5
-Government of Jersey,intel(r) wi-fi 6 ax201 160mhz,22.40.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.40.0.7,62,1,5659,98.9
+Government of Jersey,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,704,2,4338,83.8
+Government of Jersey,intel(r) dual band wireless-ac 8260,20.70.25.2,Intel(R) Dual Band Wireless-AC 8260 - 20.70.25.2,1,1,47,97.9
+Government of Jersey,intel(r) wi-fi 6e ax211 160mhz,23.120.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.120.0.3,235,4,18956,98.8

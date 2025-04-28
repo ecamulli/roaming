@@ -1,6 +1,5 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-FreddieMac,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,11,3,145,92.4
-FreddieMac,intel(r) wi-fi 6 ax201 160mhz,23.20.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1,77,15,5429,98.6
-FreddieMac,intel(r) wireless-ac 9560 160mhz,22.250.0.4,Intel(R) Wireless-AC 9560 160MHz - 22.250.0.4,6,1,467,98.7
-FreddieMac,intel(r) wireless-ac 9560 160mhz,22.250.1.2,Intel(R) Wireless-AC 9560 160MHz - 22.250.1.2,20,2,1541,98.7
-FreddieMac,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,158,18,13635,98.8
+FreddieMac,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,53,3,2277,97.7
+FreddieMac,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,20,3,898,97.8
+FreddieMac,intel(r) wireless-ac 9560 160mhz,22.250.1.2,Intel(R) Wireless-AC 9560 160MHz - 22.250.1.2,28,2,1338,97.9
+FreddieMac,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,164,23,14687,98.9

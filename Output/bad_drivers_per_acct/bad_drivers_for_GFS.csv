@@ -1,3 +1,6 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-GFS,intel(r) wi-fi 6 ax201 160mhz,22.250.10.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.10.1,1805,3,26201,93.1
-GFS,intel(r) wi-fi 6e ax211 160mhz,22.160.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.3,7923,46,270388,97.1
+GFS,intel(r) wi-fi 6e ax211 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,335,1,2400,86.0
+GFS,intel(r) wi-fi 6 ax201 160mhz,22.250.10.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.10.1,1893,3,27816,93.2
+GFS,intel(r) wi-fi 6e ax211 160mhz,22.160.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.3,4832,45,296577,98.4
+GFS,intel(r) wi-fi 6 ax201 160mhz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,840,12,57141,98.5
+GFS,intel(r) wi-fi 6 ax201 160mhz,22.110.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.110.1.1,6619,64,478528,98.6

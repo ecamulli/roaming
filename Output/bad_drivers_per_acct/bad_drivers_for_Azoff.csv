@@ -1,2 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Azoff,killer(r) wi-fi 6 ax1650s 160mhz wireless network adapter (201d2w),23.90.0.2,Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.90.0.2,5411,9,45040,88.0
+Azoff,killer(r) wi-fi 6 ax1650s 160mhz wireless network adapter (201d2w),23.90.0.2,Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 23.90.0.2,1247,9,36024,96.5
+Azoff,intel(r) wi-fi 6e ax211 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,9,1,394,97.7
+Azoff,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,578,22,54342,98.9

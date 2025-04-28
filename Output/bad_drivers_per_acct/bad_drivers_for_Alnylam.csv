@@ -1,18 +1,16 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.160.3.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.3.2,125,3,1002,87.5
-Alnylam,intel(r) wi-fi 6e ax211 160mhz,22.150.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.1.1,32,1,352,90.9
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3,782,8,9564,91.8
-Alnylam,intel(r) wireless-ac 9560 160mhz,23.40.1.1,Intel(R) Wireless-AC 9560 160MHz - 23.40.1.1,19,1,358,94.7
-Alnylam,intel(r) dual band wireless-ac 8265,20.70.26.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.26.2,2,1,87,97.7
-Alnylam,intel(r) wi-fi 6e ax211 160mhz,23.10.0.8,Intel(R) Wi-Fi 6E AX211 160MHz - 23.10.0.8,75,1,3655,97.9
-Alnylam,intel(r) wireless-ac 9560 160mhz,22.80.0.9,Intel(R) Wireless-AC 9560 160MHz - 22.80.0.9,21,1,1183,98.2
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.170.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.0.3,48,9,2644,98.2
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.130.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 22.130.0.5,8,1,508,98.4
-Alnylam,intel(r) wi-fi 6e ax211 160mhz,22.240.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 22.240.0.6,23,3,1470,98.4
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,23.40.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.1.1,26,3,1583,98.4
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.190.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.190.0.4,392,39,27889,98.6
-Alnylam,intel(r) dual band wireless-ac 8265,20.70.21.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.21.2,7,2,550,98.7
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,169,16,13282,98.7
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,1395,152,113314,98.8
-Alnylam,intel(r) wireless-ac 9560 160mhz,22.10.0.7,Intel(R) Wireless-AC 9560 160MHz - 22.10.0.7,9,1,775,98.8
-Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.60.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.60.0.6,19,5,1659,98.9
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.160.3.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.3.2,188,2,876,78.5
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.120.0.3,654,8,5211,87.4
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.0.1.5,Intel(R) Wi-Fi 6 AX201 160MHz - 22.0.1.5,2,1,20,90.0
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.130.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 22.130.0.5,73,2,915,92.0
+Alnylam,intel(r) wi-fi 6e ax211 160mhz,22.150.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.1.1,14,1,504,97.2
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,2482,142,118306,97.9
+Alnylam,intel(r) wireless-ac 9560 160mhz,23.40.1.1,Intel(R) Wireless-AC 9560 160MHz - 23.40.1.1,10,1,570,98.2
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.140.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.140.0.3,157,6,9558,98.4
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,142,13,9586,98.5
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,23.110.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5,564,68,39408,98.6
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,371,32,29446,98.7
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.190.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.190.0.4,268,31,22410,98.8
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.60.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.60.0.6,21,5,1819,98.8
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,22.80.0.9,Intel(R) Wi-Fi 6 AX201 160MHz - 22.80.0.9,12,1,1097,98.9
+Alnylam,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,68,7,6019,98.9

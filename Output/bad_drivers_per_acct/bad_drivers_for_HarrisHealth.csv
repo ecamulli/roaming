@@ -1,2 +1,3 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-HarrisHealth,intel(r) wi-fi 6 ax201 160mhz,21.90.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 21.90.2.1,601,6,55976,98.9
+HarrisHealth,intel(r) wi-fi 6 ax200 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,2,1,6,66.7
+HarrisHealth,intel(r) dual band wireless-ac 8265,20.70.32.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1,1,1,59,98.3

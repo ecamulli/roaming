@@ -1,3 +1,2 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Gannett,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,2868,3,24486,88.3
-Gannett,mediatek mt7921 wi-fi 6 802.11ax pcie adapter,3.0.1.1297,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1297,206,1,11752,98.2
+Gannett,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,662,3,26316,97.5
