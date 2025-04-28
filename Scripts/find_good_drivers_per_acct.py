@@ -39,7 +39,7 @@ for filename in os.listdir(account_history_dir):
         bad_adapters = bad_df['adapter'].unique()
 
         matched_df = merged_df[merged_df['adapter'].isin(bad_adapters)]
-        good_df = matched_df[matched_df[roam_col] > 99.8]
+        good_df = matched_df[matched_df[roam_col] > 99.5]
 
         output_file = os.path.join(output_dir, f"{account_name}_driver_summary.xlsx")
 
