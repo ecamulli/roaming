@@ -1,6 +1,7 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Ryder,netgear a6100 wifi adapter,1030.25.701.2017,NETGEAR A6100 WiFi Adapter - 1030.25.701.2017,7505,7,100761,92.6
-Ryder,intel(r) wi-fi 6 ax200 160mhz,22.60.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.60.0.6,530,2,8273,93.6
-Ryder,intel(r) wi-fi 6 ax201 160mhz,22.150.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.0.3,5139,14,133302,96.1
-Ryder,intel(r) wi-fi 6e ax210 160mhz,22.130.0.5,Intel(R) Wi-Fi 6E AX210 160MHz - 22.130.0.5,190,1,14329,98.7
-Ryder,intel(r) wi-fi 6 ax201 160mhz,22.10.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.10.0.7,123,1,10171,98.8
+Ryder,intel(r) wi-fi 6 ax200 160mhz,22.60.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.60.0.6,871,2,8569,89.8
+Ryder,netgear a6100 wifi adapter,1030.25.701.2017,NETGEAR A6100 WiFi Adapter - 1030.25.701.2017,8191,7,100756,91.9
+Ryder,intel(r) wi-fi 6 ax201 160mhz,22.150.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.0.3,5137,14,137474,96.3
+Ryder,intel(r) wi-fi 6e ax210 160mhz,22.130.0.5,Intel(R) Wi-Fi 6E AX210 160MHz - 22.130.0.5,440,1,14328,96.9
+Ryder,intel(r) wi-fi 6 ax201 160mhz,22.250.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.1.2,1128,16,84307,98.7
+Ryder,intel(r) wi-fi 6 ax201 160mhz,22.10.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.10.0.7,123,1,10985,98.9

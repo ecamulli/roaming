@@ -1,8 +1,8 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-VanderbiltMedical,qualcomm fastconnect 7800 wi-fi 7 dual band simultaneous (dbs) network adapter,1.0.4166.1200,Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter - 1.0.4166.1200,861,1,3924,78.1
-VanderbiltMedical,killer wi-fi 6 ax500-dbs wireless network adapter,1.0.0.1769,Killer Wi-Fi 6 AX500-DBS Wireless Network Adapter - 1.0.0.1769,1084,3,13200,91.8
-VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,772,5,19392,96.0
-VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.60.0.10,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.0.10,3382,11,93653,96.4
-VanderbiltMedical,netgear a8000 wifi 6 & 6e adapter,1.0.0.108,NETGEAR A8000 WiFi 6 & 6E Adapter - 1.0.0.108,86,1,3559,97.6
-VanderbiltMedical,intel(r) wi-fi 6e ax211 160mhz,22.250.10.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.10.1,36,1,1739,97.9
-VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,37,2,2905,98.7
+VanderbiltMedical,qualcomm fastconnect 7800 wi-fi 7 dual band simultaneous (dbs) network adapter,1.0.4166.1200,Qualcomm FastConnect 7800 Wi-Fi 7 Dual Band Simultaneous (DBS) Network Adapter - 1.0.4166.1200,664,1,3984,83.3
+VanderbiltMedical,killer wi-fi 6 ax500-dbs wireless network adapter,1.0.0.1769,Killer Wi-Fi 6 AX500-DBS Wireless Network Adapter - 1.0.0.1769,1086,3,13249,91.8
+VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,206,2,4228,95.1
+VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,1100,6,22702,95.2
+VanderbiltMedical,intel(r) wi-fi 6 ax201 160mhz,23.60.0.10,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.0.10,2749,11,91411,97.0
+VanderbiltMedical,intel(r) wi-fi 6e ax211 160mhz,22.250.10.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.10.1,28,1,1282,97.8
+VanderbiltMedical,netgear a8000 wifi 6 & 6e adapter,1.0.0.108,NETGEAR A8000 WiFi 6 & 6E Adapter - 1.0.0.108,90,1,5150,98.3

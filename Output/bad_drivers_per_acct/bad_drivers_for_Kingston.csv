@@ -1,6 +1,7 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Kingston,realtek rtl8852be wifi 6 802.11ax pcie adapter,6001.15.155.1,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.155.1,30666,21,239155,87.2
-Kingston,realtek rtl8852be wifi 6 802.11ax pcie adapter,6001.15.156.200,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.156.200,689,1,6676,89.7
-Kingston,intel(r) dual band wireless-ac 8265,20.70.12.5,Intel(R) Dual Band Wireless-AC 8265 - 20.70.12.5,323,1,14393,97.8
-Kingston,realtek 8821ce wireless lan 802.11ac pci-e nic,2024.10.139.3,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.3,329,4,22643,98.5
-Kingston,intel(r) wi-fi 6 ax200 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.240.0.6,39,1,3031,98.7
+Kingston,realtek rtl8852be wifi 6 802.11ax pcie adapter,6001.15.155.1,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.155.1,30712,22,241189,87.3
+Kingston,realtek rtl8852be wifi 6 802.11ax pcie adapter,6001.15.156.200,Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter - 6001.15.156.200,692,1,7386,90.6
+Kingston,intel(r) dual band wireless-ac 8265,20.70.12.5,Intel(R) Dual Band Wireless-AC 8265 - 20.70.12.5,417,1,14395,97.1
+Kingston,realtek 8821ce wireless lan 802.11ac pci-e nic,2024.10.139.3,Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC - 2024.10.139.3,328,4,22895,98.6
+Kingston,intel(r) wi-fi 6 ax201 160mhz,22.250.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 22.250.1.2,172,1,13181,98.7
+Kingston,intel(r) wi-fi 6 ax200 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.240.0.6,39,1,3357,98.8
