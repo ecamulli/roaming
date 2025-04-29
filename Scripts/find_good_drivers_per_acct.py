@@ -151,7 +151,7 @@ for filename in os.listdir(account_history_dir):
         # === FORMAT GOOD DRIVERS SECTION ===
         start_row = None
         for i, row in enumerate(ws.iter_rows(min_row=1, max_col=10), start=1):
-            if row[0].value == "Good Drivers (Roaming > 99.8%)":
+            if row[0].value == "Good Drivers (Roaming > 99.5%)":
                 start_row = i + 1
                 break
 
