@@ -1,19 +1,16 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Melaleuca,intel(r) wi-fi 6 ax200 160mhz,22.230.0.8,Intel(R) Wi-Fi 6 AX200 160MHz - 22.230.0.8,14,1,249,94.4
-Melaleuca,intel(r) wi-fi 6 ax200 160mhz,22.70.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.70.0.6,78,1,1564,95.0
-Melaleuca,intel(r) wireless-ac 9260 160mhz,23.60.1.2,Intel(R) Wireless-AC 9260 160MHz - 23.60.1.2,2,1,48,95.8
-Melaleuca,intel(r) wi-fi 6 ax201 160mhz,23.20.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1,2,1,50,96.0
-Melaleuca,intel(r) wireless-ac 9560 160mhz,23.70.2.3,Intel(R) Wireless-AC 9560 160MHz - 23.70.2.3,4,1,105,96.2
-Melaleuca,intel(r) wi-fi 6e ax211 160mhz,23.70.2.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.70.2.3,9,1,272,96.7
-Melaleuca,intel(r) wi-fi 6 ax200 160mhz,22.200.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.200.0.6,5,1,158,96.8
-Melaleuca,intel(r) dual band wireless-ac 8265,20.70.26.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.26.2,230,4,11242,98.0
-Melaleuca,mediatek mt7921 wi-fi 6 802.11ax pcie adapter,3.0.1.1255,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1255,29,4,1479,98.0
-Melaleuca,mediatek mt7921 wi-fi 6 802.11ax pcie adapter,3.0.1.1327,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1327,128,6,6631,98.1
-Melaleuca,intel(r) wi-fi 6e ax211 160mhz,23.20.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.1.1,142,9,7722,98.2
-Melaleuca,qualcomm fastconnect 6900 wi-fi 6e dual band simultaneous (dbs) wificx network adapter,2.0.0.1229,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1229,11,1,605,98.2
-Melaleuca,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,175,5,10336,98.3
-Melaleuca,intel(r) wi-fi 6e ax211 160mhz,23.60.1.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.1.2,110,20,7867,98.6
-Melaleuca,intel(r) wi-fi 6 ax201 160mhz,22.190.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.190.0.4,5,2,387,98.7
-Melaleuca,intel(r) wi-fi 6 ax201 160mhz,23.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.120.0.3,1,1,82,98.8
-Melaleuca,mediatek mt7921 wi-fi 6 802.11ax pcie adapter,3.3.0.426,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.3.0.426,1,2,94,98.9
-Melaleuca,intel(r) wi-fi 6 ax200 160mhz,22.170.0.3,Intel(R) Wi-Fi 6 AX200 160MHz - 22.170.0.3,260,13,23942,98.9
+Melaleuca,intel(r) wi-fi 6 ax200 160mhz,22.70.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.70.0.6,44,1,510,91.4
+Melaleuca,intel(r) wireless-ac 9560 160mhz,23.120.0.3,Intel(R) Wireless-AC 9560 160MHz - 23.120.0.3,8,2,107,92.5
+Melaleuca,mediatek mt7921 wi-fi 6 802.11ax pcie adapter,3.0.1.1303,MediaTek MT7921 Wi-Fi 6 802.11ax PCIe Adapter - 3.0.1.1303,137,2,3344,95.9
+Melaleuca,intel(r) wi-fi 6 ax200 160mhz,22.200.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.200.0.6,3,1,78,96.2
+Melaleuca,intel(r) wireless-ac 9260 160mhz,22.140.0.3,Intel(R) Wireless-AC 9260 160MHz - 22.140.0.3,2,1,59,96.6
+Melaleuca,intel(r) wi-fi 6e ax211 160mhz,22.200.2.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.200.2.1,1,2,37,97.3
+Melaleuca,qualcomm fastconnect 6900 wi-fi 6e dual band simultaneous (dbs) wificx network adapter,2.0.0.1229,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1229,14,1,571,97.5
+Melaleuca,intel(r) wi-fi 6 ax200 160mhz,22.250.1.2,Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.1.2,3,2,120,97.5
+Melaleuca,intel(r) dual band wireless-ac 8265,20.70.26.2,Intel(R) Dual Band Wireless-AC 8265 - 20.70.26.2,230,4,10496,97.8
+Melaleuca,intel(r) wi-fi 6e ax211 160mhz,23.70.2.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.70.2.3,2,1,121,98.3
+Melaleuca,intel(r) wi-fi 6e ax211 160mhz,23.60.1.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.60.1.2,81,19,5092,98.4
+Melaleuca,intel(r) wi-fi 6e ax211 160mhz,22.240.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 22.240.0.6,1,1,67,98.5
+Melaleuca,intel(r) wi-fi 6 ax201 160mhz,22.230.0.8,Intel(R) Wi-Fi 6 AX201 160MHz - 22.230.0.8,2,2,160,98.8
+Melaleuca,mediatek wi-fi 6 mt7921 wireless lan card,3.3.3.854,MediaTek Wi-Fi 6 MT7921 Wireless LAN Card - 3.3.3.854,38,2,3317,98.9
+Melaleuca,intel(r) wi-fi 6e ax211 160mhz,23.120.0.3,Intel(R) Wi-Fi 6E AX211 160MHz - 23.120.0.3,9,5,819,98.9

@@ -1,9 +1,9 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-AMD,intel(r) dual band wireless-ac 7260,17.15.0.5,Intel(R) Dual Band Wireless-AC 7260 - 17.15.0.5,72,1,1024,93.0
-AMD,intel(r) wi-fi 6 ax200 160mhz,21.60.0.5,Intel(R) Wi-Fi 6 AX200 160MHz - 21.60.0.5,6605,77,97098,93.2
-AMD,intel(r) dual band wireless-ac 8260,20.70.18.2,Intel(R) Dual Band Wireless-AC 8260 - 20.70.18.2,1318,5,67218,98.0
-AMD,intel(r) wi-fi 6 ax201 160mhz,22.160.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.3,7,1,342,98.0
-AMD,intel(r) wi-fi 6 ax201 160mhz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,7,1,360,98.1
-AMD,intel(r) wi-fi 6 ax200 160mhz,22.80.1.1,Intel(R) Wi-Fi 6 AX200 160MHz - 22.80.1.1,10,1,613,98.4
-AMD,intel(r) wi-fi 6e ax211 160mhz,22.220.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.220.1.1,7117,41,485865,98.5
-AMD,intel(r) wi-fi 6 ax200 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,4,2,349,98.9
+AMD,intel(r) dual band wireless-ac 7260,17.15.0.5,Intel(R) Dual Band Wireless-AC 7260 - 17.15.0.5,600,1,9769,93.9
+AMD,intel(r) dual band wireless-ac 8260,20.70.18.2,Intel(R) Dual Band Wireless-AC 8260 - 20.70.18.2,1902,5,69492,97.3
+AMD,intel(r) wi-fi 6 ax201 160mhz,22.160.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.3,5,1,218,97.7
+AMD,intel(r) wi-fi 6 ax200 160mhz,22.70.0.6,Intel(R) Wi-Fi 6 AX200 160MHz - 22.70.0.6,11,2,499,97.8
+AMD,intel(r) wi-fi 6 ax201 160mhz,22.100.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.100.0.3,3,1,159,98.1
+AMD,intel(r) wi-fi 6e ax211 160mhz,22.220.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.220.1.1,7003,41,478610,98.5
+AMD,intel(r) wi-fi 6 ax200 160mhz,22.80.1.1,Intel(R) Wi-Fi 6 AX200 160MHz - 22.80.1.1,7,2,604,98.8
+AMD,intel(r) wi-fi 6 ax200 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX200 160MHz - 23.40.0.4,1,2,87,98.9

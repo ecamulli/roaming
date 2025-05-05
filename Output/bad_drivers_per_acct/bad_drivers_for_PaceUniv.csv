@@ -1,7 +1,9 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-PaceUniv,intel(r) wi-fi 6e ax211 160mhz,22.160.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.4,7,1,114,93.9
-PaceUniv,intel(r) wi-fi 6 ax201 160mhz,22.130.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 22.130.0.5,2749,1,64790,95.8
-PaceUniv,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,1256,1,66221,98.1
-PaceUniv,intel(r) wi-fi 6 ax201 160mhz,22.170.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.2.1,487,1,27173,98.2
-PaceUniv,qualcomm qca61x4a 802.11ac wireless adapter,12.0.0.1118,Qualcomm QCA61x4A 802.11ac Wireless Adapter - 12.0.0.1118,893,2,69561,98.7
-PaceUniv,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,1372,1,103694,98.7
+PaceUniv,intel(r) wi-fi 6e ax211 160mhz,22.160.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.160.0.4,7,1,281,97.5
+PaceUniv,intel(r) wi-fi 6 ax201 160mhz,22.160.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.3,169,1,8206,97.9
+PaceUniv,intel(r) wi-fi 6 ax201 160mhz,22.170.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.170.2.1,470,1,22194,97.9
+PaceUniv,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,403,1,21446,98.1
+PaceUniv,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,1598,1,83569,98.1
+PaceUniv,intel(r) wireless-ac 9560 160mhz,22.130.0.5,Intel(R) Wireless-AC 9560 160MHz - 22.130.0.5,21,1,1624,98.7
+PaceUniv,intel(r) wi-fi 6 ax201 160mhz,22.150.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.150.2.1,12,1,975,98.8
+PaceUniv,intel(r) wi-fi 6 ax201 160mhz,23.90.0.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.90.0.2,736,2,59061,98.8

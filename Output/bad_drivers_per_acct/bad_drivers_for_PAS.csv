@@ -1,3 +1,2 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-PAS,intel(r) wi-fi 7 be200 320mhz,23.30.0.6,Intel(R) Wi-Fi 7 BE200 320MHz - 23.30.0.6,1,1,42,97.6
-PAS,linux,iwlwifi,iwlwifi,902,7,38645,97.7
+PAS,intel(r) wi-fi 6 ax201 160mhz,22.200.2.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.200.2.1,571,8,21373,97.3

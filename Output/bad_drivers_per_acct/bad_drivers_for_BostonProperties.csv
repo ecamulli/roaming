@@ -1,11 +1,11 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-BostonProperties,intel(r) dual band wireless-ac 8265,20.70.30.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.30.1,5,2,118,95.8
-BostonProperties,intel(r) wi-fi 6e ax210 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX210 160MHz - 23.80.0.7,14,2,375,96.3
-BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.20.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.20.0.6,5,1,142,96.5
-BostonProperties,intel(r) wi-fi 6e ax211 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,3,3,98,96.9
-BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.230.0.8,Intel(R) Wi-Fi 6 AX201 160MHz - 22.230.0.8,23,7,829,97.2
-BostonProperties,intel(r) wi-fi 6 ax201 160mhz,23.80.1.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.1.3,17,1,754,97.7
-BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.160.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.3,56,2,2837,98.0
-BostonProperties,intel(r) wi-fi 6e ax211 160mhz,22.250.1.2,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.1.2,105,3,6244,98.3
-BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.30.0.11,Intel(R) Wi-Fi 6 AX201 160MHz - 22.30.0.11,5,1,309,98.4
-BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.40.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.40.0.7,176,9,16433,98.9
+BostonProperties,intel(r) wi-fi 6e ax210 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX210 160MHz - 23.80.0.7,9,2,89,89.9
+BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.20.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.20.0.6,5,1,132,96.2
+BostonProperties,intel(r) wi-fi 6 ax201 160mhz,23.80.1.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.1.3,9,1,396,97.7
+BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.230.0.8,Intel(R) Wi-Fi 6 AX201 160MHz - 22.230.0.8,47,8,2148,97.8
+BostonProperties,intel(r) wi-fi 6e ax211 160mhz,23.110.0.5,Intel(R) Wi-Fi 6E AX211 160MHz - 23.110.0.5,41,3,2124,98.1
+BostonProperties,intel(r) dual band wireless-ac 8265,20.70.30.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.30.1,9,2,467,98.1
+BostonProperties,intel(r) wi-fi 6e ax210 160mhz,23.30.0.6,Intel(R) Wi-Fi 6E AX210 160MHz - 23.30.0.6,3,1,160,98.1
+BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.160.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.3,39,2,2537,98.5
+BostonProperties,intel(r) wi-fi 6e ax211 160mhz,22.250.1.2,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.1.2,84,3,6647,98.7
+BostonProperties,intel(r) wi-fi 6 ax201 160mhz,22.45.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 22.45.1.1,13,1,1076,98.8

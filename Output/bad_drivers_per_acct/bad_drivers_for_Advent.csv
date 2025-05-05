@@ -1,3 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Advent,intel(r) wi-fi 6 ax200 160mhz,22.250.1.2,Intel(R) Wi-Fi 6 AX200 160MHz - 22.250.1.2,249,1,14394,98.3
-Advent,intel(r) wireless-ac 9260 160mhz,23.40.0.4,Intel(R) Wireless-AC 9260 160MHz - 23.40.0.4,200,1,14207,98.6
+Advent,intel(r) wireless-ac 9560 160mhz,22.170.0.3,Intel(R) Wireless-AC 9560 160MHz - 22.170.0.3,213,1,13712,98.4
+Advent,intel(r) wireless-ac 9260 160mhz,23.40.0.4,Intel(R) Wireless-AC 9260 160MHz - 23.40.0.4,190,1,13257,98.6
+Advent,intel(r) wi-fi 6 ax200 160mhz,23.120.0.3,Intel(R) Wi-Fi 6 AX200 160MHz - 23.120.0.3,47,1,3534,98.7

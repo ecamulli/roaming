@@ -1,3 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Banco,intel(r) dual band wireless-ac 8265,20.70.32.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1,846,1,10806,92.2
-Banco,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,2737,91,128268,97.9
+Banco,intel(r) dual band wireless-ac 8265,20.70.32.1,Intel(R) Dual Band Wireless-AC 8265 - 20.70.32.1,1612,1,14214,88.7
+Banco,intel(r) wi-fi 6 ax201 160mhz,23.40.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 23.40.0.4,2323,27,54258,95.7
+Banco,intel(r) wi-fi 6 ax201 160mhz,23.120.0.3,Intel(R) Wi-Fi 6 AX201 160MHz - 23.120.0.3,3250,100,284387,98.9

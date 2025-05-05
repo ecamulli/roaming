@@ -1,3 +1,2 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-TransRe,intel(r) wi-fi 6 ax201 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 23.80.0.7,18021,84,870890,97.9
-TransRe,intel(r) wi-fi 6 ax201 160mhz,23.110.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5,561,6,34770,98.4
+TransRe,intel(r) wi-fi 6e ax211 160mhz,23.20.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.20.1.1,284,1,18326,98.5

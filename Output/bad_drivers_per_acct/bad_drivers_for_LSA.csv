@@ -1,6 +1,7 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-LSA,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,1939,7,6702,71.1
-LSA,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,4469,13,56749,92.1
-LSA,killer(r) wi-fi 6 ax1650s 160mhz wireless network adapter (201d2w),22.250.0.4,Killer(R) Wi-Fi 6 AX1650s 160MHz Wireless Network Adapter (201D2W) - 22.250.0.4,8,1,283,97.2
-LSA,intel(r) wi-fi 6 ax201 160mhz,23.20.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1,486,4,19744,97.5
-LSA,intel(r) wi-fi 6e ax211 160mhz,23.30.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6,11,4,990,98.9
+LSA,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,2653,7,8221,67.7
+LSA,intel(r) wi-fi 6 ax201 160mhz,22.190.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.190.0.4,1,1,8,87.5
+LSA,intel(r) wi-fi 6 ax201 160mhz,23.60.1.2,Intel(R) Wi-Fi 6 AX201 160MHz - 23.60.1.2,3730,9,58374,93.6
+LSA,intel(r) wi-fi 6 ax201 160mhz,23.20.1.1,Intel(R) Wi-Fi 6 AX201 160MHz - 23.20.1.1,486,4,12854,96.2
+LSA,intel(r) wi-fi 6e ax211 160mhz,22.250.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 22.250.0.4,2,1,66,97.0
+LSA,intel(r) wi-fi 6e ax211 160mhz,22.200.2.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.200.2.1,189,5,7722,97.6

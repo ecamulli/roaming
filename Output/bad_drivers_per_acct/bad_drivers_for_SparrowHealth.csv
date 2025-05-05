@@ -1,3 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-SparrowHealth,intel(r) wi-fi 6 ax201 160mhz,22.160.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.4,7985,1,13927,42.7
-SparrowHealth,linux,iwlwifi,iwlwifi,6358,10,120376,94.7
+SparrowHealth,intel(r) wi-fi 6 ax201 160mhz,22.160.0.4,Intel(R) Wi-Fi 6 AX201 160MHz - 22.160.0.4,4161,1,14305,70.9
+SparrowHealth,linux,iwlwifi,iwlwifi,5413,10,126661,95.7
+SparrowHealth,intel(r) wi-fi 7 be200 320mhz,23.30.0.6,Intel(R) Wi-Fi 7 BE200 320MHz - 23.30.0.6,4,1,148,97.3

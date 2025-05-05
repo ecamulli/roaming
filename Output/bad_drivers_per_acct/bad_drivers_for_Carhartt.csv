@@ -1,6 +1,9 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,375,9,15772,97.6
-Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.40.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.1.1,172,1,7390,97.7
-Carhartt,intel(r) wi-fi 6 ax201 160mhz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,553,9,28277,98.0
-Carhartt,qualcomm fastconnect 6900 wi-fi 6e dual band simultaneous (dbs) wificx network adapter,2.0.0.1193,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1193,1456,15,75367,98.1
-Carhartt,intel(r) wi-fi 6 ax201 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,84,1,4635,98.2
+Carhartt,qualcomm fastconnect 6900 wi-fi 6e dual band simultaneous (dbs) wificx network adapter,2.0.0.1193,Qualcomm FastConnect 6900 Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter - 2.0.0.1193,4493,14,66246,93.2
+Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.30.0.6,Intel(R) Wi-Fi 6E AX211 160MHz - 23.30.0.6,1442,3,41055,96.5
+Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.40.1.1,Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.1.1,164,1,8314,98.0
+Carhartt,intel(r) wi-fi 6 ax201 160mhz,23.110.0.5,Intel(R) Wi-Fi 6 AX201 160MHz - 23.110.0.5,2112,15,107121,98.0
+Carhartt,intel(r) wi-fi 6 ax201 160mhz,22.240.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 22.240.0.6,68,1,4119,98.3
+Carhartt,intel(r) wi-fi 6 ax201 160mhz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,442,8,27975,98.4
+Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX211 160MHz - 23.80.0.7,248,8,17235,98.6
+Carhartt,intel(r) wi-fi 6e ax211 160mhz,23.40.0.4,Intel(R) Wi-Fi 6E AX211 160MHz - 23.40.0.4,39,2,3274,98.8

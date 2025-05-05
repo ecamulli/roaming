@@ -1,2 +1,4 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-Nike,intel(r) wi-fi 6 ax201 160mhz,22.40.0.7,Intel(R) Wi-Fi 6 AX201 160MHz - 22.40.0.7,6,1,375,98.4
+Nike,intel(r) wi-fi 6e ax211 160mhz,22.150.3.1,Intel(R) Wi-Fi 6E AX211 160MHz - 22.150.3.1,1,1,23,95.7
+Nike,intel(r) wi-fi 6 ax200 160mhz,23.80.0.7,Intel(R) Wi-Fi 6 AX200 160MHz - 23.80.0.7,10,1,439,97.7
+Nike,fi,16.0 (1657),Fi - 16.0 (1657),230,16,19186,98.8

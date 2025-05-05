@@ -1,2 +1,3 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-IBM-Global,intel(r) wi-fi 6e ax211 160mhz,23.110.0.5,Intel(R) Wi-Fi 6E AX211 160MHz - 23.110.0.5,118,4,10752,98.9
+IBM-Global,intel(r) wi-fi 6e ax210 160mhz,23.80.0.7,Intel(R) Wi-Fi 6E AX210 160MHz - 23.80.0.7,58,2,3599,98.4
+IBM-Global,intel(r) wi-fi 6e ax211 160mhz,23.110.0.5,Intel(R) Wi-Fi 6E AX211 160MHz - 23.110.0.5,45,2,3801,98.8

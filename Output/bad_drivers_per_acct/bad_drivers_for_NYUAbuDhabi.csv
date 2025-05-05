@@ -1,4 +1,2 @@
 Account Name,Adapter,Driver,Adapter-Driver,Critical Minutes,Client Count,Total Minutes,Good Roaming Calculation (%)
-NYUAbuDhabi,intel(r) wi-fi 6 ax201 160mhz,23.30.0.6,Intel(R) Wi-Fi 6 AX201 160MHz - 23.30.0.6,34,1,668,94.9
-NYUAbuDhabi,fi,16.0 (1657),Fi - 16.0 (1657),106,1,5423,98.0
-NYUAbuDhabi,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,26,1,1592,98.4
+NYUAbuDhabi,intel(r) wi-fi 6e ax211 160mhz,23.90.0.2,Intel(R) Wi-Fi 6E AX211 160MHz - 23.90.0.2,7,1,604,98.8
